@@ -2,11 +2,13 @@ let meals = [];
 let selectedCuisine = [];
 let selectedEffort = "any";
 let selectedBudget = "any";
+let selectedDiet = "any";
 
 // DOM elements
 const cuisineButtons = document.querySelectorAll("[data-cuisine]");
 const effortButtons = document.querySelectorAll("[data-effort]");
 const budgetButtons = document.querySelectorAll("[data-budget]");
+const dietButtons = document.querySelectorAll("[data-diet]");
 const decideButton = document.querySelector("#decideButton");
 const mealName = document.querySelector("#mealName");
 const mealTime = document.querySelector("#mealTime");
@@ -92,6 +94,20 @@ budgetButtons.forEach(button => {
     });
 });
 
+// Diet buttons
+dietButtons.forEach(button => {
+    button.addEventListener("click", () => {
+        const diet = button.dataset.diet;
+        if (selectedDiet === diet && diet !== "any") {
+            selectedDiet = "any";
+            updateSelectedButton(dietButtons, null);
+        } else {
+            selectedDiet = diet;
+            updateSelectedButton(dietButtons, button);
+        }
+    });
+});
+
 function updateSelectedButton(buttons, selectedButton) {
     buttons.forEach(button => {
         button.classList.remove("selected");
@@ -108,8 +124,9 @@ function getMatchingMeals() {
         const cuisineMatches = selectedCuisine.length === 0 || selectedCuisine.every(cuisine => meal.cuisine.includes(cuisine));
         const effortMatches = selectedEffort === "any" || meal.effort === selectedEffort;
         const budgetMatches = selectedBudget === "any" || meal.budget === selectedBudget;
-
-        return (cuisineMatches && effortMatches && budgetMatches);
+        const dietMatches = selectedDiet === "any" || (meal.dietary_restrictions && meal.dietary_restrictions.includes(selectedDiet));
+        
+        return (cuisineMatches && effortMatches && budgetMatches && dietMatches);
     });
 }
 

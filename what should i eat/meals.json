@@ -1,411 +1,673 @@
 [
-    {
-        "name": "Shrimp Al Burro with Broccoli",
-        "cuisine": [
-            "italian",
-            "healthy"
-        ],
-        "effort": "easy",
-        "budget": "moderate",
-        "protien": "shrimp",
-        "time": 20,
-        "ingredients": [
-            "shrimp",
-            "butter",
-            "parmesean",
-            "garlic",
-            "broccoli",
-            "pasta water",
-            "salt",
-            "black pepper",
-            "lemon"
-        ]
-    },
-    {
-        "name": "Molly's Shrimp Scampi",
-        "cuisine": [
-            "italian",
-            "healthy"
-        ],
-        "effort": "easy",
-        "budget": "moderate",
-        "protien": "shrimp",
-        "ingredients": [
-            "shrimp"
-        ]
-    },
-   {
-        "name": "Spaghetti Puttanesca",
-        "cuisine": [
-            "italian",
-            "healthy"
-        ],
-        "effort": "easy",
-        "budget": "cheap",
-        "protien": "anchovy",
-        "time": 20,
-        "ingredients": [
-            "olive oil",
-            "garlic",
-            "anchovy fillets",
-            "red pepper flakes",
-            "capers",
-            "black olives",
-            "tomatoes",
-            "salt",
-            "spaghetti",
-            "parmesean",
-            "black pepper"
-        ]
-    },
-    {
-        "name": "Fish Piccata",
-        "cuisine": [
-            "italian",
-            "healthy"
-        ],
-        "effort": "medium",
-        "budget": "moderate",
-        "protien": "white fish",
-        "time": 20,
-        "ingredients": [
-            "olive oil",
-            "all purpose flour",
-            "white fish fillets",
-            "black pepper",
-            "white wine",
-            "capers",
-            "unsalted butter",
-            "lemon",
-            "parsley"
-        ]
-    },
-
-    {
-        "name": "Har Gow",
-        "cuisine": [
-            "chinese",
-            "healthy"
-        ],
-        "effort": "hard",
-        "budget": "moderate",
-        "protien": "shrimp",
-        "time": 80,
-        "ingredients": [
-            "shrimp",
-            "oyster sauce",
-            "vegetable oil",
-            "white pepper",
-            "sesame oil",
-            "salt",
-            "sugar",
-            "bamboo shoots",
-            "wheat starch",
-            "cornstarch",
-            "boiling water"
-        ]
-    },
-    {
-        "name": "crab rangoons",
-        "cuisine": [
-            "chinese",
-            "american",
-            "junk"
-        ],
-        "effort": "medium",
-        "budget": "cheap",
-        "protien": "immitation crab",
-        "time": 60,
-        "ingredients": [
-            "cream cheese",
-            "immitation crab",
-            "scallions",
-            "wonton wrappers",
-            "salt",
-            "onion powder"
-        ]
-    },
-
-    {
-        "name": "Ceaser Salad Wrap",
-        "cuisine": [
-            "american",
-            "junk"
-        ],
-        "effort": "easy",
-        "budget": "cheap",
-        "protien": "vegetarian chicken",
-        "time": 10,
-        "ingredients":[
-            "tortilla",
-            "ceaser dressing",
-            "parmesean",
-            "black pepper",
-            "italian blend seasoning",
-            "lettuce",
-            "vegetarian chicken"
-        ]
-    },
-    {
-        "name": "Mac-And-Cheese",
-        "cuisine": [
-            "american",
-            "junk"
-        ],
-        "effort": "medium",
-        "budget": "moderate",
-        "protien": "cheese",
-        "time": 40,
-        "ingredients":[
-            "pasta",
-            "butter",
-            "all purpose flour",
-            "onion powder",
-            "garlic powder",
-            "paprika",
-            "salt",
-            "black pepper",
-            "hot sauce",
-            "yellow mustard",
-            "heavy cream",
-            "mozzerella cheese",
-            "extra sharp cheddar cheese",
-            "smoked gouda",
-            "water",
-            "white wine"
-        ]
-    },
-
-    {
-        "name": "Max's Potato Soup",
-        "cuisine": [
-            "american",
-            "junk"
-        ],
-        "effort": "easy",
-        "budget":"cheap",
-        "protien": "none",
-        "time": 45,
-        "ingredients": [
-            "balls",
-            "gucci morty",
-            "wilson",
-            "ugliness"
-        ]
-    },
-
-    {
-        "name": "Salmon Cous Cous Bowl",
-        "cuisine": [
-            "greek",
-            "healthy"
-        ],
-        "effort": "medium",
-        "budget": "expensive",
-        "protien": "salmon",
-        "time": 65,
-        "ingredients": [
-            "salmon",
-            "olive oil",
-            "hummus",
-            "garlic",
-            "cucumber",
-            "dill",
-            "greek yogurt",
-            "black olives",
-            "salt",
-            "black pepper",
-            "onion powder",
-            "lemon",
-            "oregano",
-            "cous cous",
-            "paprika",
-            "tomatoes",
-            "saffron",
-            "feta cheese",
-            "red bell pepper",
-            "purple cabbage"
-        ]
-    },
-
-    {
-        "name": "Shrimp Udon Soup",
-        "cuisine": [
-            "japanese",
-            "healthy"
-        ],
-        "effort": "easy",
-        "budget": "moderate",
-        "protien": "shrimp",
-        "time": 30,
-        "ingredients": [
-            "sesame oil",
-            "onion",
-            "shrimp",
-            "vegetable broth paste",
-            "garlic",
-            "ginger",
-            "red pepper flakes",
-            "black pepper",
-            "soy sauce",
-            "oyster sauce",
-            "chili crisp oil",
-            "udon noodles",
-            "bok choy or cabbage",
-            "egg",
-            "green onion"
-        ]
-    },
-
-    {
-        "name": "Paneer Tikka Masala",
-        "cuisine": [
-            "indian",
-            "healthy"
-        ],
-        "effort": "hard",
-        "budget": "expensive",
-        "protien": "paneer",
-        "time": 80,
-        "ingredients": [
-            "paneer",
-            "greek yogurt",
-            "garlic",
-            "ginger",
-            "kashmiri red chili powder",
-            "garam masala",
-            "fenugreek",
-            "tumeric",
-            "salt",
-            "lemon",
-            "olive oil",
-            "red bell pepper",
-            "onion",
-            "cardamom",
-            "cinnamon",
-            "cloves",
-            "bay leaf",
-            "tomatoes",
-            "cashews",
-            "sugar",
-            "water",
-            "heavy cream",
-            "cilantro"
-        ]
-    },
-    {
-        "name": "Punjabi Potato Samosas",
-        "cuisine": [
-            "indian",
-            "junk"
-        ],
-        "effort": "hard",
-        "budget": "cheap",
-        "protien": "none",
-        "time": 90,
-        "ingredients": [
-            "all purpose flour",
-            "cardamom seeds",
-            "salt",
-            "ghee",
-            "potatoes",
-            "water",
-            "cumin seeds",
-            "minced ginger",
-            "green chilies",
-            "asafoetida",
-            "red chili powder",
-            "garam masala",
-            "cumin powder",
-            "fennel powder",
-            "green peas",
-            "cilantro",
-            "lemon juice",
-            "vegetable oil"
-        ]
-    },
-
-    {
-        "name": "Ojingeo Deopbap",
-        "cuisine": [
-            "korean",
-            "healthy"
-        ],
-        "effort": "medium",
-        "budget": "expensive",
-        "protien": "squid",
-        "time": 60,
-        "ingredients": [
-            "squid",
-            "rice wine",
-            "onion",
-            "green onion",
-            "carrot",
-            "green cabbage",
-            "olive oil",
-            "sesame oil",
-            "rice",
-            "water",
-            "salt",
-            "egg",
-            "gochujang",
-            "soy sauce",
-            "gochugaru",
-            "korean chili oil",
-            "sugar",
-            "minced garlic",
-            "black pepper",
-            "sesame seeds"
-        ]
-    },
-    {
-        "name": "Yubu Kimbap",
-        "cuisine": [
-            "korean",
-            "healthy"
-        ],
-        "effort": "medium",
-        "budget": "cheap",
-        "protien": "tofu",
-        "time": 55,
-        "ingredients": [
-            "rice",
-            "sea salt",
-            "sesame oil",
-            "vinegar",
-            "water",
-            "deep fried tofu",
-            "soy sauce",
-            "egg",
-            "carrot",
-            "perilla",
-            "yellow radish pickle",
-            "black pepper",
-            "sea weed"
-        ]
-    },
-
-    {
-        "name": "Amber's Paksiw na Isda",
-        "cuisine": [
-            "filipino",
-            "healthy"
-        ],
-        "effort": "easy",
-        "budget": "cheap",
-        "protien": "fish",
-        "time": 30,
-        "ingredients": [
-            "fish (your choice)",
-            "knob ginger",
-            "garlic",
-            "vinegar",
-            "water",
-            "onion",
-            "bitter gourd",
-            "finger chili",
-            "salt",
-            "whole peppercorn"
-        ]
-    }
+  {
+    "name": "Shrimp Al Burro with Broccoli",
+    "cuisine": [
+      "italian",
+      "healthy"
+    ],
+    "effort": "easy",
+    "budget": "moderate",
+    "protien": "shrimp",
+    "dietary_restrictions": [
+      "pescatarian",
+      "soy-free"
+    ],
+    "time": 20,
+    "ingredients": [
+      "shrimp",
+      "butter",
+      "parmesean",
+      "garlic",
+      "broccoli",
+      "pasta water",
+      "salt",
+      "black pepper",
+      "lemon"
+    ]
+  },
+  {
+    "name": "Molly's Shrimp Scampi",
+    "cuisine": [
+      "italian",
+      "healthy"
+    ],
+    "effort": "easy",
+    "budget": "moderate",
+    "protien": "shrimp",
+    "dietary_restrictions": [
+      "pescatarian",
+      "gluten-free",
+      "soy-free"
+    ],
+    "ingredients": [
+      "shrimp",
+      "garlic",
+      "butter",
+      "lemon",
+      "parsley"
+    ]
+  },
+  {
+    "name": "Spaghetti Puttanesca",
+    "cuisine": [
+      "italian",
+      "healthy"
+    ],
+    "effort": "easy",
+    "budget": "cheap",
+    "protien": "anchovy",
+    "dietary_restrictions": [
+      "pescatarian",
+      "soy-free"
+    ],
+    "time": 20,
+    "ingredients": [
+      "olive oil",
+      "garlic",
+      "anchovy fillets",
+      "red pepper flakes",
+      "capers",
+      "black olives",
+      "tomatoes",
+      "salt",
+      "spaghetti",
+      "parmesean",
+      "black pepper"
+    ]
+  },
+  {
+    "name": "Fish Piccata",
+    "cuisine": [
+      "italian",
+      "healthy"
+    ],
+    "effort": "medium",
+    "budget": "moderate",
+    "protien": "white fish",
+    "dietary_restrictions": [
+      "pescatarian",
+      "soy-free"
+    ],
+    "time": 20,
+    "ingredients": [
+      "olive oil",
+      "all purpose flour",
+      "white fish fillets",
+      "black pepper",
+      "white wine",
+      "capers",
+      "unsalted butter",
+      "lemon",
+      "parsley"
+    ]
+  },
+  {
+    "name": "Har Gow",
+    "cuisine": [
+      "chinese",
+      "healthy"
+    ],
+    "effort": "hard",
+    "budget": "moderate",
+    "protien": "shrimp",
+    "dietary_restrictions": [
+      "pescatarian"
+    ],
+    "time": 80,
+    "ingredients": [
+      "shrimp",
+      "oyster sauce",
+      "vegetable oil",
+      "white pepper",
+      "sesame oil",
+      "salt",
+      "sugar",
+      "bamboo shoots",
+      "wheat starch",
+      "cornstarch",
+      "boiling water"
+    ]
+  },
+  {
+    "name": "crab rangoons",
+    "cuisine": [
+      "chinese",
+      "american",
+      "junk"
+    ],
+    "effort": "medium",
+    "budget": "cheap",
+    "protien": "immitation crab",
+    "dietary_restrictions": [
+      "pescatarian"
+    ],
+    "time": 60,
+    "ingredients": [
+      "cream cheese",
+      "immitation crab",
+      "scallions",
+      "wonton wrappers",
+      "salt",
+      "onion powder"
+    ]
+  },
+  {
+    "name": "Ceaser Salad Wrap",
+    "cuisine": [
+      "american",
+      "junk"
+    ],
+    "effort": "easy",
+    "budget": "cheap",
+    "protien": "vegetarian chicken",
+    "dietary_restrictions": [
+      "vegetarian"
+    ],
+    "time": 10,
+    "ingredients": [
+      "tortilla",
+      "ceaser dressing",
+      "parmesean",
+      "black pepper",
+      "italian blend seasoning",
+      "lettuce",
+      "vegetarian chicken"
+    ]
+  },
+  {
+    "name": "Mac-And-Cheese",
+    "cuisine": [
+      "american",
+      "junk"
+    ],
+    "effort": "medium",
+    "budget": "moderate",
+    "protien": "cheese",
+    "dietary_restrictions": [
+      "vegetarian",
+      "soy-free"
+    ],
+    "time": 40,
+    "ingredients": [
+      "pasta",
+      "butter",
+      "all purpose flour",
+      "onion powder",
+      "garlic powder",
+      "paprika",
+      "salt",
+      "black pepper",
+      "hot sauce",
+      "yellow mustard",
+      "heavy cream",
+      "mozzerella cheese",
+      "extra sharp cheddar cheese",
+      "smoked gouda",
+      "water",
+      "white wine"
+    ]
+  },
+  {
+    "name": "Max's Potato Soup",
+    "cuisine": [
+      "american",
+      "junk"
+    ],
+    "effort": "easy",
+    "budget": "cheap",
+    "protien": "none",
+    "dietary_restrictions": [
+      "vegetarian",
+      "gluten-free",
+      "soy-free"
+    ],
+    "time": 45,
+    "ingredients": [
+      "balls",
+      "gucci morty",
+      "wilson",
+      "ugliness"
+    ]
+  },
+  {
+    "name": "Salmon Cous Cous Bowl",
+    "cuisine": [
+      "greek",
+      "healthy"
+    ],
+    "effort": "medium",
+    "budget": "expensive",
+    "protien": "salmon",
+    "dietary_restrictions": [
+      "pescatarian",
+      "soy-free"
+    ],
+    "time": 65,
+    "ingredients": [
+      "salmon",
+      "olive oil",
+      "hummus",
+      "garlic",
+      "cucumber",
+      "dill",
+      "greek yogurt",
+      "black olives",
+      "salt",
+      "black pepper",
+      "onion powder",
+      "lemon",
+      "oregano",
+      "cous cous",
+      "paprika",
+      "tomatoes",
+      "saffron",
+      "feta cheese",
+      "red bell pepper",
+      "purple cabbage"
+    ]
+  },
+  {
+    "name": "Shrimp Udon Soup",
+    "cuisine": [
+      "japanese",
+      "healthy"
+    ],
+    "effort": "easy",
+    "budget": "moderate",
+    "protien": "shrimp",
+    "dietary_restrictions": [
+      "pescatarian"
+    ],
+    "time": 30,
+    "ingredients": [
+      "sesame oil",
+      "onion",
+      "shrimp",
+      "vegetable broth paste",
+      "garlic",
+      "ginger",
+      "red pepper flakes",
+      "black pepper",
+      "soy sauce",
+      "oyster sauce",
+      "chili crisp oil",
+      "udon noodles",
+      "bok choy or cabbage",
+      "egg",
+      "green onion"
+    ]
+  },
+  {
+    "name": "Paneer Tikka Masala",
+    "cuisine": [
+      "indian",
+      "healthy"
+    ],
+    "effort": "hard",
+    "budget": "expensive",
+    "protien": "paneer",
+    "dietary_restrictions": [
+      "vegetarian",
+      "gluten-free",
+      "soy-free"
+    ],
+    "time": 80,
+    "ingredients": [
+      "paneer",
+      "greek yogurt",
+      "garlic",
+      "ginger",
+      "kashmiri red chili powder",
+      "garam masala",
+      "fenugreek",
+      "tumeric",
+      "salt",
+      "lemon",
+      "olive oil",
+      "red bell pepper",
+      "onion",
+      "cardamom",
+      "cinnamon",
+      "cloves",
+      "bay leaf",
+      "tomatoes",
+      "cashews",
+      "sugar",
+      "water",
+      "heavy cream",
+      "cilantro"
+    ]
+  },
+  {
+    "name": "Punjabi Potato Samosas",
+    "cuisine": [
+      "indian",
+      "junk"
+    ],
+    "effort": "hard",
+    "budget": "cheap",
+    "protien": "none",
+    "dietary_restrictions": [
+      "vegetarian",
+      "soy-free"
+    ],
+    "time": 90,
+    "ingredients": [
+      "all purpose flour",
+      "cardamom seeds",
+      "salt",
+      "ghee",
+      "potatoes",
+      "water",
+      "cumin seeds",
+      "minced ginger",
+      "green chilies",
+      "asafoetida",
+      "red chili powder",
+      "garam masala",
+      "cumin powder",
+      "fennel powder",
+      "green peas",
+      "cilantro",
+      "lemon juice",
+      "vegetable oil"
+    ]
+  },
+  {
+    "name": "Ojingeo Deopbap",
+    "cuisine": [
+      "korean",
+      "healthy"
+    ],
+    "effort": "medium",
+    "budget": "expensive",
+    "protien": "squid",
+    "dietary_restrictions": [
+      "pescatarian"
+    ],
+    "time": 60,
+    "ingredients": [
+      "squid",
+      "rice wine",
+      "onion",
+      "green onion",
+      "carrot",
+      "green cabbage",
+      "olive oil",
+      "sesame oil",
+      "rice",
+      "water",
+      "salt",
+      "egg",
+      "gochujang",
+      "soy sauce",
+      "gochugaru",
+      "korean chili oil",
+      "sugar",
+      "minced garlic",
+      "black pepper",
+      "sesame seeds"
+    ]
+  },
+  {
+    "name": "Yubu Kimbap",
+    "cuisine": [
+      "korean",
+      "healthy"
+    ],
+    "effort": "medium",
+    "budget": "cheap",
+    "protien": "tofu",
+    "dietary_restrictions": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "time": 55,
+    "ingredients": [
+      "rice",
+      "sea salt",
+      "sesame oil",
+      "vinegar",
+      "water",
+      "deep fried tofu",
+      "soy sauce",
+      "egg",
+      "carrot",
+      "perilla",
+      "yellow radish pickle",
+      "black pepper",
+      "sea weed"
+    ]
+  },
+  {
+    "name": "Amber's Paksiw na Isda",
+    "cuisine": [
+      "filipino",
+      "healthy"
+    ],
+    "effort": "easy",
+    "budget": "cheap",
+    "protien": "fish",
+    "dietary_restrictions": [
+      "pescatarian",
+      "gluten-free",
+      "soy-free"
+    ],
+    "time": 30,
+    "ingredients": [
+      "fish (your choice)",
+      "knob ginger",
+      "garlic",
+      "vinegar",
+      "water",
+      "onion",
+      "bitter gourd",
+      "finger chili",
+      "salt",
+      "whole peppercorn"
+    ]
+  },
+  {
+    "name": "Caprese Avocado Toast",
+    "cuisine": [
+      "american",
+      "healthy"
+    ],
+    "effort": "easy",
+    "budget": "cheap",
+    "protien": "cheese",
+    "dietary_restrictions": [
+      "vegetarian",
+      "soy-free"
+    ],
+    "time": 10,
+    "ingredients": [
+      "sourdough bread",
+      "avocado",
+      "fresh mozzarella",
+      "cherry tomatoes",
+      "balsamic glaze",
+      "basil",
+      "salt",
+      "black pepper"
+    ]
+  },
+  {
+    "name": "Creamy Mushroom Risotto",
+    "cuisine": [
+      "italian",
+      "healthy"
+    ],
+    "effort": "medium",
+    "budget": "moderate",
+    "protien": "mushrooms",
+    "dietary_restrictions": [
+      "vegetarian",
+      "gluten-free",
+      "soy-free"
+    ],
+    "time": 40,
+    "ingredients": [
+      "arborio rice",
+      "cremini mushrooms",
+      "vegetable broth",
+      "parmesan cheese",
+      "butter",
+      "garlic",
+      "white wine",
+      "shallots",
+      "olive oil"
+    ]
+  },
+  {
+    "name": "Grilled Fish Tacos",
+    "cuisine": [
+      "mexican",
+      "healthy"
+    ],
+    "effort": "medium",
+    "budget": "moderate",
+    "protien": "tilapia",
+    "dietary_restrictions": [
+      "pescatarian",
+      "gluten-free",
+      "soy-free"
+    ],
+    "time": 25,
+    "ingredients": [
+      "tilapia fillets",
+      "corn tortillas",
+      "cabbage slaw",
+      "lime",
+      "cilantro",
+      "avocado",
+      "cumin",
+      "chili powder",
+      "olive oil"
+    ]
+  },
+  {
+    "name": "Baked Lemon Herb Cod",
+    "cuisine": [
+      "healthy"
+    ],
+    "effort": "easy",
+    "budget": "moderate",
+    "protien": "cod",
+    "dietary_restrictions": [
+      "pescatarian",
+      "gluten-free",
+      "soy-free"
+    ],
+    "time": 25,
+    "ingredients": [
+      "cod fillets",
+      "lemon",
+      "olive oil",
+      "garlic",
+      "dill",
+      "parsley",
+      "black pepper",
+      "salt"
+    ]
+  },
+  {
+    "name": "Chicken Fried Rice with Tamari",
+    "cuisine": [
+      "chinese",
+      "healthy"
+    ],
+    "effort": "easy",
+    "budget": "cheap",
+    "protien": "chicken",
+    "dietary_restrictions": [
+      "gluten-free"
+    ],
+    "time": 20,
+    "ingredients": [
+      "jasmine rice",
+      "chicken breast",
+      "gluten-free tamari",
+      "eggs",
+      "peas",
+      "carrots",
+      "sesame oil",
+      "green onions"
+    ]
+  },
+  {
+    "name": "Stuffed Bell Peppers",
+    "cuisine": [
+      "american",
+      "healthy"
+    ],
+    "effort": "medium",
+    "budget": "moderate",
+    "protien": "ground beef",
+    "dietary_restrictions": [
+      "gluten-free",
+      "soy-free"
+    ],
+    "time": 50,
+    "ingredients": [
+      "bell peppers",
+      "ground beef",
+      "white rice",
+      "tomato sauce",
+      "cheddar cheese",
+      "garlic powder",
+      "onion",
+      "black pepper",
+      "salt"
+    ]
+  },
+  {
+    "name": "Classic Beef Bolognese",
+    "cuisine": [
+      "italian"
+    ],
+    "effort": "medium",
+    "budget": "moderate",
+    "protien": "ground beef",
+    "dietary_restrictions": [
+      "soy-free"
+    ],
+    "time": 45,
+    "ingredients": [
+      "ground beef",
+      "spaghetti",
+      "crushed tomatoes",
+      "onion",
+      "garlic",
+      "olive oil",
+      "oregano",
+      "parmesan cheese",
+      "salt"
+    ]
+  },
+  {
+    "name": "Greek Lemon Herb Chicken Thighs",
+    "cuisine": [
+      "greek",
+      "healthy"
+    ],
+    "effort": "easy",
+    "budget": "cheap",
+    "protien": "chicken thighs",
+    "dietary_restrictions": [
+      "gluten-free",
+      "soy-free"
+    ],
+    "time": 35,
+    "ingredients": [
+      "chicken thighs",
+      "olive oil",
+      "lemon juice",
+      "garlic",
+      "oregano",
+      "salt",
+      "black pepper",
+      "rosemary"
+    ]
+  }
 ]
