@@ -68,3 +68,21 @@ Welcome to the Eat This Next repository. This document outlines the required Git
 ```bash
 git clone [https://github.com/your-org/eat-this-next.git](https://github.com/your-org/eat-this-next.git)
 cd eat-this-next
+
+---
+
+## Local Environment & API Setup (FR-08)
+
+When a filter combination yields zero matches in `meals.json`, the application automatically queries the Spoonacular API as an external fallback. Because API credentials are excluded from version control via `.gitignore`, configure your local key after cloning:
+
+### 1. Create Your Local Configuration File
+1. Navigate to the `what should i eat` directory.
+2. Duplicate `config_example.js` and rename the copy to `config.js` in the same folder.
+
+### 2. Add the Spoonacular API Key
+1. Open `what should i eat/config.js`.
+2. Replace `"YOUR_API_KEY_HERE"` with the team API key (or a free key from the Spoonacular Food API):
+   ```javascript
+   const CONFIG = {
+       SPOONACULAR_API_KEY: "your_actual_api_key_here"
+   };

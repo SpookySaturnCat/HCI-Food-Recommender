@@ -4,6 +4,9 @@ let selectedEffort = "any";
 let selectedBudget = "any";
 let selectedDiet = "any";
 
+// API key for Spoonacular API pulled from config.js
+const SPOONACULAR_API_KEY = typeof CONFIG !== "undefined" ? CONFIG.SPOONACULAR_API_KEY: "";
+
 // DOM elements
 const cuisineButtons = document.querySelectorAll("[data-cuisine]");
 const effortButtons = document.querySelectorAll("[data-effort]");
@@ -157,20 +160,88 @@ function displayMeal(meal) {
     });
 }
 
-decideButton.addEventListener("click", () => {
+// Spoonacular API integration (ai assisted)
+function mapSpoonacularToLocalSchema(apiRecipe) {
+    const readyMinutes = apiRecipe.readyInMinutes || 30;
+    let estimatedEffort = "medium";
+    if (readyMinutes <= 20) estimatedEffort = "easy";
+    else if (readyMinutes >= 60) estimatedEffort = "hard";
+
+    const priceCents = apiRecipe.pricePerServing || 300;
+    let estimatedBudget = "moderate";
+    if (priceCents < 200) estimatedBudget = "cheap";
+    else if (priceCents > 500) estimatedBudget = "expensive";
+
+    return {
+        name: apiRecipe.title,
+        cuisine: apiRecipe.cuisines?.length ? apiRecipe.cuisines.map(c => c.toLowerCase()) : ["any"],
+        effort: estimatedEffort,
+        budget: estimatedBudget,
+        protien: "varies (API)",
+        dietary_restrictions: apiRecipe.diets || [],
+        time: readyMinutes,
+        ingredients: apiRecipe.extendedIngredients 
+            ? apiRecipe.extendedIngredients.map(ing => ing.originalName || ing.name) 
+            : ["See full recipe on Spoonacular"]
+    };
+}
+
+async function fetchFallbackRecipe() {
+    if (!SPOONACULAR_API_KEY || SPOONACULAR_API_KEY === "YOUR_API_KEY_HERE") return null;
+
+    const params = new URLSearchParams({
+        apiKey: SPOONACULAR_API_KEY,
+        number: 5,
+        addRecipeInformation: true,
+        fillIngredients: true
+    });
+
+    if (selectedCuisine.length > 0) params.append("cuisine", selectedCuisine.join(","));
+    if (selectedDiet !== "any") {
+        if (selectedDiet === "soy-free") params.append("intolerances", "soy");
+        else params.append("diet", selectedDiet);
+    }
+    if (selectedEffort === "easy") params.append("maxReadyTime", "25");
+
+    try {
+        const res = await fetch(`https://api.spoonacular.com/recipes/complexSearch?${params}`);
+        if (!res.ok) throw new Error(`API error: ${res.status}`);
+        const data = await res.json();
+
+        if (!data.results || data.results.length === 0) return null;
+
+        const randomHit = chooseMeal(data.results);
+        return mapSpoonacularToLocalSchema(randomHit);
+    } catch (err) {
+        console.error("Spoonacular fallback failed:", err);
+        return null;
+    }
+}
+
+// Async Decide Button Listener
+decideButton.addEventListener("click", async() => {
     const matchingMeals = getMatchingMeals();
 
     // No matching recipes
     if (matchingMeals.length === 0) {
-        mealName.textContent = "No meals found!";
+        mealName.textContent = "Searching external recipes...";
         mealTime.textContent = "";
         mealBudget.textContent = "";
         mealEffort.textContent = "";
         ingredientsList.innerHTML = "";
         mealProtien.textContent = "";
         ingredientsTitle.style.display = "none";
+
+        const apiMeal = await fetchFallbackRecipe();
+
+        if(!apiMeal) {
+            mealName.textContent = "No matching recipes found.";
+            return;
+        }
+
+        displayMeal(apiMeal);
         return;
-    }
+    }   
 
     // Pick a random matching recipe
     const chosenMeal = chooseMeal(matchingMeals);
