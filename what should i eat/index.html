@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -141,4 +142,178 @@
         </section>
     </main>
 </body>
+=======
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>What Should I Eat?</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="config.js"></script>
+    <script src="script.js" defer></script>
+</head>
+
+<body>
+    <main class="container">
+        <header>
+            <h1>What Should I Eat?</h1>
+            <p>Unable to decide? Let the machine think for you.
+                <br>Chose a cuisine style, fusion, or choose from any style.
+                <br>Then select your effort level and budget.
+                <br>Happy cooking!</p>
+        </header>
+
+        <!-- Cuisine Selection -->
+        <section class="question">
+            <h2>What are you in the mood for?</h2>
+
+            <div class="button-group">
+                <button class="choice-button"
+                        data-cuisine="japanese">
+                    Japanese
+                </button>
+                <button class="choice-button"
+                        data-cuisine="italian">
+                    Italian
+                </button>
+                <button class="choice-button"
+                        data-cuisine="indian">
+                    Indian
+                </button>
+                 <button class="choice-button"
+                        data-cuisine="korean">
+                    Korean
+                </button>
+                 <button class="choice-button"
+                        data-cuisine="american">
+                    American
+                </button>
+                 <button class="choice-button"
+                        data-cuisine="chinese">
+                    Chinese
+                </button>
+                <button class="choice-button"
+                        data-cuisine="filipino">
+                    Filipino
+                </button>
+                 <button class="choice-button"
+                        data-cuisine="greek">
+                    Greek
+                </button>
+                 <button class="choice-button"
+                        data-cuisine="junk">
+                    Junk
+                </button>
+                 <button class="choice-button"
+                        data-cuisine="healthy">
+                    Healthy
+                </button>
+
+                <button class="choice-button"
+                        data-cuisine="any">
+                    Anything
+                </button>
+            </div>
+        </section>
+
+        <!-- Diet Selection -->
+        <section class="question">
+            <h2>Any dietary restrictions?</h2>
+            <div class="button-group">
+                <button class="choice-button"
+                        data-diet="vegetarian">
+                    Vegetarian
+                </button>
+                <button class="choice-button"
+                        data-diet="pescatarian">
+                    Pescatarian
+                </button>
+                <button class="choice-button"
+                        data-diet="gluten-free">
+                    Gluten-Free
+                </button>
+                <button class="choice-button"
+                        data-diet="soy-free">
+                    Soy-Free
+                </button>
+                <button class="choice-button"
+                        data-diet="any">
+                    Doesn't Matter
+                </button>
+            </div>
+        </section>
+
+        <!-- Effort Selection -->
+        <section class="question">
+            <h2>How much effort do you want to put in?</h2>
+
+            <div class="button-group">
+                <button class="choice-button"
+                        data-effort="easy">
+                    Bare Minimum
+                </button>
+                <button class="choice-button"
+                        data-effort="medium">
+                    Some Effort
+                </button>
+                <button class="choice-button"
+                        data-effort="hard">
+                    Highest Potential
+                </button>
+                <button class="choice-button"
+                        data-effort="any">
+                    Doesn't Matter
+                </button>
+            </div>
+        </section>
+
+        <!-- Budget Selection -->
+        <section class="question">
+            <h2>What is the budget?</h2>
+
+            <div class="button-group">
+                <button class="choice-button"
+                        data-budget="cheap">
+                    Cheap
+                </button>
+                <button class="choice-button"
+                        data-budget="moderate">
+                    Moderate
+                </button>
+                <button class="choice-button"
+                        data-budget="expensive">
+                    Expensive
+                </button>
+                <button class="choice-button"
+                        data-budget="any">
+                    Don't Care
+                </button>
+            </div>
+        </section>
+
+        <!-- Decide Button - automatically disaabled until json loads-->
+        <button id="decideButton" disabled>
+            TELL ME WHAT TO EAT
+        </button>
+
+        <!-- Results -->
+        <section id="result">
+            <h2 id="mealName">Your meal will appear here...</h2>
+
+            <div id="mealInfo">
+                <p id="mealTime"></p>
+                <p id="mealBudget"></p>
+                <p id="mealEffort"></p>
+                <p id="mealProtien"></p>
+            </div>
+
+            <h3>Ingredients</h3>
+            <ul id="ingredients"></ul>
+            <h3>Instructions</h3>
+            <ol id="instructions"></ol>
+        </section>
+    </main>
+</body>
+>>>>>>> Stashed changes
 </html>

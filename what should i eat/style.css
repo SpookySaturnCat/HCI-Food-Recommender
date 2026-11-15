@@ -240,6 +240,45 @@ header p {
     font-size: 12px;
 }
 
+/* Instructions Section */
+#result h3:nth-of-type(2) {
+    margin-top: 28px;
+}
+
+#instructions {
+    list-style: none;
+    counter-reset: step-counter;
+    text-align: left;
+    max-width: 650px;
+    margin: 0 auto;
+    color: #c9b49a;
+    font-size: 17px;
+    line-height: 1.7;
+}
+
+#instructions li {
+    counter-increment: step-counter;
+    position: relative;
+    padding-left: 36px;
+    margin-bottom: 14px;
+}
+
+#instructions li::before {
+    content: counter(step-counter) ".";
+    position: absolute;
+    left: 0;
+    top: 0;
+    font-family: 'Cinzel Decorative', serif;
+    font-size: 15px;
+    color: #d4af37;
+    text-shadow: 0 0 8px rgba(212, 175, 55, 0.25);
+}
+
+#instructions li:not(:last-child) {
+    padding-bottom: 14px;
+    border-bottom: 1px solid rgba(122, 99, 68, 0.15);
+}
+
 /* Mobile Responsiveness */
 @media (max-width: 600px) {
     body {

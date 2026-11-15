@@ -2,6 +2,13 @@ let meals = [];
 let selectedCuisine = [];
 let selectedEffort = "any";
 let selectedBudget = "any";
+<<<<<<< Updated upstream
+=======
+let selectedDiet = "any";
+
+// API key for Spoonacular API pulled from config.js
+const SPOONACULAR_API_KEY = typeof CONFIG !== "undefined" ? CONFIG.SPOONACULAR_API_KEY : "";
+>>>>>>> Stashed changes
 
 // DOM elements
 const cuisineButtons = document.querySelectorAll("[data-cuisine]");
@@ -14,7 +21,13 @@ const mealBudget = document.querySelector("#mealBudget");
 const mealEffort = document.querySelector("#mealEffort");
 const mealProtien = document.querySelector("#mealProtien");
 const ingredientsList = document.querySelector("#ingredients");
-const ingredientsTitle = document.querySelector("#result h3");
+const ingredientsTitle = document.querySelector("#result h3:nth-of-type(1)");
+const instructionsList = document.querySelector("#instructions");
+const instructionsTitle = document.querySelector("#result h3:nth-of-type(2)");
+
+// Hide headings initially until a meal is picked
+ingredientsTitle.style.display = "none";
+instructionsTitle.style.display = "none";
 
 fetch("meals.json")
     .then(response => response.json())
@@ -121,13 +134,14 @@ function chooseMeal(mealList) {
 
 function displayMeal(meal) {
     mealName.textContent = meal.name;
-    mealTime.textContent = `${meal.time} minutes`;
+    mealTime.textContent = meal.time ? `${meal.time} minutes` : "Time: Varies";
     mealBudget.textContent = `Price: ${meal.budget.charAt(0).toUpperCase()}${meal.budget.slice(1)}`;
     mealEffort.textContent = `Difficulty: ${meal.effort.charAt(0).toUpperCase()}${meal.effort.slice(1)}`;
     mealProtien.textContent = `Protien: ${meal.protien.charAt(0).toUpperCase()}${meal.protien.slice(1)}`;
 
-     // Show ingredients title
+    // Show titles
     ingredientsTitle.style.display = "block";
+    instructionsTitle.style.display = "block";
 
     // Clear old ingredients
     ingredientsList.innerHTML = "";
@@ -138,9 +152,126 @@ function displayMeal(meal) {
         listItem.textContent = ingredient;
         ingredientsList.appendChild(listItem);
     });
+
+    // Clear old instructions
+    instructionsList.innerHTML = "";
+
+    // Add instructions
+    const steps = meal.instructions && meal.instructions.length > 0
+        ? meal.instructions
+        : ["No instructions provided for this recipe."];
+
+    steps.forEach(step => {
+        const listItem = document.createElement("li");
+        listItem.textContent = step;
+        instructionsList.appendChild(listItem);
+    });
 }
 
+<<<<<<< Updated upstream
 decideButton.addEventListener("click", () => {
+=======
+// Spoonacular API integration
+const JUNK_STEP_PATTERNS = [
+    /w?hatch\s*video/i,
+    /see\s*(the\s*)?(full\s*)?recipe/i,
+    /click\s*here/i,
+    /subscribe/i,
+    /follow\s*us/i,
+    /print\s*recipe/i
+];
+
+function cleanInstructions(analyzedInstructions) {
+    if (!analyzedInstructions || analyzedInstructions.length === 0) return [];
+
+    // Flatten all instruction sections (some recipes split into "For the sauce", "For the main", etc.)
+    const rawSteps = analyzedInstructions.flatMap(section => section.steps || []);
+
+    return rawSteps
+        .map(s => (s.step || "").replace(/<[^>]*>/g, "").trim()) // strip HTML & whitespace
+        .filter(stepText => {
+            if (stepText.length < 15) return false; // removes "Serve.", "Enjoy!", "Watch video"
+            return !JUNK_STEP_PATTERNS.some(pattern => pattern.test(stepText));
+        });
+}
+
+// Spoonacular API integration (some parts ai assisted)
+function mapSpoonacularToLocalSchema(apiRecipe) {
+    const readyMinutes = apiRecipe.readyInMinutes || 30;
+    let estimatedEffort = "medium";
+    if (readyMinutes <= 20) estimatedEffort = "easy";
+    else if (readyMinutes >= 60) estimatedEffort = "hard";
+
+    const priceCents = apiRecipe.pricePerServing || 300;
+    let estimatedBudget = "moderate";
+    if (priceCents < 200) estimatedBudget = "cheap";
+    else if (priceCents > 500) estimatedBudget = "expensive";
+
+    return {
+        name: apiRecipe.title,
+        cuisine: apiRecipe.cuisines?.length ? apiRecipe.cuisines.map(c => c.toLowerCase()) : ["any"],
+        effort: estimatedEffort,
+        budget: estimatedBudget,
+        protien: "varies (API)",
+        dietary_restrictions: apiRecipe.diets || [],
+        time: readyMinutes,
+        ingredients: apiRecipe.extendedIngredients 
+            ? apiRecipe.extendedIngredients.map(ing => ing.originalName || ing.name) 
+            : ["See full recipe on Spoonacular"],
+        instructions: cleanInstructions(apiRecipe.analyzedInstructions)
+    };
+}
+
+async function fetchFallbackRecipe() {
+    if (!SPOONACULAR_API_KEY || SPOONACULAR_API_KEY === "YOUR_API_KEY_HERE") return null;
+
+    const params = new URLSearchParams({
+        apiKey: SPOONACULAR_API_KEY,
+        number: 5,
+        addRecipeInformation: true,
+        instructionsRequired: true,
+        fillIngredients: true
+    });
+
+    // Separate non-regional tags ("healthy", "junk") from actual cuisines
+    const validCuisines = selectedCuisine.filter(c => c !== "healthy" && c !== "junk");
+    if (validCuisines.length > 0) {
+        params.append("cuisine", validCuisines.join(","));
+    }
+    if (selectedCuisine.includes("healthy")) {
+        params.append("sort", "healthiness");
+    }
+
+    if (selectedDiet !== "any") {
+        if (selectedDiet === "soy-free") params.append("intolerances", "soy");
+        else params.append("diet", selectedDiet);
+    }
+    if (selectedEffort === "easy") params.append("maxReadyTime", "25");
+
+    try {
+        const res = await fetch(`https://api.spoonacular.com/recipes/complexSearch?${params}`);
+        if (!res.ok) throw new Error(`API error: ${res.status}`);
+        const data = await res.json();
+
+        if (!data.results || data.results.length === 0) return null;
+
+        // Map all results and keep only recipes with at least 2 real instruction steps
+        const validRecipes = data.results
+            .map(mapSpoonacularToLocalSchema)
+            .filter(recipe => recipe.instructions.length >= 2);
+
+        if (validRecipes.length === 0) return null;
+
+        return chooseMeal(validRecipes);
+    } catch (err) {
+        console.error("Spoonacular fallback failed:", err);
+        return null;
+    }
+}
+
+// Async Decide Button Listener
+decideButton.addEventListener("click", async() => {
+>>>>>>> Stashed changes
     const matchingMeals = getMatchingMeals();
 
     // No matching recipes
@@ -149,9 +280,23 @@ decideButton.addEventListener("click", () => {
         mealTime.textContent = "";
         mealBudget.textContent = "";
         mealEffort.textContent = "";
-        ingredientsList.innerHTML = "";
         mealProtien.textContent = "";
+        ingredientsList.innerHTML = "";
+        instructionsList.innerHTML = "";
         ingredientsTitle.style.display = "none";
+<<<<<<< Updated upstream
+=======
+        instructionsTitle.style.display = "none";
+
+        const apiMeal = await fetchFallbackRecipe();
+
+        if (!apiMeal) {
+            mealName.textContent = "No matching recipes found.";
+            return;
+        }
+
+        displayMeal(apiMeal);
+>>>>>>> Stashed changes
         return;
     }
 
