@@ -1,3 +1,0 @@
-const CONFIG = {
-    SPOONACULAR_API_KEY: "YOUR_API_KEY_HERE"
-};
