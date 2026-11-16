@@ -1,854 +1,854 @@
 [
-{
+  {
     "name": "Shrimp Al Burro with Broccoli",
     "cuisine": [
-"italian",
-"healthy"
-],
+      "italian",
+      "healthy"
+    ],
     "effort": "easy",
     "budget": "moderate",
     "protien": "shrimp",
     "dietary_restrictions": [
-"pescatarian",
-"soy-free",
-"peanut-free"
-],
+      "pescatarian",
+      "soy-free",
+      "peanut-free"
+    ],
     "time": 20,
     "ingredients": [
-"shrimp",
-"butter",
-"parmesean",
-"garlic",
-"broccoli",
-"pasta",
-"pasta water",
-"salt",
-"black pepper",
-"lemon"
-],
+      "shrimp",
+      "butter",
+      "parmesean",
+      "garlic",
+      "broccoli",
+      "pasta",
+      "pasta water",
+      "salt",
+      "black pepper",
+      "lemon"
+    ],
     "instructions": [
-"Boil 8 oz of pasta in well-salted water until al dente, reserving 1 cup of starchy pasta water before draining.",
-"Melt 1 tablespoon of butter in a large skillet over medium-high heat and sauté 2 cups of broccoli florets with a pinch of salt for 4 to 5 minutes until tender-crisp and lightly browned, then transfer to a plate.",
-"In the same skillet, melt 1 tablespoon of butter, add 3 cloves of minced garlic and 1 lb of peeled shrimp seasoned with 1/2 teaspoon salt and 1/4 teaspoon black pepper, and cook 2 minutes per side until pink and opaque.",
-"Lower the heat to low, add the drained pasta, sautéed broccoli, 2 tablespoons of cold butter, and 1/2 cup of the reserved pasta water; toss vigorously as the cold butter melts into a creamy base.",
-"Gradually sprinkle in 1/2 cup of finely grated parmesan and the juice of 1/2 lemon while tossing constantly, adding splashes of pasta water as needed until a glossy, emulsified al burro sauce coats the pasta and shrimp."
-]
+      "Boil 8 oz of pasta in well-salted water until al dente, reserving 1 cup of starchy pasta water before draining.",
+      "Melt 1 tablespoon of butter in a large skillet over medium-high heat and sauté 2 cups of broccoli florets with a pinch of salt for 4 to 5 minutes until tender-crisp and lightly browned, then transfer to a plate.",
+      "In the same skillet, melt 1 tablespoon of butter, add 3 cloves of minced garlic and 1 lb of peeled shrimp seasoned with 1/2 teaspoon salt and 1/4 teaspoon black pepper, and cook 2 minutes per side until pink and opaque.",
+      "Lower the heat to low, add the drained pasta, sautéed broccoli, 2 tablespoons of cold butter, and 1/2 cup of the reserved pasta water; toss vigorously as the cold butter melts into a creamy base.",
+      "Gradually sprinkle in 1/2 cup of finely grated parmesan and the juice of 1/2 lemon while tossing constantly, adding splashes of pasta water as needed until a glossy, emulsified al burro sauce coats the pasta and shrimp."
+    ]
   },
   {
     "name": "Molly's Shrimp Scampi",
     "cuisine": [
-"italian",
-"healthy"
-],
+      "italian",
+      "healthy"
+    ],
     "effort": "easy",
     "budget": "moderate",
     "protien": "shrimp",
     "dietary_restrictions": [
-"pescatarian",
-"gluten-free",
-"soy-free",
-"peanut-free"
-],
+      "pescatarian",
+      "gluten-free",
+      "soy-free",
+      "peanut-free"
+    ],
     "time": 15,
     "ingredients": [
-"shrimp",
-"garlic",
-"butter",
-"lemon",
-"parsley"
-],
+      "shrimp",
+      "garlic",
+      "butter",
+      "lemon",
+      "parsley"
+    ],
     "instructions": [
-"Pat 1 lb of peeled, deveined shrimp dry with paper towels so they sear properly instead of steaming.",
-"Melt 4 tablespoons of butter in a large skillet over medium-high heat until foaming, then add 4 cloves of thinly sliced or minced garlic and sauté for 30 seconds until fragrant without browning.",
-"Arrange the shrimp in a single flat layer in the skillet and sear for 1.5 to 2 minutes per side until pink and just curled.",
-"Remove the skillet from the heat immediately, squeeze in the juice of 1 fresh lemon, and toss with 2 tablespoons of finely chopped fresh parsley to create a bright, buttery pan sauce."
-]
+      "Pat 1 lb of peeled, deveined shrimp dry with paper towels so they sear properly instead of steaming.",
+      "Melt 4 tablespoons of butter in a large skillet over medium-high heat until foaming, then add 4 cloves of thinly sliced or minced garlic and sauté for 30 seconds until fragrant without browning.",
+      "Arrange the shrimp in a single flat layer in the skillet and sear for 1.5 to 2 minutes per side until pink and just curled.",
+      "Remove the skillet from the heat immediately, squeeze in the juice of 1 fresh lemon, and toss with 2 tablespoons of finely chopped fresh parsley to create a bright, buttery pan sauce."
+    ]
   },
   {
     "name": "Spaghetti Puttanesca",
     "cuisine": [
-"italian",
-"healthy"
-],
+      "italian",
+      "healthy"
+    ],
     "effort": "easy",
     "budget": "cheap",
     "protien": "anchovy",
     "dietary_restrictions": [
-"pescatarian",
-"soy-free",
-"peanut-free"
-],
+      "pescatarian",
+      "soy-free",
+      "peanut-free"
+    ],
     "time": 20,
     "ingredients": [
-"olive oil",
-"garlic",
-"anchovy fillets",
-"red pepper flakes",
-"capers",
-"black olives",
-"tomatoes",
-"salt",
-"spaghetti",
-"parmesean",
-"black pepper"
-],
+      "olive oil",
+      "garlic",
+      "anchovy fillets",
+      "red pepper flakes",
+      "capers",
+      "black olives",
+      "tomatoes",
+      "salt",
+      "spaghetti",
+      "parmesean",
+      "black pepper"
+    ],
     "instructions": [
-"Bring a large pot of salted water to a boil and cook 12 oz of spaghetti until just shy of al dente, reserving 1/2 cup of pasta water before draining.",
-"Meanwhile, heat 3 tablespoons of olive oil in a wide skillet over medium heat; add 4 anchovy fillets, 3 cloves of minced garlic, and 1/2 teaspoon red pepper flakes, mashing the anchovies with a wooden spoon until they dissolve into the oil.",
-"Stir in 1 can (14.5 oz) crushed or diced tomatoes, 2 tablespoons drained capers, 1/2 cup pitted and halved black olives, and 1/4 teaspoon black pepper; simmer briskly for 10 minutes until thickened.",
-"Transfer the spaghetti directly into the skillet with 1/4 cup of the reserved pasta water and toss over medium heat for 1 to 2 minutes until the pasta absorbs the sauce, then finish with 1/2 cup grated parmesan."
-]
+      "Bring a large pot of salted water to a boil and cook 12 oz of spaghetti until just shy of al dente, reserving 1/2 cup of pasta water before draining.",
+      "Meanwhile, heat 3 tablespoons of olive oil in a wide skillet over medium heat; add 4 anchovy fillets, 3 cloves of minced garlic, and 1/2 teaspoon red pepper flakes, mashing the anchovies with a wooden spoon until they dissolve into the oil.",
+      "Stir in 1 can (14.5 oz) crushed or diced tomatoes, 2 tablespoons drained capers, 1/2 cup pitted and halved black olives, and 1/4 teaspoon black pepper; simmer briskly for 10 minutes until thickened.",
+      "Transfer the spaghetti directly into the skillet with 1/4 cup of the reserved pasta water and toss over medium heat for 1 to 2 minutes until the pasta absorbs the sauce, then finish with 1/2 cup grated parmesan."
+    ]
   },
   {
     "name": "Fish Piccata",
     "cuisine": [
-"italian",
-"healthy"
-],
+      "italian",
+      "healthy"
+    ],
     "effort": "medium",
     "budget": "moderate",
     "protien": "white fish",
     "dietary_restrictions": [
-"pescatarian",
-"soy-free",
-"peanut-free"
-],
+      "pescatarian",
+      "soy-free",
+      "peanut-free"
+    ],
     "time": 20,
     "ingredients": [
-"olive oil",
-"all purpose flour",
-"white fish fillets",
-"black pepper",
-"white wine",
-"capers",
-"unsalted butter",
-"lemon",
-"parsley"
-],
+      "olive oil",
+      "all purpose flour",
+      "white fish fillets",
+      "black pepper",
+      "white wine",
+      "capers",
+      "unsalted butter",
+      "lemon",
+      "parsley"
+    ],
     "instructions": [
-"Pat 4 thin white fish fillets (about 1.5 lbs total, such as cod or flounder) completely dry, season with 1/2 teaspoon black pepper, and dredge lightly in 1/3 cup all-purpose flour, shaking off any excess.",
-"Heat 2 tablespoons of olive oil in a large skillet over medium-high heat until shimmering, then sear the fillets for 2.5 to 3 minutes per side until a golden crust forms; transfer to a warm platter.",
-"Lower the heat to medium, pour in 1/2 cup dry white wine and the juice of 1 lemon, and simmer for 2 minutes while scraping up the browned flour bits from the pan.",
-"Turn the heat to low, add 2 tablespoons drained capers and 3 tablespoons cold unsalted butter cut into cubes, swirling the pan until the butter emulsifies into a velvety sauce; spoon over the fish and garnish with 2 tablespoons chopped parsley."
-]
+      "Pat 4 thin white fish fillets (about 1.5 lbs total, such as cod or flounder) completely dry, season with 1/2 teaspoon black pepper, and dredge lightly in 1/3 cup all-purpose flour, shaking off any excess.",
+      "Heat 2 tablespoons of olive oil in a large skillet over medium-high heat until shimmering, then sear the fillets for 2.5 to 3 minutes per side until a golden crust forms; transfer to a warm platter.",
+      "Lower the heat to medium, pour in 1/2 cup dry white wine and the juice of 1 lemon, and simmer for 2 minutes while scraping up the browned flour bits from the pan.",
+      "Turn the heat to low, add 2 tablespoons drained capers and 3 tablespoons cold unsalted butter cut into cubes, swirling the pan until the butter emulsifies into a velvety sauce; spoon over the fish and garnish with 2 tablespoons chopped parsley."
+    ]
   },
   {
     "name": "Har Gow",
     "cuisine": [
-"chinese",
-"healthy"
-],
+      "chinese",
+      "healthy"
+    ],
     "effort": "hard",
     "budget": "moderate",
     "protien": "shrimp",
     "dietary_restrictions": [
-"pescatarian",
-"dairy-free",
-"peanut-free"
-],
+      "pescatarian",
+      "dairy-free",
+      "peanut-free"
+    ],
     "time": 80,
     "ingredients": [
-"shrimp",
-"oyster sauce",
-"vegetable oil",
-"white pepper",
-"sesame oil",
-"salt",
-"sugar",
-"bamboo shoots",
-"wheat starch",
-"cornstarch",
-"boiling water"
-],
+      "shrimp",
+      "oyster sauce",
+      "vegetable oil",
+      "white pepper",
+      "sesame oil",
+      "salt",
+      "sugar",
+      "bamboo shoots",
+      "wheat starch",
+      "cornstarch",
+      "boiling water"
+    ],
     "instructions": [
-"Roughly chop 1/2 lb of peeled, deveined shrimp (smashing half into a paste with the flat of your knife for bounce) and mix with 1/4 cup finely minced bamboo shoots, 1 teaspoon oyster sauce, 1 teaspoon sesame oil, 1/4 teaspoon white pepper, 1/2 teaspoon salt, and 1 teaspoon sugar; cover and chill for 30 minutes.",
-"In a heatproof bowl, whisk 1 cup wheat starch and 1/4 cup cornstarch, then pour in 3/4 cup rolling boiling water while stirring rapidly with chopsticks until clumpy; cover for 3 minutes, then knead in 1 tablespoon vegetable oil until smooth and pliable.",
-"Keep the dough covered with a damp towel, pinch off 16 equal pieces, and press each under the flat blade of an oiled cleaver or rolling pin into a thin 3-inch circle.",
-"Place 1 tablespoon of chilled shrimp filling in the center of each wrapper, pleat one edge 6 to 7 times while pressing against the flat back edge to seal into a crescent, and steam over boiling water on perforated parchment for 6 to 8 minutes until translucent."
-]
+      "Roughly chop 1/2 lb of peeled, deveined shrimp (smashing half into a paste with the flat of your knife for bounce) and mix with 1/4 cup finely minced bamboo shoots, 1 teaspoon oyster sauce, 1 teaspoon sesame oil, 1/4 teaspoon white pepper, 1/2 teaspoon salt, and 1 teaspoon sugar; cover and chill for 30 minutes.",
+      "In a heatproof bowl, whisk 1 cup wheat starch and 1/4 cup cornstarch, then pour in 3/4 cup rolling boiling water while stirring rapidly with chopsticks until clumpy; cover for 3 minutes, then knead in 1 tablespoon vegetable oil until smooth and pliable.",
+      "Keep the dough covered with a damp towel, pinch off 16 equal pieces, and press each under the flat blade of an oiled cleaver or rolling pin into a thin 3-inch circle.",
+      "Place 1 tablespoon of chilled shrimp filling in the center of each wrapper, pleat one edge 6 to 7 times while pressing against the flat back edge to seal into a crescent, and steam over boiling water on perforated parchment for 6 to 8 minutes until translucent."
+    ]
   },
   {
     "name": "crab rangoons",
     "cuisine": [
-"chinese",
-"american",
-"junk"
-],
+      "chinese",
+      "american",
+      "junk"
+    ],
     "effort": "medium",
     "budget": "cheap",
     "protien": "immitation crab",
     "dietary_restrictions": [
-"pescatarian",
-"peanut-free"
-],
+      "pescatarian",
+      "peanut-free"
+    ],
     "time": 60,
     "ingredients": [
-"cream cheese",
-"immitation crab",
-"scallions",
-"wonton wrappers",
-"salt",
-"onion powder"
-],
+      "cream cheese",
+      "immitation crab",
+      "scallions",
+      "wonton wrappers",
+      "salt",
+      "onion powder"
+    ],
     "instructions": [
-"In a mixing bowl, combine 8 oz softened cream cheese, 6 oz finely minced imitation crab, 2 thinly sliced scallions, 1/2 teaspoon onion powder, and 1/4 teaspoon salt until smooth and uniform.",
-"Lay out 24 square wonton wrappers, place 1 heaped teaspoon of filling in the center of each, and brush all four edges lightly with water.",
-"Bring the four corners up to meet in the center and pinch all seams firmly shut so no air pockets remain (which prevents bursting during frying).",
-"Heat 2 inches of neutral frying oil in a heavy pot to 350°F and fry the rangoons in batches for 2 to 3 minutes until golden brown and blistered, then drain on a wire rack or paper towels."
-]
+      "In a mixing bowl, combine 8 oz softened cream cheese, 6 oz finely minced imitation crab, 2 thinly sliced scallions, 1/2 teaspoon onion powder, and 1/4 teaspoon salt until smooth and uniform.",
+      "Lay out 24 square wonton wrappers, place 1 heaped teaspoon of filling in the center of each, and brush all four edges lightly with water.",
+      "Bring the four corners up to meet in the center and pinch all seams firmly shut so no air pockets remain (which prevents bursting during frying).",
+      "Heat 2 inches of neutral frying oil in a heavy pot to 350°F and fry the rangoons in batches for 2 to 3 minutes until golden brown and blistered, then drain on a wire rack or paper towels."
+    ]
   },
   {
     "name": "Ceaser Salad Wrap",
     "cuisine": [
-"american",
-"junk"
-],
+      "american",
+      "junk"
+    ],
     "effort": "easy",
     "budget": "cheap",
     "protien": "vegetarian chicken",
     "dietary_restrictions": [
-"vegetarian",
-"peanut-free"
-],
+      "vegetarian",
+      "peanut-free"
+    ],
     "time": 10,
     "ingredients": [
-"tortilla",
-"ceaser dressing",
-"parmesean",
-"black pepper",
-"italian blend seasoning",
-"lettuce",
-"vegetarian chicken"
-],
+      "tortilla",
+      "ceaser dressing",
+      "parmesean",
+      "black pepper",
+      "italian blend seasoning",
+      "lettuce",
+      "vegetarian chicken"
+    ],
     "instructions": [
-"Heat a lightly oiled skillet over medium-high heat and sear 1 cup of vegetarian chicken strips with 1/2 teaspoon Italian blend seasoning for 4 to 5 minutes until golden and crisp on the edges.",
-"In a bowl, toss 2 cups of chopped crisp romaine lettuce with 2 tablespoons Caesar dressing, 2 tablespoons grated parmesan, and 1/4 teaspoon freshly cracked black pepper until evenly coated.",
-"Warm 1 large 10-inch flour tortilla in a dry pan or microwave for 10 seconds to make it pliable, pile the dressed Caesar salad and warm vegetarian chicken down the center, fold in the left and right sides, and roll tightly from the bottom up."
-]
+      "Heat a lightly oiled skillet over medium-high heat and sear 1 cup of vegetarian chicken strips with 1/2 teaspoon Italian blend seasoning for 4 to 5 minutes until golden and crisp on the edges.",
+      "In a bowl, toss 2 cups of chopped crisp romaine lettuce with 2 tablespoons Caesar dressing, 2 tablespoons grated parmesan, and 1/4 teaspoon freshly cracked black pepper until evenly coated.",
+      "Warm 1 large 10-inch flour tortilla in a dry pan or microwave for 10 seconds to make it pliable, pile the dressed Caesar salad and warm vegetarian chicken down the center, fold in the left and right sides, and roll tightly from the bottom up."
+    ]
   },
   {
     "name": "Mac-And-Cheese",
     "cuisine": [
-"american",
-"junk"
-],
+      "american",
+      "junk"
+    ],
     "effort": "medium",
     "budget": "moderate",
     "protien": "cheese",
     "dietary_restrictions": [
-"vegetarian",
-"soy-free",
-"peanut-free"
-],
+      "vegetarian",
+      "soy-free",
+      "peanut-free"
+    ],
     "time": 40,
     "ingredients": [
-"pasta",
-"butter",
-"all purpose flour",
-"onion powder",
-"garlic powder",
-"paprika",
-"salt",
-"black pepper",
-"hot sauce",
-"yellow mustard",
-"heavy cream",
-"mozzerella cheese",
-"extra sharp cheddar cheese",
-"smoked gouda",
-"water",
-"white wine"
-],
+      "pasta",
+      "butter",
+      "all purpose flour",
+      "onion powder",
+      "garlic powder",
+      "paprika",
+      "salt",
+      "black pepper",
+      "hot sauce",
+      "yellow mustard",
+      "heavy cream",
+      "mozzerella cheese",
+      "extra sharp cheddar cheese",
+      "smoked gouda",
+      "water",
+      "white wine"
+    ],
     "instructions": [
-"Boil 1 lb of elbow or cavatappi pasta in salted water for 1 minute less than package directions until al dente, then drain.",
-"In a large Dutch oven over medium heat, melt 4 tablespoons of butter, whisk in 1/4 cup all-purpose flour, and cook for 1 to 2 minutes until pale golden and bubbly.",
-"Slowly pour in 1/4 cup dry white wine while whisking smoothly, followed by 1.5 cups heavy cream and 1/2 cup water; simmer for 3 to 4 minutes until the sauce coats the back of a spoon.",
-"Whisk in 1 teaspoon yellow mustard, 1 teaspoon hot sauce, 1/2 teaspoon each of onion powder, garlic powder, paprika, and salt, and 1/4 teaspoon black pepper.",
-"Turn off the heat completely and stir in 1.5 cups freshly shredded extra sharp cheddar, 1 cup shredded mozzarella, and 1 cup shredded smoked gouda one handful at a time until smooth, then fold in the cooked pasta."
-]
+      "Boil 1 lb of elbow or cavatappi pasta in salted water for 1 minute less than package directions until al dente, then drain.",
+      "In a large Dutch oven over medium heat, melt 4 tablespoons of butter, whisk in 1/4 cup all-purpose flour, and cook for 1 to 2 minutes until pale golden and bubbly.",
+      "Slowly pour in 1/4 cup dry white wine while whisking smoothly, followed by 1.5 cups heavy cream and 1/2 cup water; simmer for 3 to 4 minutes until the sauce coats the back of a spoon.",
+      "Whisk in 1 teaspoon yellow mustard, 1 teaspoon hot sauce, 1/2 teaspoon each of onion powder, garlic powder, paprika, and salt, and 1/4 teaspoon black pepper.",
+      "Turn off the heat completely and stir in 1.5 cups freshly shredded extra sharp cheddar, 1 cup shredded mozzarella, and 1 cup shredded smoked gouda one handful at a time until smooth, then fold in the cooked pasta."
+    ]
   },
   {
     "name": "Max's Potato Soup",
     "cuisine": [
-"american",
-"junk"
-],
+      "american",
+      "junk"
+    ],
     "effort": "easy",
     "budget": "cheap",
     "protien": "none",
     "dietary_restrictions": [
-"vegetarian",
-"gluten-free",
-"soy-free"
-],
+      "vegetarian",
+      "gluten-free",
+      "soy-free"
+    ],
     "time": 45,
     "ingredients": [
-"balls",
-"gucci morty",
-"wilson",
-"ugliness"
-],
+      "balls",
+      "gucci morty",
+      "wilson",
+      "ugliness"
+    ],
     "instructions": [
-"Combine 2 cups of balls, 1 generous dash of gucci morty, and 1 whole diced wilson in a heavy cauldron over medium heat.",
-"Bring to a gentle bubble, cover, and simmer for 45 minutes while stirring occasionally.",
-"Ladle into bowls, stir in 3 tablespoons of ugliness to taste, and serve piping hot."
-]
+      "Combine 2 cups of balls, 1 generous dash of gucci morty, and 1 whole diced wilson in a heavy cauldron over medium heat.",
+      "Bring to a gentle bubble, cover, and simmer for 45 minutes while stirring occasionally.",
+      "Ladle into bowls, stir in 3 tablespoons of ugliness to taste, and serve piping hot."
+    ]
   },
   {
     "name": "Salmon Cous Cous Bowl",
     "cuisine": [
-"greek",
-"healthy"
-],
+      "greek",
+      "healthy"
+    ],
     "effort": "medium",
     "budget": "expensive",
     "protien": "salmon",
     "dietary_restrictions": [
-"pescatarian",
-"soy-free",
-"peanut-free"
-],
+      "pescatarian",
+      "soy-free",
+      "peanut-free"
+    ],
     "time": 65,
     "ingredients": [
-"salmon",
-"olive oil",
-"hummus",
-"garlic",
-"cucumber",
-"dill",
-"greek yogurt",
-"black olives",
-"salt",
-"black pepper",
-"onion powder",
-"lemon",
-"oregano",
-"cous cous",
-"paprika",
-"tomatoes",
-"saffron",
-"feta cheese",
-"red bell pepper",
-"purple cabbage"
-],
+      "salmon",
+      "olive oil",
+      "hummus",
+      "garlic",
+      "cucumber",
+      "dill",
+      "greek yogurt",
+      "black olives",
+      "salt",
+      "black pepper",
+      "onion powder",
+      "lemon",
+      "oregano",
+      "cous cous",
+      "paprika",
+      "tomatoes",
+      "saffron",
+      "feta cheese",
+      "red bell pepper",
+      "purple cabbage"
+    ],
     "instructions": [
-"Crush a generous pinch of saffron threads into 1.5 cups boiling water with 1/4 teaspoon salt, stir in 1 cup dry couscous, cover tightly off the heat for 10 minutes, and fluff with a fork.",
-"Rub 2 salmon fillets (12 oz total) with 1 tablespoon olive oil, 1 teaspoon dried oregano, 1/2 teaspoon paprika, 1/2 teaspoon onion powder, 1/2 teaspoon salt, and 1/4 teaspoon black pepper; roast on a lined baking sheet at 400°F for 12 to 15 minutes until flaky.",
-"Grate 1/3 cup cucumber, squeeze out excess liquid in a paper towel, and mix with 1/2 cup Greek yogurt, 1 tablespoon chopped fresh dill, 1 clove minced garlic, 1 tablespoon lemon juice, and a pinch of salt.",
-"Assemble bowls with a base of saffron couscous, the roasted salmon, 2 tablespoons hummus, cucumber-dill yogurt sauce, 1/2 cup diced tomatoes, 1/2 cup diced red bell pepper, 1/2 cup thinly shredded purple cabbage, 1/4 cup sliced black olives, and 1/3 cup crumbled feta cheese."
-]
+      "Crush a generous pinch of saffron threads into 1.5 cups boiling water with 1/4 teaspoon salt, stir in 1 cup dry couscous, cover tightly off the heat for 10 minutes, and fluff with a fork.",
+      "Rub 2 salmon fillets (12 oz total) with 1 tablespoon olive oil, 1 teaspoon dried oregano, 1/2 teaspoon paprika, 1/2 teaspoon onion powder, 1/2 teaspoon salt, and 1/4 teaspoon black pepper; roast on a lined baking sheet at 400°F for 12 to 15 minutes until flaky.",
+      "Grate 1/3 cup cucumber, squeeze out excess liquid in a paper towel, and mix with 1/2 cup Greek yogurt, 1 tablespoon chopped fresh dill, 1 clove minced garlic, 1 tablespoon lemon juice, and a pinch of salt.",
+      "Assemble bowls with a base of saffron couscous, the roasted salmon, 2 tablespoons hummus, cucumber-dill yogurt sauce, 1/2 cup diced tomatoes, 1/2 cup diced red bell pepper, 1/2 cup thinly shredded purple cabbage, 1/4 cup sliced black olives, and 1/3 cup crumbled feta cheese."
+    ]
   },
   {
     "name": "Shrimp Udon Soup",
     "cuisine": [
-"japanese",
-"healthy"
-],
+      "japanese",
+      "healthy"
+    ],
     "effort": "easy",
     "budget": "moderate",
     "protien": "shrimp",
     "dietary_restrictions": [
-"pescatarian",
-"dairy-free",
-"peanut-free"
-],
+      "pescatarian",
+      "dairy-free",
+      "peanut-free"
+    ],
     "time": 30,
     "ingredients": [
-"sesame oil",
-"onion",
-"shrimp",
-"vegetable broth paste",
-"garlic",
-"ginger",
-"red pepper flakes",
-"black pepper",
-"soy sauce",
-"oyster sauce",
-"chili crisp oil",
-"udon noodles",
-"bok choy or cabbage",
-"egg",
-"green onion"
-],
+      "sesame oil",
+      "onion",
+      "shrimp",
+      "vegetable broth paste",
+      "garlic",
+      "ginger",
+      "red pepper flakes",
+      "black pepper",
+      "soy sauce",
+      "oyster sauce",
+      "chili crisp oil",
+      "udon noodles",
+      "bok choy or cabbage",
+      "egg",
+      "green onion"
+    ],
     "instructions": [
-"Bring a small pot of water to a boil, gently lower in 2 eggs, boil for 6.5 minutes for jammy yolks, then transfer to an ice bath and peel.",
-"In a soup pot over medium heat, warm 1 tablespoon sesame oil and sauté 1/2 thinly sliced onion, 2 cloves minced garlic, and 1 tablespoon grated ginger for 2 to 3 minutes until fragrant.",
-"Pour in 4 cups water and whisk in 1 tablespoon vegetable broth paste, 2 tablespoons soy sauce, 1 tablespoon oyster sauce, 1/4 teaspoon black pepper, and 1/4 teaspoon red pepper flakes; bring to a simmer.",
-"Add 2 packs (14 oz) frozen or fresh udon noodles, 2 cups chopped bok choy or cabbage, and 1/2 lb peeled shrimp; simmer for 3 to 4 minutes until the noodles loosen and the shrimp turn pink.",
-"Divide into bowls and garnish each with a halved jammy egg, 2 sliced green onions, and 1 teaspoon chili crisp oil."
-]
+      "Bring a small pot of water to a boil, gently lower in 2 eggs, boil for 6.5 minutes for jammy yolks, then transfer to an ice bath and peel.",
+      "In a soup pot over medium heat, warm 1 tablespoon sesame oil and sauté 1/2 thinly sliced onion, 2 cloves minced garlic, and 1 tablespoon grated ginger for 2 to 3 minutes until fragrant.",
+      "Pour in 4 cups water and whisk in 1 tablespoon vegetable broth paste, 2 tablespoons soy sauce, 1 tablespoon oyster sauce, 1/4 teaspoon black pepper, and 1/4 teaspoon red pepper flakes; bring to a simmer.",
+      "Add 2 packs (14 oz) frozen or fresh udon noodles, 2 cups chopped bok choy or cabbage, and 1/2 lb peeled shrimp; simmer for 3 to 4 minutes until the noodles loosen and the shrimp turn pink.",
+      "Divide into bowls and garnish each with a halved jammy egg, 2 sliced green onions, and 1 teaspoon chili crisp oil."
+    ]
   },
   {
     "name": "Paneer Tikka Masala",
     "cuisine": [
-"indian",
-"healthy"
-],
+      "indian",
+      "healthy"
+    ],
     "effort": "hard",
     "budget": "expensive",
     "protien": "paneer",
     "dietary_restrictions": [
-"vegetarian",
-"gluten-free",
-"soy-free",
-"peanut-free"
-],
+      "vegetarian",
+      "gluten-free",
+      "soy-free",
+      "peanut-free"
+    ],
     "time": 80,
     "ingredients": [
-"paneer",
-"greek yogurt",
-"garlic",
-"ginger",
-"kashmiri red chili powder",
-"garam masala",
-"fenugreek",
-"tumeric",
-"salt",
-"lemon",
-"olive oil",
-"red bell pepper",
-"onion",
-"cardamom",
-"cinnamon",
-"cloves",
-"bay leaf",
-"tomatoes",
-"cashews",
-"sugar",
-"water",
-"heavy cream",
-"cilantro"
-],
+      "paneer",
+      "greek yogurt",
+      "garlic",
+      "ginger",
+      "kashmiri red chili powder",
+      "garam masala",
+      "fenugreek",
+      "tumeric",
+      "salt",
+      "lemon",
+      "olive oil",
+      "red bell pepper",
+      "onion",
+      "cardamom",
+      "cinnamon",
+      "cloves",
+      "bay leaf",
+      "tomatoes",
+      "cashews",
+      "sugar",
+      "water",
+      "heavy cream",
+      "cilantro"
+    ],
     "instructions": [
-"Whisk 1/2 cup Greek yogurt with 1 tablespoon lemon juice, 2 cloves minced garlic, 1 tablespoon grated ginger, 1 teaspoon Kashmiri red chili powder, 1/2 teaspoon turmeric, and 1/2 teaspoon salt; toss 14 oz cubed paneer and 1 chopped red bell pepper in the marinade and chill 30 minutes.",
-"Heat 1 tablespoon olive oil in a skillet over medium-high heat and sear the marinated paneer and bell peppers for 2 minutes per side until lightly charred, then set aside.",
-"In a pot, combine 1 chopped onion, 3 roughly chopped tomatoes, 1/4 cup raw cashews, 3 green cardamom pods, 1 cinnamon stick, 3 cloves, 1 bay leaf, and 1.5 cups water; simmer covered for 15 minutes until soft, remove the whole spices, and blend until silky smooth.",
-"Pour the blended masala gravy back into the pan over medium heat, stir in 1 teaspoon garam masala, 1 teaspoon crushed dried fenugreek leaves (kasuri methi), 1 teaspoon sugar, and 1/3 cup heavy cream, and simmer for 8 minutes.",
-"Fold in the seared paneer and peppers, simmer 2 minutes more to warm through, and finish with 1/4 cup chopped fresh cilantro."
-]
+      "Whisk 1/2 cup Greek yogurt with 1 tablespoon lemon juice, 2 cloves minced garlic, 1 tablespoon grated ginger, 1 teaspoon Kashmiri red chili powder, 1/2 teaspoon turmeric, and 1/2 teaspoon salt; toss 14 oz cubed paneer and 1 chopped red bell pepper in the marinade and chill 30 minutes.",
+      "Heat 1 tablespoon olive oil in a skillet over medium-high heat and sear the marinated paneer and bell peppers for 2 minutes per side until lightly charred, then set aside.",
+      "In a pot, combine 1 chopped onion, 3 roughly chopped tomatoes, 1/4 cup raw cashews, 3 green cardamom pods, 1 cinnamon stick, 3 cloves, 1 bay leaf, and 1.5 cups water; simmer covered for 15 minutes until soft, remove the whole spices, and blend until silky smooth.",
+      "Pour the blended masala gravy back into the pan over medium heat, stir in 1 teaspoon garam masala, 1 teaspoon crushed dried fenugreek leaves (kasuri methi), 1 teaspoon sugar, and 1/3 cup heavy cream, and simmer for 8 minutes.",
+      "Fold in the seared paneer and peppers, simmer 2 minutes more to warm through, and finish with 1/4 cup chopped fresh cilantro."
+    ]
   },
   {
     "name": "Punjabi Potato Samosas",
     "cuisine": [
-"indian",
-"junk"
-],
+      "indian",
+      "junk"
+    ],
     "effort": "hard",
     "budget": "cheap",
     "protien": "none",
     "dietary_restrictions": [
-"vegetarian",
-"soy-free",
-"peanut-free"
-],
+      "vegetarian",
+      "soy-free",
+      "peanut-free"
+    ],
     "time": 90,
     "ingredients": [
-"all purpose flour",
-"cardamom seeds",
-"salt",
-"ghee",
-"potatoes",
-"water",
-"cumin seeds",
-"minced ginger",
-"green chilies",
-"asafoetida",
-"red chili powder",
-"garam masala",
-"cumin powder",
-"fennel powder",
-"green peas",
-"cilantro",
-"lemon juice",
-"vegetable oil"
-],
+      "all purpose flour",
+      "cardamom seeds",
+      "salt",
+      "ghee",
+      "potatoes",
+      "water",
+      "cumin seeds",
+      "minced ginger",
+      "green chilies",
+      "asafoetida",
+      "red chili powder",
+      "garam masala",
+      "cumin powder",
+      "fennel powder",
+      "green peas",
+      "cilantro",
+      "lemon juice",
+      "vegetable oil"
+    ],
     "instructions": [
-"Rub 1/4 cup melted ghee into 2 cups all-purpose flour, 1/2 teaspoon salt, and 1/4 teaspoon crushed cardamom seeds until crumbly; knead in 1/2 cup water gradually to form a firm, stiff dough, cover with a damp cloth, and rest 30 minutes.",
-"Boil 3 medium potatoes until fork-tender, peel, and coarsely mash with a fork so small chunks remain.",
-"Heat 1 tablespoon vegetable oil over medium heat, sizzle 1 teaspoon cumin seeds, 1 tablespoon minced ginger, 2 finely chopped green chilies, and a pinch of asafoetida for 30 seconds, then stir in the potatoes, 1/2 cup green peas, 1 teaspoon garam masala, 1 teaspoon cumin powder, 1 teaspoon fennel powder, 1/2 teaspoon red chili powder, 1/2 teaspoon salt, 1 tablespoon lemon juice, and 1/4 cup chopped cilantro; let cool completely.",
-"Divide dough into 6 balls, roll each into a thin 7-inch oval, cut in half horizontally, brush the straight edge with water, fold into a cone, stuff with 2 tablespoons cooled filling, and pinch the top edge shut.",
-"Deep-fry in vegetable oil heated to 325°F (medium-low) for 7 to 9 minutes, turning occasionally, until blister-free, golden brown, and flaky."
-]
+      "Rub 1/4 cup melted ghee into 2 cups all-purpose flour, 1/2 teaspoon salt, and 1/4 teaspoon crushed cardamom seeds until crumbly; knead in 1/2 cup water gradually to form a firm, stiff dough, cover with a damp cloth, and rest 30 minutes.",
+      "Boil 3 medium potatoes until fork-tender, peel, and coarsely mash with a fork so small chunks remain.",
+      "Heat 1 tablespoon vegetable oil over medium heat, sizzle 1 teaspoon cumin seeds, 1 tablespoon minced ginger, 2 finely chopped green chilies, and a pinch of asafoetida for 30 seconds, then stir in the potatoes, 1/2 cup green peas, 1 teaspoon garam masala, 1 teaspoon cumin powder, 1 teaspoon fennel powder, 1/2 teaspoon red chili powder, 1/2 teaspoon salt, 1 tablespoon lemon juice, and 1/4 cup chopped cilantro; let cool completely.",
+      "Divide dough into 6 balls, roll each into a thin 7-inch oval, cut in half horizontally, brush the straight edge with water, fold into a cone, stuff with 2 tablespoons cooled filling, and pinch the top edge shut.",
+      "Deep-fry in vegetable oil heated to 325°F (medium-low) for 7 to 9 minutes, turning occasionally, until blister-free, golden brown, and flaky."
+    ]
   },
   {
     "name": "Ojingeo Deopbap",
     "cuisine": [
-"korean",
-"healthy"
-],
+      "korean",
+      "healthy"
+    ],
     "effort": "medium",
     "budget": "expensive",
     "protien": "squid",
     "dietary_restrictions": [
-"pescatarian",
-"dairy-free",
-"peanut-free"
-],
+      "pescatarian",
+      "dairy-free",
+      "peanut-free"
+    ],
     "time": 60,
     "ingredients": [
-"squid",
-"rice wine",
-"onion",
-"green onion",
-"carrot",
-"green cabbage",
-"olive oil",
-"sesame oil",
-"rice",
-"water",
-"salt",
-"egg",
-"gochujang",
-"soy sauce",
-"gochugaru",
-"korean chili oil",
-"sugar",
-"minced garlic",
-"black pepper",
-"sesame seeds"
-],
+      "squid",
+      "rice wine",
+      "onion",
+      "green onion",
+      "carrot",
+      "green cabbage",
+      "olive oil",
+      "sesame oil",
+      "rice",
+      "water",
+      "salt",
+      "egg",
+      "gochujang",
+      "soy sauce",
+      "gochugaru",
+      "korean chili oil",
+      "sugar",
+      "minced garlic",
+      "black pepper",
+      "sesame seeds"
+    ],
     "instructions": [
-"Rinse 1.5 cups short-grain rice until water runs clear, then cook in 2 cups water with a pinch of salt until steamed and tender.",
-"Clean 1 lb of squid, score the inside in a shallow diamond crosshatch pattern, and slice into 1.5-inch bite-sized pieces.",
-"In a small bowl, whisk 2 tablespoons gochujang, 1 tablespoon gochugaru (Korean chili flakes), 2 tablespoons soy sauce, 1 tablespoon rice wine, 1 tablespoon sugar, 1 tablespoon minced garlic, 1 teaspoon Korean chili oil, and 1/4 teaspoon black pepper.",
-"Heat 1 tablespoon olive oil in a wok or wide skillet over high heat, stir-fry 1/2 sliced onion, 1/2 julienned carrot, and 1.5 cups chopped green cabbage for 2 minutes, then add the squid and sauce and stir-fry rapidly for 2 minutes until the squid curls and turns opaque (do not overcook).",
-"Remove from heat, toss with 1 teaspoon sesame oil, and serve over warm rice topped with 2 sliced green onions, 1 teaspoon toasted sesame seeds, and 1 crispy fried egg."
-]
+      "Rinse 1.5 cups short-grain rice until water runs clear, then cook in 2 cups water with a pinch of salt until steamed and tender.",
+      "Clean 1 lb of squid, score the inside in a shallow diamond crosshatch pattern, and slice into 1.5-inch bite-sized pieces.",
+      "In a small bowl, whisk 2 tablespoons gochujang, 1 tablespoon gochugaru (Korean chili flakes), 2 tablespoons soy sauce, 1 tablespoon rice wine, 1 tablespoon sugar, 1 tablespoon minced garlic, 1 teaspoon Korean chili oil, and 1/4 teaspoon black pepper.",
+      "Heat 1 tablespoon olive oil in a wok or wide skillet over high heat, stir-fry 1/2 sliced onion, 1/2 julienned carrot, and 1.5 cups chopped green cabbage for 2 minutes, then add the squid and sauce and stir-fry rapidly for 2 minutes until the squid curls and turns opaque (do not overcook).",
+      "Remove from heat, toss with 1 teaspoon sesame oil, and serve over warm rice topped with 2 sliced green onions, 1 teaspoon toasted sesame seeds, and 1 crispy fried egg."
+    ]
   },
   {
     "name": "Yubu Kimbap",
     "cuisine": [
-"korean",
-"healthy"
-],
+      "korean",
+      "healthy"
+    ],
     "effort": "medium",
     "budget": "cheap",
     "protien": "tofu",
     "dietary_restrictions": [
-"vegetarian",
-"gluten-free",
-"dairy-free",
-"peanut-free"
-],
+      "vegetarian",
+      "gluten-free",
+      "dairy-free",
+      "peanut-free"
+    ],
     "time": 55,
     "ingredients": [
-"rice",
-"sea salt",
-"sesame oil",
-"vinegar",
-"water",
-"deep fried tofu",
-"soy sauce",
-"egg",
-"carrot",
-"perilla",
-"yellow radish pickle",
-"black pepper",
-"sea weed"
-],
+      "rice",
+      "sea salt",
+      "sesame oil",
+      "vinegar",
+      "water",
+      "deep fried tofu",
+      "soy sauce",
+      "egg",
+      "carrot",
+      "perilla",
+      "yellow radish pickle",
+      "black pepper",
+      "sea weed"
+    ],
     "instructions": [
-"Fold 1 tablespoon sesame oil and 1/2 teaspoon sea salt into 2 cups warm cooked short-grain rice and let cool slightly.",
-"Simmer 6 deep-fried tofu pouches (yubu) in 2 tablespoons soy sauce, 1 tablespoon vinegar, and 1/4 cup water for 5 minutes until seasoned, then squeeze gently and slice into strips.",
-"Sauté 1 julienned carrot in a lightly oiled pan for 2 minutes until tender-crisp; whisk 3 eggs with 1/4 teaspoon black pepper, cook into a thin flat omelet, and slice into long strips.",
-"Place 1 sheet of roasted seaweed (gim) shiny-side down on a bamboo mat, spread 1/2 cup seasoned rice evenly over two-thirds of the sheet, and layer 2 perilla leaves, marinated tofu strips, egg strips, carrots, and 1 strip of yellow radish pickle across the center.",
-"Roll tightly away from you using the mat, seal the top edge with a few grains of rice, brush the outside lightly with sesame oil, and slice into 1/2-inch bite-sized rounds."
-]
+      "Fold 1 tablespoon sesame oil and 1/2 teaspoon sea salt into 2 cups warm cooked short-grain rice and let cool slightly.",
+      "Simmer 6 deep-fried tofu pouches (yubu) in 2 tablespoons soy sauce, 1 tablespoon vinegar, and 1/4 cup water for 5 minutes until seasoned, then squeeze gently and slice into strips.",
+      "Sauté 1 julienned carrot in a lightly oiled pan for 2 minutes until tender-crisp; whisk 3 eggs with 1/4 teaspoon black pepper, cook into a thin flat omelet, and slice into long strips.",
+      "Place 1 sheet of roasted seaweed (gim) shiny-side down on a bamboo mat, spread 1/2 cup seasoned rice evenly over two-thirds of the sheet, and layer 2 perilla leaves, marinated tofu strips, egg strips, carrots, and 1 strip of yellow radish pickle across the center.",
+      "Roll tightly away from you using the mat, seal the top edge with a few grains of rice, brush the outside lightly with sesame oil, and slice into 1/2-inch bite-sized rounds."
+    ]
   },
   {
     "name": "Amber's Paksiw na Isda",
     "cuisine": [
-"filipino",
-"healthy"
-],
+      "filipino",
+      "healthy"
+    ],
     "effort": "easy",
     "budget": "cheap",
     "protien": "fish",
     "dietary_restrictions": [
-"pescatarian",
-"gluten-free",
-"dairy-free",
-"soy-free",
-"peanut-free"
-],
+      "pescatarian",
+      "gluten-free",
+      "dairy-free",
+      "soy-free",
+      "peanut-free"
+    ],
     "time": 30,
     "ingredients": [
-"fish (your choice)",
-"knob ginger",
-"garlic",
-"vinegar",
-"water",
-"onion",
-"bitter gourd",
-"finger chili",
-"salt",
-"whole peppercorn"
-],
+      "fish (your choice)",
+      "knob ginger",
+      "garlic",
+      "vinegar",
+      "water",
+      "onion",
+      "bitter gourd",
+      "finger chili",
+      "salt",
+      "whole peppercorn"
+    ],
     "instructions": [
-"Slice 1 2-inch knob of ginger into strips, crush 4 cloves of garlic, and slice 1 medium onion; arrange them in an even bed across the bottom of a wide pot or deep skillet to prevent sticking.",
-"Lay 1.5 lbs of cleaned fish steaks or whole small fish (such as bangus, mackerel, or tilapia) and 1 sliced, seeded bitter gourd (ampalaya) over the aromatics.",
-"Pour in 1/2 cup cane or white vinegar and 1/2 cup water, then scatter 1 teaspoon whole black peppercorns, 1 teaspoon salt, and 2 whole green finger chilies over the top.",
-"Bring to a rolling boil uncovered without stirring (to cook off the raw vinegar bite), then reduce heat to low, cover, and simmer for 15 to 20 minutes until the fish is tender and the broth reduces slightly."
-]
+      "Slice 1 2-inch knob of ginger into strips, crush 4 cloves of garlic, and slice 1 medium onion; arrange them in an even bed across the bottom of a wide pot or deep skillet to prevent sticking.",
+      "Lay 1.5 lbs of cleaned fish steaks or whole small fish (such as bangus, mackerel, or tilapia) and 1 sliced, seeded bitter gourd (ampalaya) over the aromatics.",
+      "Pour in 1/2 cup cane or white vinegar and 1/2 cup water, then scatter 1 teaspoon whole black peppercorns, 1 teaspoon salt, and 2 whole green finger chilies over the top.",
+      "Bring to a rolling boil uncovered without stirring (to cook off the raw vinegar bite), then reduce heat to low, cover, and simmer for 15 to 20 minutes until the fish is tender and the broth reduces slightly."
+    ]
   },
   {
     "name": "Caprese Avocado Toast",
     "cuisine": [
-"american",
-"healthy"
-],
+      "american",
+      "healthy"
+    ],
     "effort": "easy",
     "budget": "cheap",
     "protien": "cheese",
     "dietary_restrictions": [
-"vegetarian",
-"soy-free",
-"peanut-free"
-],
+      "vegetarian",
+      "soy-free",
+      "peanut-free"
+    ],
     "time": 10,
     "ingredients": [
-"sourdough bread",
-"avocado",
-"fresh mozzarella",
-"cherry tomatoes",
-"balsamic glaze",
-"basil",
-"salt",
-"black pepper"
-],
+      "sourdough bread",
+      "avocado",
+      "fresh mozzarella",
+      "cherry tomatoes",
+      "balsamic glaze",
+      "basil",
+      "salt",
+      "black pepper"
+    ],
     "instructions": [
-"Toast 2 thick-cut slices of crusty sourdough bread until deeply golden and sturdy enough to hold toppings.",
-"Halve and pit 1 ripe avocado, scoop the flesh onto the warm toast, mash coarsely with a fork, and season evenly with 1/4 teaspoon flaky salt and 1/4 teaspoon freshly cracked black pepper.",
-"Layer 4 slices of fresh mozzarella and 1/2 cup halved cherry tomatoes over the avocado, scatter 4 torn fresh basil leaves on top, and finish with a 1-tablespoon drizzle of balsamic glaze."
-]
+      "Toast 2 thick-cut slices of crusty sourdough bread until deeply golden and sturdy enough to hold toppings.",
+      "Halve and pit 1 ripe avocado, scoop the flesh onto the warm toast, mash coarsely with a fork, and season evenly with 1/4 teaspoon flaky salt and 1/4 teaspoon freshly cracked black pepper.",
+      "Layer 4 slices of fresh mozzarella and 1/2 cup halved cherry tomatoes over the avocado, scatter 4 torn fresh basil leaves on top, and finish with a 1-tablespoon drizzle of balsamic glaze."
+    ]
   },
   {
     "name": "Creamy Mushroom Risotto",
     "cuisine": [
-"italian",
-"healthy"
-],
+      "italian",
+      "healthy"
+    ],
     "effort": "medium",
     "budget": "moderate",
     "protien": "mushrooms",
     "dietary_restrictions": [
-"vegetarian",
-"gluten-free",
-"soy-free",
-"peanut-free"
-],
+      "vegetarian",
+      "gluten-free",
+      "soy-free",
+      "peanut-free"
+    ],
     "time": 40,
     "ingredients": [
-"arborio rice",
-"cremini mushrooms",
-"vegetable broth",
-"parmesan cheese",
-"butter",
-"garlic",
-"white wine",
-"shallots",
-"olive oil"
-],
+      "arborio rice",
+      "cremini mushrooms",
+      "vegetable broth",
+      "parmesan cheese",
+      "butter",
+      "garlic",
+      "white wine",
+      "shallots",
+      "olive oil"
+    ],
     "instructions": [
-"Bring 4 cups of vegetable broth to a gentle simmer in a saucepan and keep warm over low heat; in a separate wide pan, sear 8 oz sliced cremini mushrooms in 1 tablespoon olive oil over medium-high heat for 6 minutes until browned, then set aside.",
-"Lower heat to medium, melt 1 tablespoon butter in the pan, sauté 2 finely minced shallots and 2 cloves minced garlic for 2 minutes until translucent, then add 1 cup dry arborio rice and stir for 2 minutes until the edges turn translucent.",
-"Pour in 1/2 cup dry white wine and stir continuously until completely absorbed.",
-"Add the warm vegetable broth 1/2 cup at a time, stirring frequently and waiting until each addition is nearly absorbed before adding the next (about 18 to 20 minutes total) until the rice is creamy yet al dente.",
-"Remove from heat and vigorously fold in the seared mushrooms, 1/2 cup grated parmesan cheese, and 1 remaining tablespoon of cold butter until glossy."
-]
+      "Bring 4 cups of vegetable broth to a gentle simmer in a saucepan and keep warm over low heat; in a separate wide pan, sear 8 oz sliced cremini mushrooms in 1 tablespoon olive oil over medium-high heat for 6 minutes until browned, then set aside.",
+      "Lower heat to medium, melt 1 tablespoon butter in the pan, sauté 2 finely minced shallots and 2 cloves minced garlic for 2 minutes until translucent, then add 1 cup dry arborio rice and stir for 2 minutes until the edges turn translucent.",
+      "Pour in 1/2 cup dry white wine and stir continuously until completely absorbed.",
+      "Add the warm vegetable broth 1/2 cup at a time, stirring frequently and waiting until each addition is nearly absorbed before adding the next (about 18 to 20 minutes total) until the rice is creamy yet al dente.",
+      "Remove from heat and vigorously fold in the seared mushrooms, 1/2 cup grated parmesan cheese, and 1 remaining tablespoon of cold butter until glossy."
+    ]
   },
   {
     "name": "Grilled Fish Tacos",
     "cuisine": [
-"mexican",
-"healthy"
-],
+      "mexican",
+      "healthy"
+    ],
     "effort": "medium",
     "budget": "moderate",
     "protien": "tilapia",
     "dietary_restrictions": [
-"pescatarian",
-"gluten-free",
-"dairy-free",
-"soy-free",
-"peanut-free"
-],
+      "pescatarian",
+      "gluten-free",
+      "dairy-free",
+      "soy-free",
+      "peanut-free"
+    ],
     "time": 25,
     "ingredients": [
-"tilapia fillets",
-"corn tortillas",
-"cabbage slaw",
-"lime",
-"cilantro",
-"avocado",
-"cumin",
-"chili powder",
-"olive oil"
-],
+      "tilapia fillets",
+      "corn tortillas",
+      "cabbage slaw",
+      "lime",
+      "cilantro",
+      "avocado",
+      "cumin",
+      "chili powder",
+      "olive oil"
+    ],
     "instructions": [
-"Pat 1 lb of tilapia fillets dry and rub all over with 1 tablespoon olive oil, 1 teaspoon ground cumin, 1 teaspoon chili powder, and the juice of 1/2 lime.",
-"Grill over medium-high heat or sear in a hot cast-iron skillet for 3 to 4 minutes per side until lightly charred and flaky, then transfer to a plate and break into large chunks.",
-"Char 6 corn tortillas directly over a gas burner or in a dry skillet for 20 seconds per side until pliable.",
-"Assemble tacos with the warm tortillas, flaked tilapia, 1.5 cups crisp cabbage slaw, 1 sliced ripe avocado, 1/4 cup chopped fresh cilantro, and wedges from the remaining 1/2 lime."
-]
+      "Pat 1 lb of tilapia fillets dry and rub all over with 1 tablespoon olive oil, 1 teaspoon ground cumin, 1 teaspoon chili powder, and the juice of 1/2 lime.",
+      "Grill over medium-high heat or sear in a hot cast-iron skillet for 3 to 4 minutes per side until lightly charred and flaky, then transfer to a plate and break into large chunks.",
+      "Char 6 corn tortillas directly over a gas burner or in a dry skillet for 20 seconds per side until pliable.",
+      "Assemble tacos with the warm tortillas, flaked tilapia, 1.5 cups crisp cabbage slaw, 1 sliced ripe avocado, 1/4 cup chopped fresh cilantro, and wedges from the remaining 1/2 lime."
+    ]
   },
   {
     "name": "Baked Lemon Herb Cod",
     "cuisine": [
-"healthy"
-],
+      "healthy"
+    ],
     "effort": "easy",
     "budget": "moderate",
     "protien": "cod",
     "dietary_restrictions": [
-"pescatarian",
-"gluten-free",
-"dairy-free",
-"soy-free",
-"peanut-free"
-],
+      "pescatarian",
+      "gluten-free",
+      "dairy-free",
+      "soy-free",
+      "peanut-free"
+    ],
     "time": 25,
     "ingredients": [
-"cod fillets",
-"lemon",
-"olive oil",
-"garlic",
-"dill",
-"parsley",
-"black pepper",
-"salt"
-],
+      "cod fillets",
+      "lemon",
+      "olive oil",
+      "garlic",
+      "dill",
+      "parsley",
+      "black pepper",
+      "salt"
+    ],
     "instructions": [
-"Preheat the oven to 400°F, pat 4 cod fillets (about 1.5 lbs) dry with paper towels, and arrange them in a lightly greased baking dish.",
-"In a small bowl, whisk 2 tablespoons olive oil, the juice and zest of 1 lemon, 3 cloves minced garlic, 1 tablespoon finely chopped fresh dill, 1 tablespoon chopped parsley, 1/2 teaspoon salt, and 1/4 teaspoon black pepper.",
-"Spoon the lemon-herb mixture evenly over the cod fillets and bake for 12 to 15 minutes until the fish is opaque throughout and flakes effortlessly with a fork."
-]
+      "Preheat the oven to 400°F, pat 4 cod fillets (about 1.5 lbs) dry with paper towels, and arrange them in a lightly greased baking dish.",
+      "In a small bowl, whisk 2 tablespoons olive oil, the juice and zest of 1 lemon, 3 cloves minced garlic, 1 tablespoon finely chopped fresh dill, 1 tablespoon chopped parsley, 1/2 teaspoon salt, and 1/4 teaspoon black pepper.",
+      "Spoon the lemon-herb mixture evenly over the cod fillets and bake for 12 to 15 minutes until the fish is opaque throughout and flakes effortlessly with a fork."
+    ]
   },
   {
     "name": "Chicken Fried Rice with Tamari",
     "cuisine": [
-"chinese",
-"healthy"
-],
+      "chinese",
+      "healthy"
+    ],
     "effort": "easy",
     "budget": "cheap",
     "protien": "chicken",
     "dietary_restrictions": [
-"gluten-free",
-"dairy-free",
-"peanut-free"
-],
+      "gluten-free",
+      "dairy-free",
+      "peanut-free"
+    ],
     "time": 20,
     "ingredients": [
-"jasmine rice",
-"chicken breast",
-"gluten-free tamari",
-"eggs",
-"peas",
-"carrots",
-"sesame oil",
-"green onions"
-],
+      "jasmine rice",
+      "chicken breast",
+      "gluten-free tamari",
+      "eggs",
+      "peas",
+      "carrots",
+      "sesame oil",
+      "green onions"
+    ],
     "instructions": [
-"Cut 1 lb of boneless, skinless chicken breast into 1/2-inch dice and stir-fry in a hot, lightly oiled wok or skillet over high heat for 5 minutes until golden and cooked through.",
-"Push the chicken to one side of the pan, pour 2 lightly beaten eggs into the empty space, scramble until softly set, and mix with the chicken.",
-"Add 1/2 cup finely diced carrots and 1/2 cup peas, stir-frying for 2 minutes until tender-crisp.",
-"Break up 3 cups of cold, day-old cooked jasmine rice into the pan, drizzle in 3 tablespoons gluten-free tamari and 1 tablespoon toasted sesame oil, and toss over high heat for 3 minutes until steaming; garnish with 3 sliced green onions."
-]
+      "Cut 1 lb of boneless, skinless chicken breast into 1/2-inch dice and stir-fry in a hot, lightly oiled wok or skillet over high heat for 5 minutes until golden and cooked through.",
+      "Push the chicken to one side of the pan, pour 2 lightly beaten eggs into the empty space, scramble until softly set, and mix with the chicken.",
+      "Add 1/2 cup finely diced carrots and 1/2 cup peas, stir-frying for 2 minutes until tender-crisp.",
+      "Break up 3 cups of cold, day-old cooked jasmine rice into the pan, drizzle in 3 tablespoons gluten-free tamari and 1 tablespoon toasted sesame oil, and toss over high heat for 3 minutes until steaming; garnish with 3 sliced green onions."
+    ]
   },
   {
     "name": "Stuffed Bell Peppers",
     "cuisine": [
-"american",
-"healthy"
-],
+      "american",
+      "healthy"
+    ],
     "effort": "medium",
     "budget": "moderate",
     "protien": "ground beef",
     "dietary_restrictions": [
-"gluten-free",
-"soy-free",
-"peanut-free"
-],
+      "gluten-free",
+      "soy-free",
+      "peanut-free"
+    ],
     "time": 50,
     "ingredients": [
-"bell peppers",
-"ground beef",
-"white rice",
-"tomato sauce",
-"cheddar cheese",
-"garlic powder",
-"onion",
-"black pepper",
-"salt"
-],
+      "bell peppers",
+      "ground beef",
+      "white rice",
+      "tomato sauce",
+      "cheddar cheese",
+      "garlic powder",
+      "onion",
+      "black pepper",
+      "salt"
+    ],
     "instructions": [
-"Preheat the oven to 375°F; slice the tops off 4 large bell peppers, scoop out the seeds and membranes, place cut-side up in a baking dish, and pre-bake for 15 minutes to soften.",
-"Meanwhile, brown 1 lb of ground beef and 1 diced medium onion in a skillet over medium-high heat for 6 to 7 minutes, breaking up the meat, then drain excess grease.",
-"Stir 1.5 cups cooked white rice, 1 cup tomato sauce, 1 teaspoon garlic powder, 1/2 teaspoon salt, and 1/4 teaspoon black pepper into the beef mixture until well combined.",
-"Divide the filling evenly among the pre-baked peppers, mound 1 cup shredded cheddar cheese over the tops, and bake uncovered for 20 minutes until the cheese is melted and bubbly."
-]
+      "Preheat the oven to 375°F; slice the tops off 4 large bell peppers, scoop out the seeds and membranes, place cut-side up in a baking dish, and pre-bake for 15 minutes to soften.",
+      "Meanwhile, brown 1 lb of ground beef and 1 diced medium onion in a skillet over medium-high heat for 6 to 7 minutes, breaking up the meat, then drain excess grease.",
+      "Stir 1.5 cups cooked white rice, 1 cup tomato sauce, 1 teaspoon garlic powder, 1/2 teaspoon salt, and 1/4 teaspoon black pepper into the beef mixture until well combined.",
+      "Divide the filling evenly among the pre-baked peppers, mound 1 cup shredded cheddar cheese over the tops, and bake uncovered for 20 minutes until the cheese is melted and bubbly."
+    ]
   },
   {
     "name": "Classic Beef Bolognese",
     "cuisine": [
-"italian"
-],
+      "italian"
+    ],
     "effort": "medium",
     "budget": "moderate",
     "protien": "ground beef",
     "dietary_restrictions": [
-"soy-free",
-"peanut-free"
-],
+      "soy-free",
+      "peanut-free"
+    ],
     "time": 45,
     "ingredients": [
-"ground beef",
-"spaghetti",
-"crushed tomatoes",
-"onion",
-"garlic",
-"olive oil",
-"oregano",
-"parmesan cheese",
-"salt"
-],
+      "ground beef",
+      "spaghetti",
+      "crushed tomatoes",
+      "onion",
+      "garlic",
+      "olive oil",
+      "oregano",
+      "parmesan cheese",
+      "salt"
+    ],
     "instructions": [
-"Heat 2 tablespoons of olive oil in a heavy pot over medium heat and sauté 1 finely diced medium onion for 5 minutes until softened, then add 3 cloves minced garlic and cook 1 minute more.",
-"Increase heat to medium-high, add 1 lb of ground beef, and cook for 6 to 7 minutes, breaking it up finely with a wooden spoon until well browned.",
-"Pour in 1 can (28 oz) crushed tomatoes, 1 teaspoon dried oregano, and 1 teaspoon salt; reduce heat to low and simmer gently uncovered for 25 minutes until rich and thick.",
-"Boil 12 oz of spaghetti in salted water until al dente, drain, toss directly with the Bolognese sauce, and serve topped with 1/2 cup grated parmesan cheese."
-]
+      "Heat 2 tablespoons of olive oil in a heavy pot over medium heat and sauté 1 finely diced medium onion for 5 minutes until softened, then add 3 cloves minced garlic and cook 1 minute more.",
+      "Increase heat to medium-high, add 1 lb of ground beef, and cook for 6 to 7 minutes, breaking it up finely with a wooden spoon until well browned.",
+      "Pour in 1 can (28 oz) crushed tomatoes, 1 teaspoon dried oregano, and 1 teaspoon salt; reduce heat to low and simmer gently uncovered for 25 minutes until rich and thick.",
+      "Boil 12 oz of spaghetti in salted water until al dente, drain, toss directly with the Bolognese sauce, and serve topped with 1/2 cup grated parmesan cheese."
+    ]
   },
   {
     "name": "Greek Lemon Herb Chicken Thighs",
     "cuisine": [
-"greek",
-"healthy"
-],
+      "greek",
+      "healthy"
+    ],
     "effort": "easy",
     "budget": "cheap",
     "protien": "chicken thighs",
     "dietary_restrictions": [
-"gluten-free",
-"dairy-free",
-"soy-free",
-"peanut-free"
-],
+      "gluten-free",
+      "dairy-free",
+      "soy-free",
+      "peanut-free"
+    ],
     "time": 35,
     "ingredients": [
-"chicken thighs",
-"olive oil",
-"lemon juice",
-"garlic",
-"oregano",
-"salt",
-"black pepper",
-"rosemary"
-],
+      "chicken thighs",
+      "olive oil",
+      "lemon juice",
+      "garlic",
+      "oregano",
+      "salt",
+      "black pepper",
+      "rosemary"
+    ],
     "instructions": [
-"Preheat the oven to 425°F and pat 2 lbs of bone-in, skin-on chicken thighs completely dry with paper towels.",
-"In a large bowl, whisk together 2 tablespoons olive oil, 3 tablespoons fresh lemon juice, 4 cloves minced garlic, 1 tablespoon dried oregano, 1 teaspoon finely chopped fresh rosemary, 1 teaspoon salt, and 1/2 teaspoon black pepper, then toss the chicken thighs until thoroughly coated.",
-"Arrange the thighs skin-side up on a foil-lined baking sheet and roast for 28 to 32 minutes until the skin is deeply golden and crisp and an instant-read thermometer reaches 175°F in the thickest part."
-]
+      "Preheat the oven to 425°F and pat 2 lbs of bone-in, skin-on chicken thighs completely dry with paper towels.",
+      "In a large bowl, whisk together 2 tablespoons olive oil, 3 tablespoons fresh lemon juice, 4 cloves minced garlic, 1 tablespoon dried oregano, 1 teaspoon finely chopped fresh rosemary, 1 teaspoon salt, and 1/2 teaspoon black pepper, then toss the chicken thighs until thoroughly coated.",
+      "Arrange the thighs skin-side up on a foil-lined baking sheet and roast for 28 to 32 minutes until the skin is deeply golden and crisp and an instant-read thermometer reaches 175°F in the thickest part."
+    ]
   }
 ]
