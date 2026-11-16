@@ -10,7 +10,8 @@
     "protien": "shrimp",
     "dietary_restrictions": [
       "pescatarian",
-      "soy-free"
+      "soy-free",
+      "peanut-free"
     ],
     "time": 20,
     "ingredients": [
@@ -45,7 +46,8 @@
     "dietary_restrictions": [
       "pescatarian",
       "gluten-free",
-      "soy-free"
+      "soy-free",
+      "peanut-free"
     ],
     "time": 15,
     "ingredients": [
@@ -73,7 +75,8 @@
     "protien": "anchovy",
     "dietary_restrictions": [
       "pescatarian",
-      "soy-free"
+      "soy-free",
+      "peanut-free"
     ],
     "time": 20,
     "ingredients": [
@@ -107,7 +110,8 @@
     "protien": "white fish",
     "dietary_restrictions": [
       "pescatarian",
-      "soy-free"
+      "soy-free",
+      "peanut-free"
     ],
     "time": 20,
     "ingredients": [
@@ -138,7 +142,9 @@
     "budget": "moderate",
     "protien": "shrimp",
     "dietary_restrictions": [
-      "pescatarian"
+      "pescatarian",
+      "dairy-free",
+      "peanut-free"
     ],
     "time": 80,
     "ingredients": [
@@ -172,7 +178,8 @@
     "budget": "cheap",
     "protien": "immitation crab",
     "dietary_restrictions": [
-      "pescatarian"
+      "pescatarian",
+      "peanut-free"
     ],
     "time": 60,
     "ingredients": [
@@ -200,7 +207,8 @@
     "budget": "cheap",
     "protien": "vegetarian chicken",
     "dietary_restrictions": [
-      "vegetarian"
+      "vegetarian",
+      "peanut-free"
     ],
     "time": 10,
     "ingredients": [
@@ -229,7 +237,8 @@
     "protien": "cheese",
     "dietary_restrictions": [
       "vegetarian",
-      "soy-free"
+      "soy-free",
+      "peanut-free"
     ],
     "time": 40,
     "ingredients": [
@@ -296,7 +305,8 @@
     "protien": "salmon",
     "dietary_restrictions": [
       "pescatarian",
-      "soy-free"
+      "soy-free",
+      "peanut-free"
     ],
     "time": 65,
     "ingredients": [
@@ -338,7 +348,9 @@
     "budget": "moderate",
     "protien": "shrimp",
     "dietary_restrictions": [
-      "pescatarian"
+      "pescatarian",
+      "dairy-free",
+      "peanut-free"
     ],
     "time": 30,
     "ingredients": [
@@ -378,7 +390,8 @@
     "dietary_restrictions": [
       "vegetarian",
       "gluten-free",
-      "soy-free"
+      "soy-free",
+      "peanut-free"
     ],
     "time": 80,
     "ingredients": [
@@ -425,7 +438,8 @@
     "protien": "none",
     "dietary_restrictions": [
       "vegetarian",
-      "soy-free"
+      "soy-free",
+      "peanut-free"
     ],
     "time": 90,
     "ingredients": [
@@ -466,7 +480,9 @@
     "budget": "expensive",
     "protien": "squid",
     "dietary_restrictions": [
-      "pescatarian"
+      "pescatarian",
+      "dairy-free",
+      "peanut-free"
     ],
     "time": 60,
     "ingredients": [
@@ -510,7 +526,9 @@
     "protien": "tofu",
     "dietary_restrictions": [
       "vegetarian",
-      "gluten-free"
+      "gluten-free",
+      "dairy-free",
+      "peanut-free"
     ],
     "time": 55,
     "ingredients": [
@@ -548,7 +566,9 @@
     "dietary_restrictions": [
       "pescatarian",
       "gluten-free",
-      "soy-free"
+      "dairy-free",
+      "soy-free",
+      "peanut-free"
     ],
     "time": 30,
     "ingredients": [
@@ -581,7 +601,8 @@
     "protien": "cheese",
     "dietary_restrictions": [
       "vegetarian",
-      "soy-free"
+      "soy-free",
+      "peanut-free"
     ],
     "time": 10,
     "ingredients": [
@@ -612,7 +633,8 @@
     "dietary_restrictions": [
       "vegetarian",
       "gluten-free",
-      "soy-free"
+      "soy-free",
+      "peanut-free"
     ],
     "time": 40,
     "ingredients": [
@@ -646,7 +668,9 @@
     "dietary_restrictions": [
       "pescatarian",
       "gluten-free",
-      "soy-free"
+      "dairy-free",
+      "soy-free",
+      "peanut-free"
     ],
     "time": 25,
     "ingredients": [
@@ -678,7 +702,9 @@
     "dietary_restrictions": [
       "pescatarian",
       "gluten-free",
-      "soy-free"
+      "dairy-free",
+      "soy-free",
+      "peanut-free"
     ],
     "time": 25,
     "ingredients": [
@@ -707,7 +733,9 @@
     "budget": "cheap",
     "protien": "chicken",
     "dietary_restrictions": [
-      "gluten-free"
+      "gluten-free",
+      "dairy-free",
+      "peanut-free"
     ],
     "time": 20,
     "ingredients": [
@@ -738,7 +766,8 @@
     "protien": "ground beef",
     "dietary_restrictions": [
       "gluten-free",
-      "soy-free"
+      "soy-free",
+      "peanut-free"
     ],
     "time": 50,
     "ingredients": [
@@ -768,7 +797,8 @@
     "budget": "moderate",
     "protien": "ground beef",
     "dietary_restrictions": [
-      "soy-free"
+      "soy-free",
+      "peanut-free"
     ],
     "time": 45,
     "ingredients": [
@@ -800,7 +830,9 @@
     "protien": "chicken thighs",
     "dietary_restrictions": [
       "gluten-free",
-      "soy-free"
+      "dairy-free",
+      "soy-free",
+      "peanut-free"
     ],
     "time": 35,
     "ingredients": [

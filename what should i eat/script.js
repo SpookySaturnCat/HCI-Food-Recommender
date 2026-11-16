@@ -2,7 +2,7 @@ let meals = [];
 let selectedCuisine = [];
 let selectedEffort = "any";
 let selectedBudget = "any";
-let selectedDiet = "any";
+let selectedDiet = []; // from "any" to array for multi functionality
 
 // API key for Spoonacular API pulled from config.js
 const SPOONACULAR_API_KEY = typeof CONFIG !== "undefined" ? CONFIG.SPOONACULAR_API_KEY : "";
@@ -17,7 +17,7 @@ const mealName = document.querySelector("#mealName");
 const mealTime = document.querySelector("#mealTime");
 const mealBudget = document.querySelector("#mealBudget");
 const mealEffort = document.querySelector("#mealEffort");
-const mealProtien = document.querySelector("#mealProtien");
+const mealCategory = document.querySelector("#mealCategory");
 const ingredientsList = document.querySelector("#ingredients");
 const ingredientsTitle = document.querySelector("#result h3:nth-of-type(1)");
 const instructionsList = document.querySelector("#instructions");
@@ -103,16 +103,30 @@ budgetButtons.forEach(button => {
     });
 });
 
-// Diet buttons
+// Multi-select Diet buttons (ai assisted)
 dietButtons.forEach(button => {
     button.addEventListener("click", () => {
         const diet = button.dataset.diet;
-        if (selectedDiet === diet && diet !== "any") {
-            selectedDiet = "any";
-            updateSelectedButton(dietButtons, null);
+
+        // "Doesn't Matter" clears all dietary restriction selections
+        if (diet === "any") {
+            selectedDiet = [];
+            dietButtons.forEach(btn => btn.classList.remove("selected"));
+            button.classList.add("selected");
+            return;
+        }
+
+        // Remove "Doesn't Matter" if a specific restriction is selected
+        const anyDietButton = document.querySelector("[data-diet='any']");
+        if (anyDietButton) anyDietButton.classList.remove("selected");
+
+        // Toggle restriction in/out of selectedDiet array
+        if (selectedDiet.includes(diet)) {
+            selectedDiet = selectedDiet.filter(selected => selected !== diet);
+            button.classList.remove("selected");
         } else {
-            selectedDiet = diet;
-            updateSelectedButton(dietButtons, button);
+            selectedDiet.push(diet);
+            button.classList.add("selected");
         }
     });
 });
@@ -128,13 +142,13 @@ function updateSelectedButton(buttons, selectedButton) {
     }
 }
 
+// Updated getMatchingMeals function to handle multi-select dietary restrictions
 function getMatchingMeals() {
     return meals.filter(meal => {
         const cuisineMatches = selectedCuisine.length === 0 || selectedCuisine.every(cuisine => meal.cuisine.includes(cuisine));
         const effortMatches = selectedEffort === "any" || meal.effort === selectedEffort;
         const budgetMatches = selectedBudget === "any" || meal.budget === selectedBudget;
-        const dietMatches = selectedDiet === "any" || (meal.dietary_restrictions && meal.dietary_restrictions.includes(selectedDiet));
-        
+        const dietMatches = selectedDiet.length === 0 || (meal.dietary_restrictions && selectedDiet.every(diet => meal.dietary_restrictions.includes(diet)));
         return (cuisineMatches && effortMatches && budgetMatches && dietMatches);
     });
 }
@@ -150,7 +164,8 @@ function displayMeal(meal) {
     mealTime.textContent = meal.time ? `${meal.time} minutes` : "Time: Varies";
     mealBudget.textContent = `Price: ${meal.budget.charAt(0).toUpperCase()}${meal.budget.slice(1)}`;
     mealEffort.textContent = `Difficulty: ${meal.effort.charAt(0).toUpperCase()}${meal.effort.slice(1)}`;
-    mealProtien.textContent = `Protien: ${meal.protien.charAt(0).toUpperCase()}${meal.protien.slice(1)}`;
+    const categories = selectedCuisine.length > 0 ? selectedCuisine : meal.cuisine;
+    mealCategory.textContent = `Category: ${categories.map(c => c.charAt(0).toUpperCase() + c.slice(1)).join(", ")}`;
 
     // Show titles
     ingredientsTitle.style.display = "block";
@@ -251,9 +266,27 @@ async function fetchFallbackRecipe() {
         params.append("sort", "healthiness");
     }
 
-    if (selectedDiet !== "any") {
-        if (selectedDiet === "soy-free") params.append("intolerances", "soy");
-        else params.append("diet", selectedDiet);
+    // Handle dietary restrictions and intolerances
+    if (selectedDiet.length > 0) {
+        const intoleranceMap = {
+            "soy-free": "soy",
+            "dairy-free": "dairy",
+            "peanut-free": "peanut"
+        };
+
+        const diets = [];
+        const intolerances = [];
+
+        selectedDiet.forEach(d => {
+            if (intoleranceMap[d]) {
+                intolerances.push(intoleranceMap[d]);
+            } else {
+                diets.push(d); // vegetarian, vegan, pescatarian, gluten-free
+            }
+        });
+
+        if (diets.length > 0) params.append("diet", diets.join(","));
+        if (intolerances.length > 0) params.append("intolerances", intolerances.join(","));
     }
     if (selectedEffort === "easy") params.append("maxReadyTime", "25");
 
@@ -288,7 +321,7 @@ decideButton.addEventListener("click", async() => {
         mealTime.textContent = "";
         mealBudget.textContent = "";
         mealEffort.textContent = "";
-        mealProtien.textContent = "";
+        mealCategory.textContent = "";
         ingredientsList.innerHTML = "";
         instructionsList.innerHTML = "";
         ingredientsTitle.style.display = "none";
