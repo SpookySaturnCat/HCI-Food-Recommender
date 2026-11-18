@@ -17,7 +17,7 @@
     "ingredients": [
       "shrimp",
       "butter",
-      "parmesean",
+      "parmesan",
       "garlic",
       "broccoli",
       "pasta",
@@ -89,7 +89,7 @@
       "tomatoes",
       "salt",
       "spaghetti",
-      "parmesean",
+      "parmesan",
       "black pepper"
     ],
     "instructions": [
@@ -168,7 +168,7 @@
     ]
   },
   {
-    "name": "crab rangoons",
+    "name": "Crab Rangoons",
     "cuisine": [
       "chinese",
       "american",
@@ -176,7 +176,7 @@
     ],
     "effort": "medium",
     "budget": "cheap",
-    "protien": "immitation crab",
+    "protien": "imitation crab",
     "dietary_restrictions": [
       "pescatarian",
       "peanut-free"
@@ -184,7 +184,7 @@
     "time": 60,
     "ingredients": [
       "cream cheese",
-      "immitation crab",
+      "imitation crab",
       "scallions",
       "wonton wrappers",
       "salt",
@@ -198,7 +198,7 @@
     ]
   },
   {
-    "name": "Ceaser Salad Wrap",
+    "name": "Caesar Salad Wrap",
     "cuisine": [
       "american",
       "junk"
@@ -213,8 +213,8 @@
     "time": 10,
     "ingredients": [
       "tortilla",
-      "ceaser dressing",
-      "parmesean",
+      "caesar dressing",
+      "parmesan",
       "black pepper",
       "italian blend seasoning",
       "lettuce",
@@ -253,7 +253,7 @@
       "hot sauce",
       "yellow mustard",
       "heavy cream",
-      "mozzerella cheese",
+      "mozzarella cheese",
       "extra sharp cheddar cheese",
       "smoked gouda",
       "water",
@@ -265,33 +265,6 @@
       "Slowly pour in 1/4 cup dry white wine while whisking smoothly, followed by 1.5 cups heavy cream and 1/2 cup water; simmer for 3 to 4 minutes until the sauce coats the back of a spoon.",
       "Whisk in 1 teaspoon yellow mustard, 1 teaspoon hot sauce, 1/2 teaspoon each of onion powder, garlic powder, paprika, and salt, and 1/4 teaspoon black pepper.",
       "Turn off the heat completely and stir in 1.5 cups freshly shredded extra sharp cheddar, 1 cup shredded mozzarella, and 1 cup shredded smoked gouda one handful at a time until smooth, then fold in the cooked pasta."
-    ]
-  },
-  {
-    "name": "Max's Potato Soup",
-    "cuisine": [
-      "american",
-      "junk"
-    ],
-    "effort": "easy",
-    "budget": "cheap",
-    "protien": "none",
-    "dietary_restrictions": [
-      "vegetarian",
-      "gluten-free",
-      "soy-free"
-    ],
-    "time": 45,
-    "ingredients": [
-      "balls",
-      "gucci morty",
-      "wilson",
-      "ugliness"
-    ],
-    "instructions": [
-      "Combine 2 cups of balls, 1 generous dash of gucci morty, and 1 whole diced wilson in a heavy cauldron over medium heat.",
-      "Bring to a gentle bubble, cover, and simmer for 45 minutes while stirring occasionally.",
-      "Ladle into bowls, stir in 3 tablespoons of ugliness to taste, and serve piping hot."
     ]
   },
   {
@@ -402,7 +375,7 @@
       "kashmiri red chili powder",
       "garam masala",
       "fenugreek",
-      "tumeric",
+      "turmeric",
       "salt",
       "lemon",
       "olive oil",
@@ -544,7 +517,7 @@
       "perilla",
       "yellow radish pickle",
       "black pepper",
-      "sea weed"
+      "seaweed"
     ],
     "instructions": [
       "Fold 1 tablespoon sesame oil and 1/2 teaspoon sea salt into 2 cups warm cooked short-grain rice and let cool slightly.",
@@ -849,6 +822,2985 @@
       "Preheat the oven to 425°F and pat 2 lbs of bone-in, skin-on chicken thighs completely dry with paper towels.",
       "In a large bowl, whisk together 2 tablespoons olive oil, 3 tablespoons fresh lemon juice, 4 cloves minced garlic, 1 tablespoon dried oregano, 1 teaspoon finely chopped fresh rosemary, 1 teaspoon salt, and 1/2 teaspoon black pepper, then toss the chicken thighs until thoroughly coated.",
       "Arrange the thighs skin-side up on a foil-lined baking sheet and roast for 28 to 32 minutes until the skin is deeply golden and crisp and an instant-read thermometer reaches 175°F in the thickest part."
+    ]
+  },
+  {
+    "name": "Chicken Katsu Curry",
+    "cuisine": [
+      "japanese",
+      "junk"
+    ],
+    "effort": "medium",
+    "budget": "moderate",
+    "protien": "chicken",
+    "dietary_restrictions": [
+      "dairy-free",
+      "peanut-free"
+    ],
+    "time": 45,
+    "ingredients": [
+      "chicken breast",
+      "panko breadcrumbs",
+      "all purpose flour",
+      "egg",
+      "japanese curry roux",
+      "potatoes",
+      "carrots",
+      "onion",
+      "short grain rice",
+      "vegetable oil",
+      "salt",
+      "black pepper"
+    ],
+    "instructions": [
+      "Sauté 1 sliced onion, 2 diced carrots, and 2 diced Yukon gold potatoes in 1 tablespoon oil for 5 minutes, add 3.5 cups water, and simmer 15 minutes until tender.",
+      "Turn heat to low, dissolve 4 blocks of Japanese curry roux into the broth, and simmer 5 minutes until thick and glossy.",
+      "Pound 2 chicken breasts to 1/2-inch thickness, season with salt and pepper, dredge in flour, dip in beaten egg, and press firmly into panko breadcrumbs.",
+      "Shallow-fry the cutlets in 1/2 inch of 350°F oil for 3 to 4 minutes per side until deep golden brown, slice into strips, and serve over steamed rice alongside the curry."
+    ]
+  },
+  {
+    "name": "Agedashi Tofu",
+    "cuisine": [
+      "japanese",
+      "healthy"
+    ],
+    "effort": "easy",
+    "budget": "cheap",
+    "protien": "tofu",
+    "dietary_restrictions": [
+      "vegan",
+      "vegetarian",
+      "dairy-free",
+      "peanut-free"
+    ],
+    "time": 20,
+    "ingredients": [
+      "firm tofu",
+      "potato starch",
+      "kombu dashi",
+      "soy sauce",
+      "mirin",
+      "daikon radish",
+      "ginger",
+      "green onion",
+      "vegetable oil"
+    ],
+    "instructions": [
+      "Press 14 oz firm tofu between paper towels for 10 minutes, cut into 8 cubes, and coat lightly in potato starch.",
+      "Simmer 1 cup kombu dashi, 2 tablespoons soy sauce, and 2 tablespoons mirin in a small saucepan for 2 minutes to make tentsuyu broth.",
+      "Fry the tofu cubes in 1 inch of 350°F oil for 3 minutes until crisp and blistered outside, then drain on a wire rack.",
+      "Place tofu in shallow bowls, pour the warm broth around the base, and top with grated daikon, grated ginger, and sliced green onions."
+    ]
+  },
+  {
+    "name": "Salmon Teriyaki Donburi",
+    "cuisine": [
+      "japanese",
+      "healthy"
+    ],
+    "effort": "easy",
+    "budget": "expensive",
+    "protien": "salmon",
+    "dietary_restrictions": [
+      "pescatarian",
+      "dairy-free",
+      "peanut-free"
+    ],
+    "time": 25,
+    "ingredients": [
+      "salmon fillets",
+      "soy sauce",
+      "mirin",
+      "sake",
+      "sugar",
+      "short grain rice",
+      "steamed broccoli",
+      "sesame seeds",
+      "vegetable oil"
+    ],
+    "instructions": [
+      "Whisk 3 tablespoons soy sauce, 3 tablespoons mirin, 2 tablespoons sake, and 1 tablespoon sugar in a small bowl until dissolved.",
+      "Heat 1 teaspoon oil in a nonstick skillet over medium-high heat and sear 2 skin-on salmon fillets skin-side down for 4 minutes until crisp.",
+      "Flip the salmon, pour in the teriyaki sauce, and simmer for 3 minutes while spooning the bubbling glaze over the fillets until thick.",
+      "Serve over bowls of steamed short-grain rice with steamed broccoli florets and toasted sesame seeds."
+    ]
+  },
+  {
+    "name": "Miso Glazed Eggplant (Nasu Dengaku)",
+    "cuisine": [
+      "japanese",
+      "healthy"
+    ],
+    "effort": "easy",
+    "budget": "cheap",
+    "protien": "none",
+    "dietary_restrictions": [
+      "vegan",
+      "vegetarian",
+      "gluten-free",
+      "dairy-free",
+      "peanut-free"
+    ],
+    "time": 30,
+    "ingredients": [
+      "japanese eggplant",
+      "white miso paste",
+      "mirin",
+      "sake",
+      "sugar",
+      "sesame oil",
+      "sesame seeds",
+      "green onion"
+    ],
+    "instructions": [
+      "Halve 3 Japanese eggplants lengthwise, score the flesh in a deep diamond crosshatch without piercing the skin, and brush with sesame oil.",
+      "Broil cut-side up 6 inches from the heat for 8 to 10 minutes until tender and lightly browned.",
+      "Whisk 3 tablespoons white miso, 2 tablespoons mirin, 1 tablespoon sake, and 1 tablespoon sugar in a small saucepan over low heat for 2 minutes until glossy.",
+      "Spread the miso glaze over the broiled eggplants, broil 2 minutes more until bubbling and caramelized, and garnish with sesame seeds and scallions."
+    ]
+  },
+  {
+    "name": "Vegetable Gyoza",
+    "cuisine": [
+      "japanese"
+    ],
+    "effort": "hard",
+    "budget": "cheap",
+    "protien": "tofu",
+    "dietary_restrictions": [
+      "vegan",
+      "vegetarian",
+      "dairy-free",
+      "peanut-free"
+    ],
+    "time": 60,
+    "ingredients": [
+      "gyoza wrappers",
+      "napa cabbage",
+      "shiitake mushrooms",
+      "firm tofu",
+      "garlic",
+      "ginger",
+      "green onion",
+      "soy sauce",
+      "sesame oil",
+      "rice vinegar",
+      "vegetable oil"
+    ],
+    "instructions": [
+      "Finely mince 2 cups napa cabbage, toss with 1/2 teaspoon salt for 10 minutes, and squeeze completely dry in a clean kitchen towel.",
+      "Mix the cabbage with 1 cup minced shiitake mushrooms, 1/2 cup crumbled pressed tofu, 2 cloves minced garlic, 1 teaspoon grated ginger, 2 sliced green onions, 1 tablespoon soy sauce, and 1 teaspoon sesame oil.",
+      "Place 1 tablespoon filling in each gyoza wrapper, moisten the rim with water, and pleat the front edge closed into a crescent.",
+      "Pan-fry flat-side down in 1 tablespoon oil over medium-high heat for 2 minutes until golden, pour in 1/3 cup water, cover immediately, and steam 4 minutes until water evaporates."
+    ]
+  },
+  {
+    "name": "Cacio e Pepe",
+    "cuisine": [
+      "italian"
+    ],
+    "effort": "easy",
+    "budget": "cheap",
+    "protien": "cheese",
+    "dietary_restrictions": [
+      "vegetarian",
+      "soy-free",
+      "peanut-free"
+    ],
+    "time": 20,
+    "ingredients": [
+      "tonnarelli or spaghetti",
+      "pecorino romano",
+      "black peppercorns",
+      "salt",
+      "pasta water"
+    ],
+    "instructions": [
+      "Boil 12 oz spaghetti in lightly salted water until 2 minutes shy of al dente, reserving 1.5 cups of starchy cooking water.",
+      "Toast 2 teaspoons freshly cracked black pepper in a dry wide skillet over medium heat for 1 minute until fragrant, then add 3/4 cup pasta water.",
+      "Transfer the pasta to the skillet and toss briskly for 1 minute until half the liquid reduces, then remove the pan completely from the heat.",
+      "Gradually sprinkle in 1.5 cups finely grated Pecorino Romano while tossing vigorously and adding splashes of warm pasta water until a smooth, creamy emulsion forms."
+    ]
+  },
+  {
+    "name": "Eggplant Parmigiana",
+    "cuisine": [
+      "italian"
+    ],
+    "effort": "hard",
+    "budget": "moderate",
+    "protien": "cheese",
+    "dietary_restrictions": [
+      "vegetarian",
+      "soy-free",
+      "peanut-free"
+    ],
+    "time": 75,
+    "ingredients": [
+      "globe eggplants",
+      "marinara sauce",
+      "fresh mozzarella",
+      "parmesan cheese",
+      "all purpose flour",
+      "eggs",
+      "breadcrumbs",
+      "fresh basil",
+      "olive oil",
+      "salt"
+    ],
+    "instructions": [
+      "Slice 2 large eggplants into 1/3-inch rounds, salt lightly on both sides, and let drain on paper towels for 20 minutes before patting dry.",
+      "Dredge eggplant slices in flour, dip in beaten eggs, coat in seasoned breadcrumbs, and pan-fry in olive oil for 2 minutes per side until golden.",
+      "In a 9x13 baking dish, layer marinara sauce, fried eggplant slices, torn fresh mozzarella, grated parmesan, and fresh basil leaves, repeating for 3 layers.",
+      "Bake at 375°F for 25 to 30 minutes until bubbling and golden on top; rest 10 minutes before slicing."
+    ]
+  },
+  {
+    "name": "Tuscan White Bean & Kale Soup (Ribollita)",
+    "cuisine": [
+      "italian",
+      "healthy"
+    ],
+    "effort": "easy",
+    "budget": "cheap",
+    "protien": "cannellini beans",
+    "dietary_restrictions": [
+      "vegan",
+      "vegetarian",
+      "gluten-free",
+      "dairy-free",
+      "soy-free",
+      "peanut-free"
+    ],
+    "time": 35,
+    "ingredients": [
+      "cannellini beans",
+      "lacinato kale",
+      "carrots",
+      "celery",
+      "yellow onion",
+      "garlic",
+      "crushed tomatoes",
+      "vegetable broth",
+      "olive oil",
+      "rosemary",
+      "red pepper flakes",
+      "salt",
+      "black pepper"
+    ],
+    "instructions": [
+      "Heat 2 tablespoons olive oil in a Dutch oven over medium heat and sauté 1 diced onion, 2 diced carrots, and 2 diced celery stalks for 6 minutes until softened.",
+      "Add 4 cloves minced garlic, 1 teaspoon chopped rosemary, and 1/4 teaspoon red pepper flakes; cook 1 minute until fragrant.",
+      "Stir in 2 cans (15 oz each) drained cannellini beans, 1 can (14.5 oz) crushed tomatoes, and 4 cups vegetable broth; mash 1/2 cup of the beans against the pot wall to thicken the broth.",
+      "Simmer 15 minutes, fold in 4 cups chopped lacinato kale, and cook 5 minutes more until tender; season with salt, pepper, and a drizzle of olive oil."
+    ]
+  },
+  {
+    "name": "Veal Osso Buco with Gremolata",
+    "cuisine": [
+      "italian"
+    ],
+    "effort": "hard",
+    "budget": "expensive",
+    "protien": "veal",
+    "dietary_restrictions": [
+      "dairy-free",
+      "soy-free",
+      "peanut-free"
+    ],
+    "time": 135,
+    "ingredients": [
+      "veal shanks",
+      "all purpose flour",
+      "olive oil",
+      "yellow onion",
+      "carrots",
+      "celery",
+      "garlic",
+      "dry white wine",
+      "beef broth",
+      "crushed tomatoes",
+      "bay leaf",
+      "parsley",
+      "lemon zest",
+      "salt",
+      "black pepper"
+    ],
+    "instructions": [
+      "Tie kitchen twine around 4 cross-cut veal shanks, season generously with salt and pepper, and dredge lightly in flour.",
+      "Sear the shanks in 2 tablespoons hot olive oil in a Dutch oven for 4 minutes per side until deeply browned, then transfer to a plate.",
+      "Sauté diced onion, carrot, celery, and garlic in the drippings for 6 minutes, deglaze with 1 cup dry white wine, and stir in 1 cup crushed tomatoes, 1.5 cups beef broth, and 1 bay leaf.",
+      "Return the shanks to the pot, cover tightly, and braise in a 325°F oven for 2 hours until fork-tender; finish with gremolata made of chopped parsley, lemon zest, and minced garlic."
+    ]
+  },
+  {
+    "name": "Chana Masala",
+    "cuisine": [
+      "indian",
+      "healthy"
+    ],
+    "effort": "easy",
+    "budget": "cheap",
+    "protien": "chickpeas",
+    "dietary_restrictions": [
+      "vegan",
+      "vegetarian",
+      "gluten-free",
+      "dairy-free",
+      "soy-free",
+      "peanut-free"
+    ],
+    "time": 30,
+    "ingredients": [
+      "chickpeas",
+      "yellow onion",
+      "tomatoes",
+      "garlic",
+      "ginger",
+      "cumin seeds",
+      "garam masala",
+      "coriander powder",
+      "turmeric",
+      "amchur powder",
+      "chili powder",
+      "vegetable oil",
+      "cilantro",
+      "salt"
+    ],
+    "instructions": [
+      "Heat 2 tablespoons oil in a skillet over medium heat and sizzle 1 teaspoon cumin seeds for 30 seconds until aromatic.",
+      "Add 1 finely diced onion and sauté 6 minutes until golden, then stir in 3 cloves minced garlic, 1 tablespoon grated ginger, 1 teaspoon coriander, 1/2 teaspoon turmeric, and 1/2 teaspoon chili powder.",
+      "Add 2 diced ripe tomatoes and cook 5 minutes until broken down into a thick paste.",
+      "Stir in 2 cans (15 oz each) drained chickpeas and 1/2 cup water, simmer 10 minutes, and finish with 1 teaspoon garam masala, 1/2 teaspoon amchur (dried mango powder), and fresh cilantro."
+    ]
+  },
+  {
+    "name": "Red Lentil Dal Tadka",
+    "cuisine": [
+      "indian",
+      "healthy"
+    ],
+    "effort": "easy",
+    "budget": "cheap",
+    "protien": "red lentils",
+    "dietary_restrictions": [
+      "vegan",
+      "vegetarian",
+      "gluten-free",
+      "dairy-free",
+      "soy-free",
+      "peanut-free"
+    ],
+    "time": 30,
+    "ingredients": [
+      "split red lentils",
+      "water",
+      "turmeric",
+      "tomato",
+      "yellow onion",
+      "garlic",
+      "ginger",
+      "cumin seeds",
+      "mustard seeds",
+      "dried red chilies",
+      "olive oil",
+      "cilantro",
+      "lemon juice",
+      "salt"
+    ],
+    "instructions": [
+      "Rinse 1.5 cups split red lentils until clear, then simmer in 4 cups water with 1/2 teaspoon turmeric and 1 teaspoon salt for 18 minutes until creamy and tender.",
+      "In a small skillet, heat 2 tablespoons oil over medium-high heat and sizzle 1 teaspoon cumin seeds, 1/2 teaspoon brown mustard seeds, and 2 dried red chilies for 20 seconds.",
+      "Add 1/2 diced onion, 3 sliced garlic cloves, 1 tablespoon julienned ginger, and 1 diced tomato; sauté 4 minutes until softened.",
+      "Pour the sizzling spice tempering (tadka) directly over the cooked lentils, stir in 1 tablespoon lemon juice and chopped cilantro, and serve."
+    ]
+  },
+  {
+    "name": "Lamb Rogan Josh",
+    "cuisine": [
+      "indian"
+    ],
+    "effort": "hard",
+    "budget": "expensive",
+    "protien": "lamb",
+    "dietary_restrictions": [
+      "gluten-free",
+      "soy-free",
+      "peanut-free"
+    ],
+    "time": 85,
+    "ingredients": [
+      "lamb shoulder",
+      "plain yogurt",
+      "yellow onion",
+      "garlic",
+      "ginger",
+      "kashmiri red chili powder",
+      "fennel powder",
+      "ground ginger",
+      "cardamom pods",
+      "cinnamon stick",
+      "cloves",
+      "ghee",
+      "salt",
+      "cilantro"
+    ],
+    "instructions": [
+      "Heat 3 tablespoons ghee in a heavy pot over medium-high heat, add 4 green cardamom pods, 1 cinnamon stick, and 4 cloves, and brown 2 lbs cubed lamb shoulder in batches.",
+      "Add 2 thinly sliced onions and cook 10 minutes until deeply caramelized, then stir in 1 tablespoon garlic-ginger paste.",
+      "Lower heat, stir in 2 tablespoons Kashmiri chili powder, 1 tablespoon fennel powder, 1 teaspoon ground ginger, and 1/2 cup whisked yogurt a few spoonfuls at a time so it doesn't curdle.",
+      "Pour in 1.5 cups warm water, season with salt, cover, and simmer gently for 55 minutes until the lamb is melt-in-your-mouth tender."
+    ]
+  },
+  {
+    "name": "Aloo Gobi",
+    "cuisine": [
+      "indian",
+      "healthy"
+    ],
+    "effort": "medium",
+    "budget": "cheap",
+    "protien": "none",
+    "dietary_restrictions": [
+      "vegan",
+      "vegetarian",
+      "gluten-free",
+      "dairy-free",
+      "soy-free",
+      "peanut-free"
+    ],
+    "time": 35,
+    "ingredients": [
+      "cauliflower",
+      "yukon gold potatoes",
+      "yellow onion",
+      "tomato",
+      "ginger",
+      "garlic",
+      "cumin seeds",
+      "turmeric",
+      "coriander powder",
+      "garam masala",
+      "vegetable oil",
+      "cilantro",
+      "salt"
+    ],
+    "instructions": [
+      "Cut 1 small head cauliflower into florets and dice 2 medium potatoes into 3/4-inch cubes.",
+      "Heat 2 tablespoons oil in a wide skillet, sizzle 1 teaspoon cumin seeds, and sauté 1 diced onion, 1 tablespoon minced ginger, and 2 cloves minced garlic for 4 minutes.",
+      "Add 1 diced tomato, 1/2 teaspoon turmeric, 1 teaspoon coriander powder, and 1 teaspoon salt; cook 3 minutes until saucy.",
+      "Toss in the potatoes and cauliflower, cover tightly, and cook over medium-low heat for 18 minutes, stirring occasionally, until tender; sprinkle with 1/2 teaspoon garam masala and cilantro."
+    ]
+  },
+  {
+    "name": "Kimchi Jjigae (Kimchi Stew)",
+    "cuisine": [
+      "korean",
+      "healthy"
+    ],
+    "effort": "easy",
+    "budget": "cheap",
+    "protien": "pork belly",
+    "dietary_restrictions": [
+      "gluten-free",
+      "dairy-free",
+      "peanut-free"
+    ],
+    "time": 30,
+    "ingredients": [
+      "aged kimchi",
+      "pork belly",
+      "soft tofu",
+      "kimchi juice",
+      "gochugaru",
+      "garlic",
+      "green onion",
+      "sesame oil",
+      "water",
+      "sugar"
+    ],
+    "instructions": [
+      "Heat 1 teaspoon sesame oil in a pot over medium-high heat and sear 6 oz bite-sized pork belly slices for 3 minutes until browned.",
+      "Add 2 cups chopped aged sour kimchi, 1 tablespoon gochugaru, 1 tablespoon minced garlic, and 1 teaspoon sugar; stir-fry together for 4 minutes.",
+      "Pour in 2.5 cups water and 1/4 cup kimchi brine, bring to a boil, and simmer 15 minutes to deepen the broth.",
+      "Slide 1 block (14 oz) sliced soft tofu on top, simmer 4 minutes more, and finish with sliced green onions."
+    ]
+  },
+  {
+    "name": "Sundubu Jjigae (Vegan Soft Tofu Stew)",
+    "cuisine": [
+      "korean",
+      "healthy"
+    ],
+    "effort": "easy",
+    "budget": "cheap",
+    "protien": "tofu",
+    "dietary_restrictions": [
+      "vegan",
+      "vegetarian",
+      "gluten-free",
+      "dairy-free",
+      "peanut-free"
+    ],
+    "time": 25,
+    "ingredients": [
+      "extra soft tofu",
+      "shiitake mushrooms",
+      "zucchini",
+      "yellow onion",
+      "garlic",
+      "gochugaru",
+      "soy sauce",
+      "sesame oil",
+      "kombu vegetable broth",
+      "green onion"
+    ],
+    "instructions": [
+      "Whisk 1.5 tablespoons gochugaru, 1 tablespoon minced garlic, 1 tablespoon soy sauce, and 1 tablespoon sesame oil into a chili paste.",
+      "Sauté 1/2 sliced onion, 4 sliced shiitake mushrooms, and 1/2 diced zucchini with the chili paste in a pot for 3 minutes.",
+      "Pour in 2 cups kombu vegetable broth, bring to a boil, and spoon large chunks of 1 tube (12 oz) extra-soft sundubu tofu into the bubbling broth.",
+      "Simmer gently for 5 minutes and garnish with sliced green onions."
+    ]
+  },
+  {
+    "name": "Korean Fried Chicken (Yangnyeom)",
+    "cuisine": [
+      "korean",
+      "junk"
+    ],
+    "effort": "hard",
+    "budget": "moderate",
+    "protien": "chicken",
+    "dietary_restrictions": [
+      "dairy-free",
+      "peanut-free"
+    ],
+    "time": 55,
+    "ingredients": [
+      "chicken wings",
+      "potato starch",
+      "baking powder",
+      "salt",
+      "black pepper",
+      "gochujang",
+      "ketchup",
+      "honey",
+      "soy sauce",
+      "rice vinegar",
+      "garlic",
+      "sesame seeds",
+      "vegetable oil"
+    ],
+    "instructions": [
+      "Toss 2 lbs chicken wings with 1 teaspoon salt, 1/2 teaspoon black pepper, 3/4 cup potato starch, and 1 teaspoon baking powder until evenly coated.",
+      "Fry wings in 350°F oil for 8 minutes, drain on a rack for 5 minutes, then double-fry at 375°F for 3 minutes until shattering crisp.",
+      "Simmer 3 tablespoons gochujang, 3 tablespoons honey, 2 tablespoons ketchup, 1 tablespoon soy sauce, 1 tablespoon rice vinegar, and 3 cloves minced garlic for 2 minutes until sticky.",
+      "Toss the hot crispy wings in the sweet-spicy glaze and sprinkle with toasted sesame seeds."
+    ]
+  },
+  {
+    "name": "Beef Bulgogi Lettuce Wraps",
+    "cuisine": [
+      "korean",
+      "healthy"
+    ],
+    "effort": "medium",
+    "budget": "expensive",
+    "protien": "ribeye steak",
+    "dietary_restrictions": [
+      "dairy-free",
+      "peanut-free"
+    ],
+    "time": 35,
+    "ingredients": [
+      "ribeye steak",
+      "asian pear",
+      "soy sauce",
+      "brown sugar",
+      "sesame oil",
+      "garlic",
+      "ginger",
+      "green onion",
+      "butter lettuce",
+      "sesame seeds"
+    ],
+    "instructions": [
+      "Slice 1.5 lbs ribeye steak paper-thin against the grain and toss with 1/2 grated Asian pear, 1/4 cup soy sauce, 2 tablespoons brown sugar, 1 tablespoon sesame oil, 4 cloves minced garlic, and 1 teaspoon grated ginger; marinate 20 minutes.",
+      "Heat a cast-iron skillet over high heat until smoking and sear the beef in a single layer for 2 to 3 minutes until caramelized at the edges.",
+      "Garnish with sliced green onions and toasted sesame seeds, and serve inside crisp butter lettuce cups."
+    ]
+  },
+  {
+    "name": "Classic Smash Burger",
+    "cuisine": [
+      "american",
+      "junk"
+    ],
+    "effort": "easy",
+    "budget": "cheap",
+    "protien": "ground beef",
+    "dietary_restrictions": [
+      "soy-free",
+      "peanut-free"
+    ],
+    "time": 20,
+    "ingredients": [
+      "ground chuck",
+      "brioche buns",
+      "american cheese",
+      "dill pickles",
+      "yellow onion",
+      "mayonnaise",
+      "ketchup",
+      "yellow mustard",
+      "butter",
+      "salt",
+      "black pepper"
+    ],
+    "instructions": [
+      "Toast 2 buttered brioche buns cut-side down in a skillet until golden, and whisk 2 tablespoons mayo, 1 tablespoon ketchup, and 1 teaspoon mustard for burger sauce.",
+      "Divide 12 oz 80/20 ground chuck into four loose 3-oz balls without overworking the meat.",
+      "Place balls onto a smoking-hot cast-iron griddle, smash completely flat with a heavy spatula, and season with salt and pepper.",
+      "Sear 2 minutes until deeply crusted, flip, top each patty with a slice of American cheese for 45 seconds, and stack doubles onto the sauced buns with pickles and thinly sliced onion."
+    ]
+  },
+  {
+    "name": "Loaded BBQ Pulled Jackfruit Nachos",
+    "cuisine": [
+      "american",
+      "junk"
+    ],
+    "effort": "easy",
+    "budget": "cheap",
+    "protien": "jackfruit",
+    "dietary_restrictions": [
+      "vegan",
+      "vegetarian",
+      "gluten-free",
+      "dairy-free",
+      "soy-free",
+      "peanut-free"
+    ],
+    "time": 25,
+    "ingredients": [
+      "tortilla chips",
+      "young green jackfruit",
+      "bbq sauce",
+      "black beans",
+      "vegan cheddar shreds",
+      "jalapeno",
+      "red onion",
+      "avocado",
+      "cilantro"
+    ],
+    "instructions": [
+      "Drain 1 can (20 oz) young green jackfruit, shred with a fork, and simmer in a skillet with 1/2 cup smoky BBQ sauce for 8 minutes until tender and caramelized.",
+      "Spread a layer of gluten-free tortilla chips on a parchment-lined sheet pan and top with the BBQ jackfruit, 1 cup drained black beans, and 1.5 cups vegan cheddar shreds.",
+      "Bake at 400°F for 8 to 10 minutes until melted, then top with sliced jalapeño, diced red onion, diced avocado, and fresh cilantro."
+    ]
+  },
+  {
+    "name": "Herb-Crusted Rack of Lamb with Roasted Asparagus",
+    "cuisine": [
+      "american",
+      "healthy"
+    ],
+    "effort": "hard",
+    "budget": "expensive",
+    "protien": "lamb",
+    "dietary_restrictions": [
+      "dairy-free",
+      "soy-free",
+      "peanut-free"
+    ],
+    "time": 45,
+    "ingredients": [
+      "rack of lamb",
+      "dijon mustard",
+      "panko breadcrumbs",
+      "fresh rosemary",
+      "fresh thyme",
+      "garlic",
+      "asparagus",
+      "olive oil",
+      "salt",
+      "black pepper"
+    ],
+    "instructions": [
+      "Season 1 frenched rack of lamb with salt and pepper and sear fat-side down in an oven-safe skillet over medium-high heat for 4 minutes until browned.",
+      "Brush the meaty side with 2 tablespoons Dijon mustard and press on a mixture of 1/2 cup panko, 1 tablespoon chopped rosemary, 1 teaspoon thyme, 2 cloves minced garlic, and 1 tablespoon olive oil.",
+      "Toss 1 bunch trimmed asparagus with olive oil, salt, and pepper on a sheet pan alongside the lamb and roast at 425°F for 18 to 20 minutes until internal temp reaches 130°F for medium-rare.",
+      "Rest the lamb 10 minutes before slicing between the ribs."
+    ]
+  },
+  {
+    "name": "Sheet-Pan Honey Mustard Salmon & Brussels Sprouts",
+    "cuisine": [
+      "american",
+      "healthy"
+    ],
+    "effort": "easy",
+    "budget": "expensive",
+    "protien": "salmon",
+    "dietary_restrictions": [
+      "pescatarian",
+      "gluten-free",
+      "dairy-free",
+      "soy-free",
+      "peanut-free"
+    ],
+    "time": 30,
+    "ingredients": [
+      "salmon fillets",
+      "brussels sprouts",
+      "dijon mustard",
+      "honey",
+      "olive oil",
+      "garlic powder",
+      "lemon juice",
+      "salt",
+      "black pepper"
+    ],
+    "instructions": [
+      "Toss 1 lb halved Brussels sprouts with 1.5 tablespoons olive oil, salt, and pepper on a sheet pan and roast at 425°F for 12 minutes.",
+      "Whisk 2 tablespoons Dijon mustard, 1.5 tablespoons honey, 1 tablespoon lemon juice, and 1/2 teaspoon garlic powder.",
+      "Push Brussels sprouts to the edges, place 4 salmon fillets in the center, brush generously with the honey-mustard glaze, and roast 10 to 12 minutes more until flaky."
+    ]
+  },
+  {
+    "name": "Mapo Tofu (Vegan Mushroom Style)",
+    "cuisine": [
+      "chinese",
+      "healthy"
+    ],
+    "effort": "easy",
+    "budget": "cheap",
+    "protien": "tofu",
+    "dietary_restrictions": [
+      "vegan",
+      "vegetarian",
+      "dairy-free",
+      "peanut-free"
+    ],
+    "time": 25,
+    "ingredients": [
+      "medium firm tofu",
+      "shiitake mushrooms",
+      "doubanjiang chili bean paste",
+      "sichuan peppercorns",
+      "garlic",
+      "ginger",
+      "green onion",
+      "soy sauce",
+      "cornstarch",
+      "vegetable broth",
+      "vegetable oil"
+    ],
+    "instructions": [
+      "Cube 14 oz medium-firm tofu and simmer gently in salted water for 3 minutes to firm up, then drain.",
+      "Toast 1 teaspoon Sichuan peppercorns in a dry wok for 1 minute, grind coarsely, then heat 2 tablespoons oil and sauté 1 cup finely minced shiitake mushrooms until browned.",
+      "Stir in 2 tablespoons doubanjiang (spicy fermented bean paste), 3 cloves minced garlic, and 1 tablespoon minced ginger for 1 minute until the oil turns red.",
+      "Add 1 cup vegetable broth, 1 tablespoon soy sauce, and the tofu; simmer 5 minutes, thicken with a slurry of 1 tablespoon cornstarch and 2 tablespoons water, and top with scallions and ground Sichuan pepper."
+    ]
+  },
+  {
+    "name": "Kung Pao Chicken",
+    "cuisine": [
+      "chinese"
+    ],
+    "effort": "medium",
+    "budget": "moderate",
+    "protien": "chicken",
+    "dietary_restrictions": [
+      "dairy-free"
+    ],
+    "time": 30,
+    "ingredients": [
+      "chicken breast",
+      "roasted peanuts",
+      "dried red chilies",
+      "sichuan peppercorns",
+      "bell pepper",
+      "zucchini",
+      "soy sauce",
+      "black vinegar",
+      "sugar",
+      "cornstarch",
+      "garlic",
+      "ginger",
+      "green onion",
+      "vegetable oil"
+    ],
+    "instructions": [
+      "Toss 1 lb diced chicken breast with 1 tablespoon soy sauce and 1 teaspoon cornstarch; whisk 2 tablespoons soy sauce, 2 tablespoons Chinese black vinegar, 1 tablespoon sugar, and 1 teaspoon cornstarch in a separate bowl for the sauce.",
+      "Heat 2 tablespoons oil in a wok over high heat, sizzle 6 dried red chilies and 1 teaspoon Sichuan peppercorns for 15 seconds, then stir-fry the chicken for 3 minutes until seared.",
+      "Add 1 diced red bell pepper, 1 diced zucchini, 3 cloves minced garlic, and 1 tablespoon minced ginger; stir-fry 2 minutes until crisp-tender.",
+      "Pour in the sauce, toss 1 minute until glossy, and fold in 1/2 cup roasted peanuts and sliced green onions."
+    ]
+  },
+  {
+    "name": "Smashed Cucumber & Garlic Salad",
+    "cuisine": [
+      "chinese",
+      "healthy"
+    ],
+    "effort": "easy",
+    "budget": "cheap",
+    "protien": "none",
+    "dietary_restrictions": [
+      "vegan",
+      "vegetarian",
+      "dairy-free",
+      "peanut-free"
+    ],
+    "time": 15,
+    "ingredients": [
+      "english cucumbers",
+      "garlic",
+      "black vinegar",
+      "soy sauce",
+      "sesame oil",
+      "chili oil",
+      "sugar",
+      "sesame seeds",
+      "salt"
+    ],
+    "instructions": [
+      "Lay the flat side of a chef's knife over 2 English cucumbers and smack firmly to crack them open, then chop into bite-sized chunks.",
+      "Toss the cucumbers with 1/2 teaspoon salt in a colander for 10 minutes to draw out excess water, then pat dry.",
+      "Whisk 2 tablespoons Chinese black vinegar, 1 tablespoon soy sauce, 1 tablespoon sesame oil, 1 teaspoon chili oil, 1 teaspoon sugar, and 3 cloves grated garlic.",
+      "Toss the drained cucumbers in the dressing and top with toasted sesame seeds."
+    ]
+  },
+  {
+    "name": "Scallion Pancakes (Cong You Bing)",
+    "cuisine": [
+      "chinese",
+      "junk"
+    ],
+    "effort": "medium",
+    "budget": "cheap",
+    "protien": "none",
+    "dietary_restrictions": [
+      "vegan",
+      "vegetarian",
+      "dairy-free",
+      "soy-free",
+      "peanut-free"
+    ],
+    "time": 45,
+    "ingredients": [
+      "all purpose flour",
+      "boiling water",
+      "cold water",
+      "green onions",
+      "sesame oil",
+      "vegetable oil",
+      "salt"
+    ],
+    "instructions": [
+      "Stir 3/4 cup boiling water into 2 cups all-purpose flour with chopsticks, then knead in 1/4 cup cold water until smooth; cover and rest 20 minutes.",
+      "Divide dough into 4 balls, roll each very thin into a rectangle, brush with sesame oil, sprinkle with salt and 1/3 cup finely sliced green onions, roll tightly into a log, coil into a snail shell, and flatten into a 6-inch disc.",
+      "Pan-fry each pancake in 1 tablespoon vegetable oil over medium heat for 3 to 4 minutes per side until flaky, golden, and crisp; cut into wedges."
+    ]
+  },
+  {
+    "name": "Chicken Adobo",
+    "cuisine": [
+      "filipino"
+    ],
+    "effort": "easy",
+    "budget": "cheap",
+    "protien": "chicken thighs",
+    "dietary_restrictions": [
+      "dairy-free",
+      "peanut-free"
+    ],
+    "time": 40,
+    "ingredients": [
+      "chicken thighs",
+      "soy sauce",
+      "cane vinegar",
+      "garlic",
+      "bay leaves",
+      "whole black peppercorns",
+      "brown sugar",
+      "vegetable oil",
+      "jasmine rice"
+    ],
+    "instructions": [
+      "Combine 2 lbs bone-in chicken thighs, 1/2 cup soy sauce, 1/2 cup cane vinegar, 8 crushed garlic cloves, 3 bay leaves, 1 teaspoon whole black peppercorns, and 1 tablespoon brown sugar in a wide pot.",
+      "Bring to a boil uncovered without stirring for 3 minutes, then lower heat, cover, and simmer 25 minutes until the chicken is tender.",
+      "Remove the chicken pieces and sear skin-side down in 1 tablespoon oil in a hot skillet for 2 minutes until browned, while reducing the braising liquid by half.",
+      "Return the chicken to the glossy adobo glaze and serve over steamed jasmine rice."
+    ]
+  },
+  {
+    "name": "Sinigang na Hipon (Tamarind Shrimp Soup)",
+    "cuisine": [
+      "filipino",
+      "healthy"
+    ],
+    "effort": "easy",
+    "budget": "moderate",
+    "protien": "shrimp",
+    "dietary_restrictions": [
+      "pescatarian",
+      "gluten-free",
+      "dairy-free",
+      "soy-free",
+      "peanut-free"
+    ],
+    "time": 30,
+    "ingredients": [
+      "shrimp",
+      "tamarind soup base",
+      "tomatoes",
+      "yellow onion",
+      "daikon radish",
+      "bok choy",
+      "green beans",
+      "fish sauce",
+      "water"
+    ],
+    "instructions": [
+      "Bring 6 cups water, 2 quartered tomatoes, 1 quartered onion, and 1 cup sliced daikon radish to a boil and simmer 10 minutes until radish softens.",
+      "Stir in 1 packet tamarind soup base (or 1/3 cup tamarind paste) and 1 tablespoon fish sauce to taste.",
+      "Add 1 cup trimmed green beans and 1 lb shell-on or peeled shrimp; simmer 3 to 4 minutes until shrimp turn bright pink.",
+      "Fold in 2 cups chopped bok choy for 1 minute until wilted and serve piping hot."
+    ]
+  },
+  {
+    "name": "Ginataang Kalabasa at Sitaw (Squash & Green Beans in Coconut Milk)",
+    "cuisine": [
+      "filipino",
+      "healthy"
+    ],
+    "effort": "easy",
+    "budget": "cheap",
+    "protien": "none",
+    "dietary_restrictions": [
+      "vegan",
+      "vegetarian",
+      "gluten-free",
+      "dairy-free",
+      "soy-free",
+      "peanut-free"
+    ],
+    "time": 25,
+    "ingredients": [
+      "kabocha or butternut squash",
+      "long green beans",
+      "coconut milk",
+      "garlic",
+      "ginger",
+      "yellow onion",
+      "vegetable oil",
+      "salt",
+      "black pepper"
+    ],
+    "instructions": [
+      "Sauté 1 diced onion, 4 cloves minced garlic, and 1 tablespoon minced ginger in 1 tablespoon oil for 3 minutes until fragrant.",
+      "Add 3 cups cubed kabocha squash and 1 can (13.5 oz) coconut milk; simmer uncovered over medium-low heat for 12 minutes until squash is fork-tender.",
+      "Stir in 2 cups cut long green beans, season with salt and black pepper, and simmer 4 minutes more until beans are bright green and crisp-tender."
+    ]
+  },
+  {
+    "name": "Vegetable Lumpia (Lumpiang Gulay)",
+    "cuisine": [
+      "filipino",
+      "junk"
+    ],
+    "effort": "hard",
+    "budget": "cheap",
+    "protien": "tofu",
+    "dietary_restrictions": [
+      "vegan",
+      "vegetarian",
+      "dairy-free",
+      "peanut-free"
+    ],
+    "time": 55,
+    "ingredients": [
+      "lumpia wrappers",
+      "green cabbage",
+      "carrots",
+      "bean sprouts",
+      "firm tofu",
+      "garlic",
+      "onion",
+      "soy sauce",
+      "black pepper",
+      "vegetable oil"
+    ],
+    "instructions": [
+      "Sauté 1 diced onion, 3 cloves minced garlic, and 1 cup diced pan-fried tofu in 1 tablespoon oil for 3 minutes.",
+      "Add 2 cups shredded cabbage, 1 cup julienned carrots, 1 cup bean sprouts, 1 tablespoon soy sauce, and 1/2 teaspoon black pepper; stir-fry 3 minutes until wilted, then drain in a colander until cool.",
+      "Place 2 tablespoons filling near the bottom edge of a lumpia wrapper, fold in the sides, roll tightly into a cylinder, and seal the edge with water.",
+      "Deep-fry in 350°F oil for 3 to 4 minutes until golden and crisp; serve with spiced vinegar dipping sauce."
+    ]
+  },
+  {
+    "name": "Chickpea & Spinach Spanakopita Skillet",
+    "cuisine": [
+      "greek",
+      "healthy"
+    ],
+    "effort": "easy",
+    "budget": "cheap",
+    "protien": "chickpeas",
+    "dietary_restrictions": [
+      "vegetarian",
+      "gluten-free",
+      "soy-free",
+      "peanut-free"
+    ],
+    "time": 25,
+    "ingredients": [
+      "chickpeas",
+      "baby spinach",
+      "feta cheese",
+      "green onions",
+      "fresh dill",
+      "garlic",
+      "lemon juice",
+      "olive oil",
+      "salt",
+      "black pepper"
+    ],
+    "instructions": [
+      "Heat 2 tablespoons olive oil in a wide skillet over medium heat and sauté 4 sliced green onions and 3 cloves minced garlic for 2 minutes.",
+      "Add 2 cans (15 oz each) drained chickpeas and 1/2 cup water; simmer 5 minutes, lightly mashing a few chickpeas.",
+      "Fold in 5 oz baby spinach in handfuls until wilted, then remove from heat and stir in 1/3 cup chopped fresh dill, 2 tablespoons lemon juice, and 1/2 cup crumbled feta cheese."
+    ]
+  },
+  {
+    "name": "Greek Lamb Gyros with Homemade Tzatziki",
+    "cuisine": [
+      "greek",
+      "junk"
+    ],
+    "effort": "medium",
+    "budget": "moderate",
+    "protien": "ground lamb",
+    "dietary_restrictions": [
+      "soy-free",
+      "peanut-free"
+    ],
+    "time": 40,
+    "ingredients": [
+      "ground lamb",
+      "pita bread",
+      "greek yogurt",
+      "cucumber",
+      "garlic",
+      "fresh dill",
+      "dried oregano",
+      "cumin",
+      "tomato",
+      "red onion",
+      "lemon juice",
+      "salt",
+      "black pepper"
+    ],
+    "instructions": [
+      "Mix 1 lb ground lamb with 1 teaspoon dried oregano, 1/2 teaspoon cumin, 2 cloves grated garlic, 1/2 teaspoon salt, and 1/4 teaspoon pepper; form into a flat loaf and bake at 400°F for 20 minutes, then slice thinly.",
+      "Combine 1 cup Greek yogurt, 1/2 cup grated squeezed cucumber, 1 tablespoon chopped dill, 1 clove grated garlic, 1 tablespoon lemon juice, and a pinch of salt for tzatziki.",
+      "Warm 4 pita breads and fill with the sliced lamb, tzatziki, sliced tomatoes, and thinly sliced red onion."
+    ]
+  },
+  {
+    "name": "Fasolada (Greek White Bean & Tomato Stew)",
+    "cuisine": [
+      "greek",
+      "healthy"
+    ],
+    "effort": "easy",
+    "budget": "cheap",
+    "protien": "great northern beans",
+    "dietary_restrictions": [
+      "vegan",
+      "vegetarian",
+      "gluten-free",
+      "dairy-free",
+      "soy-free",
+      "peanut-free"
+    ],
+    "time": 35,
+    "ingredients": [
+      "great northern beans",
+      "carrots",
+      "celery",
+      "yellow onion",
+      "tomato paste",
+      "crushed tomatoes",
+      "olive oil",
+      "bay leaf",
+      "dried oregano",
+      "vegetable broth",
+      "salt",
+      "black pepper"
+    ],
+    "instructions": [
+      "Sauté 1 diced onion, 2 sliced carrots, and 2 sliced celery stalks in 3 tablespoons olive oil for 7 minutes until tender.",
+      "Stir in 2 tablespoons tomato paste and 1 teaspoon dried oregano for 1 minute, then add 2 cans (15 oz each) drained Great Northern beans, 1 cup crushed tomatoes, 3 cups vegetable broth, and 1 bay leaf.",
+      "Simmer uncovered for 20 minutes until thick and velvety; season with salt, pepper, and an extra swirl of olive oil."
+    ]
+  },
+  {
+    "name": "Crispy Cauliflower Buffalo Wings",
+    "cuisine": [
+      "american",
+      "junk"
+    ],
+    "effort": "medium",
+    "budget": "cheap",
+    "protien": "none",
+    "dietary_restrictions": [
+      "vegan",
+      "vegetarian",
+      "gluten-free",
+      "dairy-free",
+      "soy-free",
+      "peanut-free"
+    ],
+    "time": 35,
+    "ingredients": [
+      "cauliflower",
+      "chickpea flour",
+      "water",
+      "garlic powder",
+      "paprika",
+      "frank's hot sauce",
+      "melted coconut oil or vegan butter",
+      "salt"
+    ],
+    "instructions": [
+      "Whisk 3/4 cup chickpea flour, 3/4 cup water, 1/2 teaspoon garlic powder, 1/2 teaspoon paprika, and 1/2 teaspoon salt into a smooth batter.",
+      "Dip 1 head of cauliflower cut into bite-sized florets into the batter, letting excess drip off, and arrange on a parchment-lined baking sheet.",
+      "Bake at 450°F for 20 minutes until golden and crisp, then toss gently in 1/2 cup hot sauce whisked with 2 tablespoons melted vegan butter.",
+      "Return to the oven for 8 minutes until sticky and caramelized."
+    ]
+  },
+  {
+    "name": "Truffle Parmesan Garlic Fries",
+    "cuisine": [
+      "american",
+      "italian",
+      "junk"
+    ],
+    "effort": "easy",
+    "budget": "cheap",
+    "protien": "cheese",
+    "dietary_restrictions": [
+      "vegetarian",
+      "gluten-free",
+      "soy-free",
+      "peanut-free"
+    ],
+    "time": 35,
+    "ingredients": [
+      "russet potatoes",
+      "olive oil",
+      "truffle oil",
+      "parmesan cheese",
+      "garlic powder",
+      "fresh parsley",
+      "salt",
+      "black pepper"
+    ],
+    "instructions": [
+      "Cut 2 large russet potatoes into 1/4-inch matchsticks, soak in cold water 15 minutes, and pat completely dry.",
+      "Toss the fries with 2 tablespoons olive oil, 1/2 teaspoon garlic powder, salt, and pepper, spread in a single layer on a sheet pan, and bake at 450°F for 25 to 30 minutes, flipping halfway.",
+      "Immediately toss the hot fries with 1 teaspoon white truffle oil, 1/3 cup grated parmesan, and 2 tablespoons chopped parsley."
+    ]
+  },
+  {
+    "name": "Mediterranean Quinoa & Roasted Chickpea Bowl",
+    "cuisine": [
+      "greek",
+      "healthy"
+    ],
+    "effort": "easy",
+    "budget": "cheap",
+    "protien": "chickpeas",
+    "dietary_restrictions": [
+      "vegan",
+      "vegetarian",
+      "gluten-free",
+      "dairy-free",
+      "soy-free",
+      "peanut-free"
+    ],
+    "time": 30,
+    "ingredients": [
+      "quinoa",
+      "chickpeas",
+      "cucumber",
+      "cherry tomatoes",
+      "kalamata olives",
+      "tahini",
+      "lemon juice",
+      "garlic",
+      "smoked paprika",
+      "olive oil",
+      "salt"
+    ],
+    "instructions": [
+      "Simmer 1 cup rinsed quinoa in 2 cups water for 15 minutes until fluffy.",
+      "Toss 1 can drained chickpeas with 1 tablespoon olive oil, 1 teaspoon smoked paprika, and salt; roast at 425°F for 20 minutes until crunchy.",
+      "Whisk 3 tablespoons tahini, 2 tablespoons lemon juice, 1 grated garlic clove, and 2 tablespoons warm water into a creamy dressing.",
+      "Assemble bowls with quinoa, crispy chickpeas, diced cucumber, halved cherry tomatoes, Kalamata olives, and tahini drizzle."
+    ]
+  },
+  {
+    "name": "Seared Ahi Tuna Poke Bowl",
+    "cuisine": [
+      "japanese",
+      "healthy"
+    ],
+    "effort": "easy",
+    "budget": "expensive",
+    "protien": "ahi tuna",
+    "dietary_restrictions": [
+      "pescatarian",
+      "gluten-free",
+      "dairy-free",
+      "peanut-free"
+    ],
+    "time": 20,
+    "ingredients": [
+      "sushi-grade ahi tuna",
+      "sushi rice",
+      "gluten-free tamari",
+      "sesame oil",
+      "rice vinegar",
+      "avocado",
+      "edamame",
+      "cucumber",
+      "green onion",
+      "sesame seeds"
+    ],
+    "instructions": [
+      "Cube 12 oz sushi-grade ahi tuna and toss gently with 2 tablespoons gluten-free tamari, 1 teaspoon sesame oil, 1 teaspoon rice vinegar, and 2 sliced green onions.",
+      "Divide warm seasoned sushi rice into 2 bowls and arrange the marinated tuna, 1/2 sliced avocado, 1/2 cup shelled edamame, and sliced cucumber on top.",
+      "Sprinkle generously with toasted black and white sesame seeds and serve immediately."
+    ]
+  },
+  {
+    "name": "Pork Tonkotsu-Style Miso Ramen",
+    "cuisine": [
+      "japanese",
+      "junk"
+    ],
+    "effort": "medium",
+    "budget": "moderate",
+    "protien": "pork belly",
+    "dietary_restrictions": [
+      "dairy-free",
+      "peanut-free"
+    ],
+    "time": 45,
+    "ingredients": [
+      "ramen noodles",
+      "pork belly",
+      "chicken broth",
+      "red miso paste",
+      "tahini",
+      "garlic",
+      "ginger",
+      "soy sauce",
+      "sesame oil",
+      "soft-boiled egg",
+      "corn kernels",
+      "green onion"
+    ],
+    "instructions": [
+      "Sear 8 oz sliced pork belly in a pot over medium-high heat for 3 minutes per side until browned, then set aside.",
+      "Sauté 3 cloves minced garlic and 1 tablespoon grated ginger in 1 teaspoon sesame oil for 1 minute, then whisk in 3 tablespoons red miso paste and 1 tablespoon tahini.",
+      "Pour in 4 cups chicken broth and 1 tablespoon soy sauce; simmer 10 minutes until rich and creamy.",
+      "Boil 2 packs fresh ramen noodles according to package directions, divide into bowls with the hot broth, and top with seared pork belly, halved soft-boiled eggs, sweet corn, and sliced scallions."
+    ]
+  },
+  {
+    "name": "Okonomiyaki (Savory Cabbage Pancake)",
+    "cuisine": [
+      "japanese",
+      "junk"
+    ],
+    "effort": "easy",
+    "budget": "cheap",
+    "protien": "egg",
+    "dietary_restrictions": [
+      "vegetarian",
+      "dairy-free",
+      "peanut-free"
+    ],
+    "time": 25,
+    "ingredients": [
+      "green cabbage",
+      "all purpose flour",
+      "eggs",
+      "water",
+      "green onion",
+      "pickled ginger",
+      "okonomiyaki sauce",
+      "kewpie mayo",
+      "nori flakes",
+      "vegetable oil",
+      "salt"
+    ],
+    "instructions": [
+      "Whisk 1 cup all-purpose flour, 3/4 cup water, 3 eggs, and 1/2 teaspoon salt into a smooth batter, then fold in 4 cups finely shredded cabbage, 3 sliced green onions, and 2 tablespoons chopped pickled ginger.",
+      "Heat 1 tablespoon oil in a nonstick skillet over medium heat, mound half the batter into a thick 7-inch pancake, cover, and cook 5 minutes until golden underneath.",
+      "Flip carefully, cover, and cook 5 minutes more until cooked through.",
+      "Drizzle generously with okonomiyaki sauce and Kewpie mayo in a crosshatch pattern and sprinkle with nori flakes."
+    ]
+  },
+  {
+    "name": "Matcha Soba Noodle Salad with Edamame",
+    "cuisine": [
+      "japanese",
+      "healthy"
+    ],
+    "effort": "easy",
+    "budget": "cheap",
+    "protien": "edamame",
+    "dietary_restrictions": [
+      "vegan",
+      "vegetarian",
+      "dairy-free",
+      "peanut-free"
+    ],
+    "time": 20,
+    "ingredients": [
+      "buckwheat soba noodles",
+      "shelled edamame",
+      "cucumber",
+      "avocado",
+      "soy sauce",
+      "rice vinegar",
+      "sesame oil",
+      "maple syrup",
+      "ginger",
+      "sesame seeds"
+    ],
+    "instructions": [
+      "Boil 8 oz soba noodles and 1 cup frozen shelled edamame together for 4 minutes until tender, then rinse thoroughly under cold water and drain.",
+      "Whisk 3 tablespoons soy sauce, 2 tablespoons rice vinegar, 1 tablespoon toasted sesame oil, 1 teaspoon maple syrup, and 1 teaspoon grated ginger.",
+      "Toss the chilled noodles and edamame with the dressing, julienned cucumber, diced avocado, and toasted sesame seeds."
+    ]
+  },
+  {
+    "name": "Chicken Yakitori Skewers",
+    "cuisine": [
+      "japanese",
+      "healthy"
+    ],
+    "effort": "medium",
+    "budget": "cheap",
+    "protien": "chicken thighs",
+    "dietary_restrictions": [
+      "dairy-free",
+      "peanut-free"
+    ],
+    "time": 35,
+    "ingredients": [
+      "boneless chicken thighs",
+      "green onions",
+      "soy sauce",
+      "mirin",
+      "sake",
+      "brown sugar",
+      "garlic",
+      "vegetable oil"
+    ],
+    "instructions": [
+      "Simmer 1/3 cup soy sauce, 1/3 cup mirin, 2 tablespoons sake, 2 tablespoons brown sugar, and 2 smashed garlic cloves in a small saucepan for 8 minutes until syrupy (tare glaze).",
+      "Cut 1.5 lbs boneless chicken thighs into 1-inch cubes and thread onto soaked bamboo skewers alternating with 1.5-inch pieces of green onion.",
+      "Broil or grill over high heat for 4 minutes per side, brushing twice with the tare glaze during the final 3 minutes until caramelized and glossy."
+    ]
+  },
+  {
+    "name": "Wagyu-Style Beef Hamburg Steak (Hambagu)",
+    "cuisine": [
+      "japanese"
+    ],
+    "effort": "medium",
+    "budget": "expensive",
+    "protien": "ground beef",
+    "dietary_restrictions": [
+      "peanut-free"
+    ],
+    "time": 40,
+    "ingredients": [
+      "ground chuck",
+      "yellow onion",
+      "panko breadcrumbs",
+      "milk",
+      "egg",
+      "nutmeg",
+      "ketchup",
+      "worcestershire sauce",
+      "red wine",
+      "butter",
+      "salt",
+      "black pepper"
+    ],
+    "instructions": [
+      "Sauté 1 finely minced onion in 1 tablespoon butter until translucent and cool; soak 1/2 cup panko in 3 tablespoons milk.",
+      "Knead 1.5 lbs ground beef with the cooled onions, soaked panko, 1 egg, 1/4 teaspoon nutmeg, salt, and pepper until tacky, then shape into 4 oval patties with a thumb indentation in the center.",
+      "Sear patties in a skillet over medium-high heat for 3 minutes per side, add 1/4 cup water, cover, and steam 5 minutes until cooked through.",
+      "Simmer 3 tablespoons ketchup, 2 tablespoons Worcestershire sauce, 2 tablespoons red wine, and 1 tablespoon butter in the pan drippings for 2 minutes and spoon over the steaks."
+    ]
+  },
+  {
+    "name": "Crispy Karaage Fried Chicken",
+    "cuisine": [
+      "japanese",
+      "junk"
+    ],
+    "effort": "medium",
+    "budget": "cheap",
+    "protien": "chicken thighs",
+    "dietary_restrictions": [
+      "gluten-free",
+      "dairy-free",
+      "peanut-free"
+    ],
+    "time": 45,
+    "ingredients": [
+      "boneless chicken thighs",
+      "gluten-free tamari",
+      "sake",
+      "ginger",
+      "garlic",
+      "potato starch",
+      "lemon wedges",
+      "vegetable oil",
+      "black pepper"
+    ],
+    "instructions": [
+      "Cut 1.5 lbs boneless chicken thighs into bite-sized pieces and marinate 20 minutes in 2 tablespoons gluten-free tamari, 1 tablespoon sake, 1 tablespoon grated ginger, 2 cloves grated garlic, and 1/4 teaspoon black pepper.",
+      "Dredge each piece thoroughly in 3/4 cup potato starch, shaking off excess.",
+      "Deep-fry in 350°F oil for 3 minutes, rest 2 minutes on a wire rack, then fry 1 minute more until ultra-crispy; serve with fresh lemon wedges."
+    ]
+  },
+  {
+    "name": "Penne alla Vodka",
+    "cuisine": [
+      "italian"
+    ],
+    "effort": "easy",
+    "budget": "cheap",
+    "protien": "cheese",
+    "dietary_restrictions": [
+      "vegetarian",
+      "soy-free",
+      "peanut-free"
+    ],
+    "time": 25,
+    "ingredients": [
+      "penne pasta",
+      "tomato paste",
+      "heavy cream",
+      "vodka",
+      "shallot",
+      "garlic",
+      "red pepper flakes",
+      "parmesan cheese",
+      "olive oil",
+      "salt"
+    ],
+    "instructions": [
+      "Boil 12 oz penne in salted water until al dente, reserving 3/4 cup pasta water.",
+      "Sauté 1 finely diced shallot and 3 cloves minced garlic in 2 tablespoons olive oil for 3 minutes, then stir in 1/2 cup tomato paste and 1/4 teaspoon red pepper flakes and cook 3 minutes until darkened.",
+      "Deglaze with 1/3 cup vodka for 1 minute, lower heat, and whisk in 1/2 cup heavy cream until smooth.",
+      "Toss the drained penne, 1/2 cup grated parmesan, and splashes of pasta water into the sauce until silky and glossy."
+    ]
+  },
+  {
+    "name": "Tuscan Grilled Zucchini & White Bean Bruschetta",
+    "cuisine": [
+      "italian",
+      "healthy"
+    ],
+    "effort": "easy",
+    "budget": "cheap",
+    "protien": "cannellini beans",
+    "dietary_restrictions": [
+      "vegan",
+      "vegetarian",
+      "dairy-free",
+      "soy-free",
+      "peanut-free"
+    ],
+    "time": 20,
+    "ingredients": [
+      "ciabatta bread",
+      "cannellini beans",
+      "zucchini",
+      "garlic",
+      "lemon juice",
+      "fresh basil",
+      "olive oil",
+      "salt",
+      "black pepper"
+    ],
+    "instructions": [
+      "Mash 1 can (15 oz) drained cannellini beans with 2 tablespoons olive oil, 1 tablespoon lemon juice, 1 grated garlic clove, salt, and pepper until creamy.",
+      "Brush sliced zucchini planks and thick slices of ciabatta with olive oil and grill or pan-sear 2 to 3 minutes per side until charred.",
+      "Spread the whipped white beans over the warm toasted bread and top with diced grilled zucchini and torn fresh basil."
+    ]
+  },
+  {
+    "name": "Truffle Wild Mushroom Tagliatelle",
+    "cuisine": [
+      "italian"
+    ],
+    "effort": "medium",
+    "budget": "expensive",
+    "protien": "mushrooms",
+    "dietary_restrictions": [
+      "vegetarian",
+      "soy-free",
+      "peanut-free"
+    ],
+    "time": 30,
+    "ingredients": [
+      "egg tagliatelle",
+      "chanterelle or cremini mushrooms",
+      "shallots",
+      "garlic",
+      "white wine",
+      "heavy cream",
+      "parmesan cheese",
+      "truffle butter",
+      "fresh thyme",
+      "salt",
+      "black pepper"
+    ],
+    "instructions": [
+      "Sear 12 oz sliced mixed wild mushrooms in a wide skillet over high heat for 6 minutes until deeply browned, then add 1 minced shallot, 2 cloves minced garlic, and 1 teaspoon fresh thyme.",
+      "Deglaze with 1/3 cup dry white wine until evaporated, stir in 1/3 cup heavy cream, and simmer 2 minutes.",
+      "Toss in 12 oz freshly boiled tagliatelle, 2 tablespoons black truffle butter, 1/2 cup grated parmesan, and 1/3 cup pasta water until creamy."
+    ]
+  },
+  {
+    "name": "Sicilian Caponata (Sweet & Sour Eggplant Stew)",
+    "cuisine": [
+      "italian",
+      "healthy"
+    ],
+    "effort": "medium",
+    "budget": "cheap",
+    "protien": "pine nuts",
+    "dietary_restrictions": [
+      "vegan",
+      "vegetarian",
+      "gluten-free",
+      "dairy-free",
+      "soy-free",
+      "peanut-free"
+    ],
+    "time": 40,
+    "ingredients": [
+      "globe eggplant",
+      "celery",
+      "yellow onion",
+      "crushed tomatoes",
+      "green olives",
+      "capers",
+      "red wine vinegar",
+      "sugar",
+      "pine nuts",
+      "olive oil",
+      "fresh basil",
+      "salt"
+    ],
+    "instructions": [
+      "Sauté 1 large eggplant cut into 3/4-inch cubes in 3 tablespoons olive oil over medium-high heat for 8 minutes until browned and tender, then transfer to a bowl.",
+      "In the same pan, sauté 1 diced onion and 2 sliced celery stalks for 5 minutes, then add 1 cup crushed tomatoes, 1/3 cup pitted green olives, and 2 tablespoons drained capers.",
+      "Return the eggplant to the pan with 3 tablespoons red wine vinegar and 1 tablespoon sugar; simmer 8 minutes until glossy and fold in toasted pine nuts and fresh basil."
+    ]
+  },
+  {
+    "name": "Cioppino (San Francisco-Italian Seafood Stew)",
+    "cuisine": [
+      "italian",
+      "healthy"
+    ],
+    "effort": "hard",
+    "budget": "expensive",
+    "protien": "mixed seafood",
+    "dietary_restrictions": [
+      "pescatarian",
+      "gluten-free",
+      "dairy-free",
+      "soy-free",
+      "peanut-free"
+    ],
+    "time": 55,
+    "ingredients": [
+      "littleneck clams",
+      "peeled shrimp",
+      "cod fillets",
+      "fennel bulb",
+      "yellow onion",
+      "garlic",
+      "crushed tomatoes",
+      "dry white wine",
+      "seafood or vegetable broth",
+      "red pepper flakes",
+      "olive oil",
+      "parsley",
+      "salt"
+    ],
+    "instructions": [
+      "Sauté 1 thinly sliced fennel bulb and 1 diced onion in 3 tablespoons olive oil in a Dutch oven for 7 minutes until softened, then add 4 cloves minced garlic and 1/2 teaspoon red pepper flakes.",
+      "Pour in 1 cup dry white wine, 1 can (28 oz) crushed tomatoes, and 2 cups seafood broth; simmer 15 minutes.",
+      "Nestle 1 lb scrubbed littleneck clams into the broth, cover, and cook 5 minutes until they begin opening, then add 1 lb cubed cod and 3/4 lb peeled shrimp.",
+      "Cover and simmer 4 minutes more until the fish is opaque, shrimp are pink, and clams are wide open; garnish with chopped parsley."
+    ]
+  },
+  {
+    "name": "Crispy Garlic Bread Pizza Sub",
+    "cuisine": [
+      "italian",
+      "american",
+      "junk"
+    ],
+    "effort": "easy",
+    "budget": "cheap",
+    "protien": "cheese",
+    "dietary_restrictions": [
+      "vegetarian",
+      "soy-free",
+      "peanut-free"
+    ],
+    "time": 20,
+    "ingredients": [
+      "french baguette",
+      "marinara sauce",
+      "low-moisture mozzarella",
+      "parmesan cheese",
+      "butter",
+      "garlic powder",
+      "dried oregano",
+      "red pepper flakes"
+    ],
+    "instructions": [
+      "Split 1 French baguette lengthwise, spread cut sides with 3 tablespoons softened butter mixed with 1/2 teaspoon garlic powder and 1/2 teaspoon dried oregano, and toast under the broiler for 2 minutes.",
+      "Spoon 1 cup warm marinara sauce over the toasted garlic bread and pile on 2 cups shredded mozzarella and 1/4 cup grated parmesan.",
+      "Broil 3 minutes more until the cheese is bubbly and spotted brown; finish with red pepper flakes and slice into wedges."
+    ]
+  },
+  {
+    "name": "Palak Paneer (Creamed Spinach with Paneer)",
+    "cuisine": [
+      "indian",
+      "healthy"
+    ],
+    "effort": "medium",
+    "budget": "moderate",
+    "protien": "paneer",
+    "dietary_restrictions": [
+      "vegetarian",
+      "gluten-free",
+      "soy-free",
+      "peanut-free"
+    ],
+    "time": 40,
+    "ingredients": [
+      "fresh spinach",
+      "paneer",
+      "yellow onion",
+      "tomato",
+      "garlic",
+      "ginger",
+      "cumin seeds",
+      "garam masala",
+      "turmeric",
+      "heavy cream",
+      "ghee",
+      "salt"
+    ],
+    "instructions": [
+      "Blanch 10 oz fresh spinach in boiling water for 1 minute, plunge into ice water, squeeze dry, and blend with 1/4 cup water into a bright green purée.",
+      "Pan-fry 12 oz cubed paneer in 1 tablespoon ghee until golden on the edges, then set aside.",
+      "In the same pan, sizzle 1 teaspoon cumin seeds, sauté 1 diced onion, 3 cloves minced garlic, and 1 tablespoon grated ginger for 5 minutes, then cook 1 diced tomato with 1/2 teaspoon turmeric until soft.",
+      "Stir in the spinach purée, 1 teaspoon garam masala, 2 tablespoons heavy cream, and the seared paneer; simmer 5 minutes."
+    ]
+  },
+  {
+    "name": "Goan Shrimp Curry (Sungta Hooman)",
+    "cuisine": [
+      "indian",
+      "healthy"
+    ],
+    "effort": "easy",
+    "budget": "moderate",
+    "protien": "shrimp",
+    "dietary_restrictions": [
+      "pescatarian",
+      "gluten-free",
+      "dairy-free",
+      "soy-free",
+      "peanut-free"
+    ],
+    "time": 30,
+    "ingredients": [
+      "peeled shrimp",
+      "coconut milk",
+      "yellow onion",
+      "tomato",
+      "garlic",
+      "ginger",
+      "turmeric",
+      "coriander powder",
+      "kashmiri chili powder",
+      "tamarind paste",
+      "coconut oil",
+      "cilantro",
+      "salt"
+    ],
+    "instructions": [
+      "Heat 1 tablespoon coconut oil in a skillet over medium heat and sauté 1 finely diced onion for 5 minutes until translucent.",
+      "Stir in 3 cloves minced garlic, 1 tablespoon grated ginger, 1 teaspoon coriander powder, 1/2 teaspoon turmeric, and 1/2 teaspoon Kashmiri chili powder for 1 minute.",
+      "Add 1 diced tomato and 1 can (13.5 oz) coconut milk with 1 teaspoon tamarind paste; simmer 8 minutes until fragrant.",
+      "Add 1 lb peeled shrimp and 1 teaspoon salt, simmer 3 to 4 minutes until pink and curled, and garnish with fresh cilantro."
+    ]
+  },
+  {
+    "name": "Pav Bhaji (Spiced Mashed Vegetable Sliders)",
+    "cuisine": [
+      "indian",
+      "junk"
+    ],
+    "effort": "medium",
+    "budget": "cheap",
+    "protien": "green peas",
+    "dietary_restrictions": [
+      "vegetarian",
+      "soy-free",
+      "peanut-free"
+    ],
+    "time": 40,
+    "ingredients": [
+      "potatoes",
+      "cauliflower",
+      "green peas",
+      "tomatoes",
+      "yellow onion",
+      "bell pepper",
+      "pav bhaji masala",
+      "butter",
+      "garlic",
+      "ginger",
+      "dinner rolls",
+      "lemon wedges",
+      "cilantro",
+      "salt"
+    ],
+    "instructions": [
+      "Boil 2 diced potatoes, 1.5 cups cauliflower florets, and 1/2 cup green peas in salted water for 12 minutes until soft, then drain and mash coarse.",
+      "Sauté 1 diced onion, 1 diced bell pepper, and 1 tablespoon garlic-ginger paste in 2 tablespoons butter for 5 minutes, then add 2 diced tomatoes and 2 tablespoons pav bhaji masala.",
+      "Fold in the mashed vegetables and 1/2 cup water, simmering and mashing together for 8 minutes until thick and velvety.",
+      "Toast split soft dinner rolls in melted butter on a skillet and serve alongside the bhaji topped with extra butter, cilantro, and lemon."
+    ]
+  },
+  {
+    "name": "Baingan Bharta (Smoky Roasted Eggplant Mash)",
+    "cuisine": [
+      "indian",
+      "healthy"
+    ],
+    "effort": "medium",
+    "budget": "cheap",
+    "protien": "none",
+    "dietary_restrictions": [
+      "vegan",
+      "vegetarian",
+      "gluten-free",
+      "dairy-free",
+      "soy-free",
+      "peanut-free"
+    ],
+    "time": 45,
+    "ingredients": [
+      "globe eggplants",
+      "yellow onion",
+      "tomatoes",
+      "garlic",
+      "ginger",
+      "cumin seeds",
+      "turmeric",
+      "garam masala",
+      "green chili",
+      "vegetable oil",
+      "cilantro",
+      "salt"
+    ],
+    "instructions": [
+      "Prick 2 whole globe eggplants with a fork and roast directly over a gas flame or under a hot broiler for 15 to 20 minutes, turning occasionally, until charred and collapsed; cool, peel off skin, and mash flesh.",
+      "Heat 2 tablespoons oil in a skillet, sizzle 1 teaspoon cumin seeds, and sauté 1 diced onion, 1 minced green chili, 3 cloves minced garlic, and 1 tablespoon grated ginger for 5 minutes.",
+      "Add 2 diced tomatoes, 1/2 teaspoon turmeric, and 1 teaspoon salt; cook 5 minutes until jammy, then stir in the smoky eggplant and 1/2 teaspoon garam masala for 6 minutes."
+    ]
+  },
+  {
+    "name": "Tandoori Salmon Skewers with Mint Chutney",
+    "cuisine": [
+      "indian",
+      "healthy"
+    ],
+    "effort": "easy",
+    "budget": "expensive",
+    "protien": "salmon",
+    "dietary_restrictions": [
+      "pescatarian",
+      "gluten-free",
+      "soy-free",
+      "peanut-free"
+    ],
+    "time": 30,
+    "ingredients": [
+      "salmon fillets",
+      "greek yogurt",
+      "garam masala",
+      "turmeric",
+      "kashmiri chili powder",
+      "lemon juice",
+      "garlic",
+      "ginger",
+      "fresh mint",
+      "cilantro",
+      "salt"
+    ],
+    "instructions": [
+      "Whisk 1/2 cup Greek yogurt with 1 tablespoon lemon juice, 1 teaspoon garam masala, 1/2 teaspoon turmeric, 1/2 teaspoon Kashmiri chili powder, 1 tablespoon garlic-ginger paste, and 1/2 teaspoon salt.",
+      "Toss 1.5 lbs cubed skinless salmon in the spiced yogurt, thread onto skewers, and broil on a foil-lined pan for 7 to 8 minutes until charred at the edges.",
+      "Blend 1 cup cilantro, 1/2 cup mint leaves, 1/4 cup Greek yogurt, lemon juice, and salt into a bright chutney for serving."
+    ]
+  },
+  {
+    "name": "Chicken Biryani",
+    "cuisine": [
+      "indian"
+    ],
+    "effort": "hard",
+    "budget": "moderate",
+    "protien": "chicken thighs",
+    "dietary_restrictions": [
+      "gluten-free",
+      "soy-free",
+      "peanut-free"
+    ],
+    "time": 75,
+    "ingredients": [
+      "basmati rice",
+      "chicken thighs",
+      "plain yogurt",
+      "yellow onions",
+      "tomato",
+      "garam masala",
+      "biryani masala",
+      "turmeric",
+      "ginger",
+      "garlic",
+      "fresh mint",
+      "cilantro",
+      "ghee",
+      "saffron",
+      "salt"
+    ],
+    "instructions": [
+      "Marinate 1.5 lbs bone-in chicken thighs for 30 minutes in 1/2 cup yogurt, 1 tablespoon biryani masala, 1/2 teaspoon turmeric, 1 tablespoon garlic-ginger paste, and 1 teaspoon salt.",
+      "Parboil 2 cups rinsed basmati rice in salted water for 5 minutes until 70% cooked, then drain.",
+      "Fry 2 thinly sliced onions in 3 tablespoons ghee until golden brown; remove half for garnish, add the marinated chicken and 1 chopped tomato to the pot, and cook 12 minutes.",
+      "Layer the parboiled rice, fresh mint, cilantro, fried onions, and 2 tablespoons saffron-infused warm milk over the chicken, cover tightly, and steam on lowest heat for 20 minutes."
+    ]
+  },
+  {
+    "name": "Japchae (Sweet Potato Glass Noodles with Vegetables)",
+    "cuisine": [
+      "korean",
+      "healthy"
+    ],
+    "effort": "medium",
+    "budget": "cheap",
+    "protien": "none",
+    "dietary_restrictions": [
+      "vegan",
+      "vegetarian",
+      "gluten-free",
+      "dairy-free",
+      "peanut-free"
+    ],
+    "time": 40,
+    "ingredients": [
+      "korean sweet potato starch noodles",
+      "baby spinach",
+      "shiitake mushrooms",
+      "carrot",
+      "red bell pepper",
+      "yellow onion",
+      "gluten-free tamari",
+      "brown sugar",
+      "sesame oil",
+      "garlic",
+      "sesame seeds",
+      "vegetable oil"
+    ],
+    "instructions": [
+      "Boil 8 oz Korean sweet potato starch noodles (dangmyeon) for 6 minutes until chewy-tender, drain, rinse in cold water, and toss with 1 tablespoon sesame oil.",
+      "Blanch 4 oz spinach for 30 seconds, squeeze dry, and season with a pinch of salt and sesame oil.",
+      "Stir-fry 1/2 sliced onion, 1 julienned carrot, 1 sliced bell pepper, and 6 sliced shiitake mushrooms in 1 tablespoon oil for 4 minutes.",
+      "Toss the noodles and vegetables together in the skillet over medium heat with 1/4 cup gluten-free tamari, 2 tablespoons brown sugar, 2 cloves minced garlic, and 1 tablespoon sesame oil for 2 minutes; top with sesame seeds."
+    ]
+  },
+  {
+    "name": "Tteokbokki (Spicy Rice Cakes)",
+    "cuisine": [
+      "korean",
+      "junk"
+    ],
+    "effort": "easy",
+    "budget": "cheap",
+    "protien": "egg",
+    "dietary_restrictions": [
+      "vegetarian",
+      "dairy-free",
+      "peanut-free"
+    ],
+    "time": 20,
+    "ingredients": [
+      "korean cylindrical rice cakes",
+      "gochujang",
+      "gochugaru",
+      "soy sauce",
+      "brown sugar",
+      "garlic",
+      "green onions",
+      "hard-boiled eggs",
+      "water",
+      "sesame seeds"
+    ],
+    "instructions": [
+      "Soak 1 lb Korean cylindrical rice cakes (garaetteok) in warm water for 10 minutes to soften.",
+      "In a wide skillet, bring 2 cups water, 3 tablespoons gochujang, 1 tablespoon gochugaru, 1 tablespoon soy sauce, 1.5 tablespoons brown sugar, and 2 cloves minced garlic to a simmer.",
+      "Add the drained rice cakes and simmer 8 to 10 minutes, stirring frequently, until the sauce thickens into a glossy red glaze and the cakes are chewy.",
+      "Top with halved hard-boiled eggs, sliced green onions, and toasted sesame seeds."
+    ]
+  },
+  {
+    "name": "Bibimbap (Mixed Rice & Vegetable Bowl)",
+    "cuisine": [
+      "korean",
+      "healthy"
+    ],
+    "effort": "medium",
+    "budget": "cheap",
+    "protien": "egg",
+    "dietary_restrictions": [
+      "vegetarian",
+      "gluten-free",
+      "dairy-free",
+      "peanut-free"
+    ],
+    "time": 40,
+    "ingredients": [
+      "short grain rice",
+      "baby spinach",
+      "soybean sprouts",
+      "carrot",
+      "zucchini",
+      "shiitake mushrooms",
+      "eggs",
+      "gochujang",
+      "sesame oil",
+      "garlic",
+      "sesame seeds",
+      "vegetable oil",
+      "salt"
+    ],
+    "instructions": [
+      "Blanch 4 oz spinach and 1 cup soybean sprouts separately, squeeze dry, and season each with minced garlic, sesame oil, and salt.",
+      "Sauté julienned carrot, julienned zucchini, and sliced shiitake mushrooms separately in a lightly oiled skillet for 2 minutes each until tender-crisp.",
+      "Arrange the seasoned vegetables neatly over bowls of warm short-grain rice, top each bowl with a sunny-side-up fried egg, and serve with a spoonful of gochujang and sesame seeds."
+    ]
+  },
+  {
+    "name": "Galbi (Grilled Soy-Marinated Beef Short Ribs)",
+    "cuisine": [
+      "korean"
+    ],
+    "effort": "medium",
+    "budget": "expensive",
+    "protien": "beef short ribs",
+    "dietary_restrictions": [
+      "dairy-free",
+      "peanut-free"
+    ],
+    "time": 50,
+    "ingredients": [
+      "flanken-cut beef short ribs",
+      "soy sauce",
+      "brown sugar",
+      "asian pear",
+      "garlic",
+      "ginger",
+      "sesame oil",
+      "green onions",
+      "black pepper",
+      "sesame seeds"
+    ],
+    "instructions": [
+      "Blend 1/2 peeled Asian pear, 1/2 cup soy sauce, 1/4 cup brown sugar, 4 cloves garlic, 1 tablespoon ginger, 2 tablespoons sesame oil, and 1/2 teaspoon black pepper into a smooth marinade.",
+      "Pour over 2.5 lbs flanken-cut beef short ribs and marinate at least 30 minutes.",
+      "Grill or broil over high heat for 3 to 4 minutes per side until caramelized and lightly charred; garnish with sliced green onions and sesame seeds."
+    ]
+  },
+  {
+    "name": "Kimchi Grilled Cheese Sandwich",
+    "cuisine": [
+      "korean",
+      "american",
+      "junk"
+    ],
+    "effort": "easy",
+    "budget": "cheap",
+    "protien": "cheese",
+    "dietary_restrictions": [
+      "vegetarian",
+      "soy-free",
+      "peanut-free"
+    ],
+    "time": 15,
+    "ingredients": [
+      "sourdough bread",
+      "aged kimchi",
+      "sharp cheddar cheese",
+      "mozzarella cheese",
+      "butter",
+      "gochujang",
+      "mayonnaise"
+    ],
+    "instructions": [
+      "Sauté 1/2 cup chopped squeezed kimchi in 1 teaspoon butter for 3 minutes until caramelized and moisture evaporates.",
+      "Mix 1 tablespoon mayonnaise with 1 teaspoon gochujang and spread inside 2 slices of sourdough bread; butter the outsides.",
+      "Layer cheddar, mozzarella, and the warm kimchi between the bread and grill in a skillet over medium-low heat for 3 to 4 minutes per side until golden and molten."
+    ]
+  },
+  {
+    "name": "Doenjang Jjigae (Soybean Paste Stew)",
+    "cuisine": [
+      "korean",
+      "healthy"
+    ],
+    "effort": "easy",
+    "budget": "cheap",
+    "protien": "tofu",
+    "dietary_restrictions": [
+      "vegan",
+      "vegetarian",
+      "dairy-free",
+      "peanut-free"
+    ],
+    "time": 25,
+    "ingredients": [
+      "doenjang fermented soybean paste",
+      "firm tofu",
+      "zucchini",
+      "yukon gold potato",
+      "yellow onion",
+      "shiitake mushrooms",
+      "garlic",
+      "gochugaru",
+      "kombu vegetable broth",
+      "green onion"
+    ],
+    "instructions": [
+      "Dissolve 2.5 tablespoons Korean doenjang paste and 1 teaspoon gochugaru into 2.5 cups simmering kombu vegetable broth.",
+      "Add 1 diced small potato, 1/2 diced onion, and 4 sliced shiitake mushrooms; simmer 10 minutes until potato is tender.",
+      "Add 1/2 diced zucchini, 8 oz cubed firm tofu, and 2 cloves minced garlic; simmer 5 minutes more and garnish with sliced green onions."
+    ]
+  },
+  {
+    "name": "Cajun Blackened Catfish with Dirty Rice",
+    "cuisine": [
+      "american",
+      "healthy"
+    ],
+    "effort": "medium",
+    "budget": "moderate",
+    "protien": "catfish",
+    "dietary_restrictions": [
+      "pescatarian",
+      "gluten-free",
+      "dairy-free",
+      "soy-free",
+      "peanut-free"
+    ],
+    "time": 35,
+    "ingredients": [
+      "catfish fillets",
+      "smoked paprika",
+      "garlic powder",
+      "onion powder",
+      "dried thyme",
+      "cayenne pepper",
+      "olive oil",
+      "long grain rice",
+      "bell pepper",
+      "celery",
+      "green onion",
+      "salt",
+      "black pepper"
+    ],
+    "instructions": [
+      "Rub 4 catfish fillets with 1 tablespoon olive oil and a blend of 1 tablespoon smoked paprika, 1 teaspoon garlic powder, 1 teaspoon onion powder, 1/2 teaspoon dried thyme, 1/4 teaspoon cayenne, salt, and pepper.",
+      "Sear the fillets in a smoking-hot cast-iron skillet for 3 to 4 minutes per side until darkly crusted and flaky.",
+      "Serve alongside warm rice tossed with sautéed diced bell pepper, celery, green onions, and Cajun spices."
+    ]
+  },
+  {
+    "name": "Crispy Chickpea & Avocado Ranch Wrap",
+    "cuisine": [
+      "american",
+      "healthy"
+    ],
+    "effort": "easy",
+    "budget": "cheap",
+    "protien": "chickpeas",
+    "dietary_restrictions": [
+      "vegan",
+      "vegetarian",
+      "dairy-free",
+      "soy-free",
+      "peanut-free"
+    ],
+    "time": 20,
+    "ingredients": [
+      "chickpeas",
+      "flour tortillas",
+      "avocado",
+      "romaine lettuce",
+      "cherry tomatoes",
+      "vegan ranch dressing",
+      "smoked paprika",
+      "garlic powder",
+      "olive oil",
+      "salt"
+    ],
+    "instructions": [
+      "Pan-roast 1 can drained chickpeas in 1 tablespoon olive oil with 1 teaspoon smoked paprika, 1/2 teaspoon garlic powder, and 1/2 teaspoon salt over medium-high heat for 8 minutes until crispy.",
+      "Mash 1 ripe avocado onto 2 large tortillas and drizzle with vegan ranch dressing.",
+      "Layer chopped romaine, halved cherry tomatoes, and the warm crispy chickpeas down the center, then roll tightly."
+    ]
+  },
+  {
+    "name": "Philly Cheesesteak Skillet",
+    "cuisine": [
+      "american",
+      "junk"
+    ],
+    "effort": "easy",
+    "budget": "moderate",
+    "protien": "ribeye steak",
+    "dietary_restrictions": [
+      "gluten-free",
+      "soy-free",
+      "peanut-free"
+    ],
+    "time": 25,
+    "ingredients": [
+      "thinly sliced ribeye",
+      "provolone cheese",
+      "green bell pepper",
+      "yellow onion",
+      "cremini mushrooms",
+      "worcestershire sauce",
+      "olive oil",
+      "salt",
+      "black pepper"
+    ],
+    "instructions": [
+      "Sauté 1 sliced onion, 1 sliced green bell pepper, and 6 oz sliced mushrooms in 1 tablespoon olive oil in a large skillet for 6 minutes until caramelized, then push to the side.",
+      "Add 1 lb thinly shaved ribeye steak, season with salt, pepper, and 1 tablespoon Worcestershire sauce, and sear 3 minutes while chopping with a spatula.",
+      "Toss the meat and peppers together, drape 5 slices of provolone cheese over the top, cover for 1 minute until melted, and serve hot."
+    ]
+  },
+  {
+    "name": "Southern Sweet Potato & Black Bean Chili",
+    "cuisine": [
+      "american",
+      "healthy"
+    ],
+    "effort": "easy",
+    "budget": "cheap",
+    "protien": "black beans",
+    "dietary_restrictions": [
+      "vegan",
+      "vegetarian",
+      "gluten-free",
+      "dairy-free",
+      "soy-free",
+      "peanut-free"
+    ],
+    "time": 40,
+    "ingredients": [
+      "sweet potato",
+      "black beans",
+      "fire-roasted diced tomatoes",
+      "yellow onion",
+      "red bell pepper",
+      "garlic",
+      "chili powder",
+      "cumin",
+      "smoked paprika",
+      "vegetable broth",
+      "olive oil",
+      "lime juice",
+      "salt"
+    ],
+    "instructions": [
+      "Sauté 1 diced onion, 1 diced red bell pepper, and 3 cloves minced garlic in 1 tablespoon olive oil in a Dutch oven for 5 minutes.",
+      "Stir in 2 tablespoons chili powder, 2 teaspoons cumin, and 1 teaspoon smoked paprika for 1 minute.",
+      "Add 1 large peeled diced sweet potato, 2 cans (15 oz each) drained black beans, 1 can (14.5 oz) fire-roasted tomatoes, and 2 cups vegetable broth; simmer 25 minutes until sweet potatoes are tender and finish with lime juice."
+    ]
+  },
+  {
+    "name": "Garlic Butter Prime Ribeye with Roasted Baby Potatoes",
+    "cuisine": [
+      "american"
+    ],
+    "effort": "medium",
+    "budget": "expensive",
+    "protien": "ribeye steak",
+    "dietary_restrictions": [
+      "gluten-free",
+      "soy-free",
+      "peanut-free"
+    ],
+    "time": 40,
+    "ingredients": [
+      "bone-in ribeye steak",
+      "baby gold potatoes",
+      "unsalted butter",
+      "garlic",
+      "fresh rosemary",
+      "olive oil",
+      "kosher salt",
+      "black pepper"
+    ],
+    "instructions": [
+      "Toss 1.5 lbs halved baby gold potatoes with 1.5 tablespoons olive oil, salt, and pepper; roast at 425°F for 25 minutes until crisp.",
+      "Season a thick 1.5-inch ribeye steak generously with kosher salt and black pepper and sear in 1 tablespoon high-heat oil in a cast-iron skillet for 3 minutes per side.",
+      "Lower heat, add 3 tablespoons butter, 4 crushed garlic cloves, and 2 rosemary sprigs, and baste the steak with foaming butter for 2 minutes until internal temp hits 130°F; rest 10 minutes before slicing."
+    ]
+  },
+  {
+    "name": "Crispy Beer-Battered Fish & Chips",
+    "cuisine": [
+      "american",
+      "junk"
+    ],
+    "effort": "hard",
+    "budget": "moderate",
+    "protien": "cod",
+    "dietary_restrictions": [
+      "pescatarian",
+      "dairy-free",
+      "soy-free",
+      "peanut-free"
+    ],
+    "time": 50,
+    "ingredients": [
+      "cod fillets",
+      "russet potatoes",
+      "all purpose flour",
+      "cornstarch",
+      "baking powder",
+      "cold lager beer",
+      "tartar sauce",
+      "lemon wedges",
+      "vegetable oil",
+      "salt"
+    ],
+    "instructions": [
+      "Cut 2 large russet potatoes into thick fries, par-fry in 325°F oil for 5 minutes, and drain on paper towels.",
+      "Whisk 1 cup flour, 1/4 cup cornstarch, 1 teaspoon baking powder, 1/2 teaspoon salt, and 1 cup ice-cold beer into a smooth batter.",
+      "Increase oil to 375°F, fry the par-cooked fries for 3 minutes until golden and crisp, then dip salted cod fillets into the batter and fry 4 to 5 minutes until puffed and deep golden."
+    ]
+  },
+  {
+    "name": "Dan Dan Noodles (Sesame Chili Noodles)",
+    "cuisine": [
+      "chinese",
+      "junk"
+    ],
+    "effort": "easy",
+    "budget": "cheap",
+    "protien": "ground pork",
+    "dietary_restrictions": [
+      "dairy-free"
+    ],
+    "time": 25,
+    "ingredients": [
+      "wheat noodles",
+      "ground pork",
+      "tahini or sesame paste",
+      "chili oil",
+      "soy sauce",
+      "black vinegar",
+      "garlic",
+      "ginger",
+      "bok choy",
+      "crushed peanuts",
+      "green onion"
+    ],
+    "instructions": [
+      "Brown 8 oz ground pork in a skillet over medium-high heat with 1 tablespoon soy sauce, 2 cloves minced garlic, and 1 teaspoon grated ginger until crisp.",
+      "In each serving bowl, whisk 2 tablespoons Chinese sesame paste (or tahini), 2 tablespoons chili oil, 1.5 tablespoons soy sauce, 1 tablespoon black vinegar, and 1/4 cup hot noodle cooking water.",
+      "Boil 8 oz wheat noodles and 2 cups baby bok choy for 4 minutes, drain, toss into the bowls of sauce, and top with the crispy pork, green onions, and crushed peanuts."
+    ]
+  },
+  {
+    "name": "Tomato & Egg Stir-Fry (Fanqie Chao Dan)",
+    "cuisine": [
+      "chinese",
+      "healthy"
+    ],
+    "effort": "easy",
+    "budget": "cheap",
+    "protien": "eggs",
+    "dietary_restrictions": [
+      "vegetarian",
+      "gluten-free",
+      "dairy-free",
+      "peanut-free"
+    ],
+    "time": 15,
+    "ingredients": [
+      "eggs",
+      "ripe tomatoes",
+      "green onions",
+      "ketchup",
+      "sugar",
+      "cornstarch",
+      "sesame oil",
+      "vegetable oil",
+      "salt"
+    ],
+    "instructions": [
+      "Whisk 5 eggs with 1/2 teaspoon salt and 1/2 teaspoon sesame oil; scramble softly in 1 tablespoon hot oil in a wok until just set, then transfer to a bowl.",
+      "Sauté 3 large wedged tomatoes and white parts of 3 green onions in 1 tablespoon oil for 3 minutes until juicy.",
+      "Stir in 1 tablespoon ketchup, 1 teaspoon sugar, 1/4 teaspoon salt, and 1 teaspoon cornstarch dissolved in 2 tablespoons water; fold the soft eggs back in for 30 seconds and top with green onion tops."
+    ]
+  },
+  {
+    "name": "Broccoli & Garlic Oyster-Style Mushroom Stir-Fry",
+    "cuisine": [
+      "chinese",
+      "healthy"
+    ],
+    "effort": "easy",
+    "budget": "cheap",
+    "protien": "none",
+    "dietary_restrictions": [
+      "vegan",
+      "vegetarian",
+      "dairy-free",
+      "peanut-free"
+    ],
+    "time": 20,
+    "ingredients": [
+      "broccoli crowns",
+      "king oyster mushrooms",
+      "vegetarian mushroom oyster sauce",
+      "soy sauce",
+      "garlic",
+      "ginger",
+      "cornstarch",
+      "sesame oil",
+      "vegetable oil"
+    ],
+    "instructions": [
+      "Blanch 4 cups broccoli florets in boiling water for 90 seconds until bright green, then drain.",
+      "Sear 8 oz sliced king oyster mushrooms in 1 tablespoon oil over high heat for 4 minutes until golden, then add 4 cloves minced garlic and 1 teaspoon grated ginger.",
+      "Toss in the broccoli along with 2 tablespoons vegetarian mushroom oyster sauce, 1 tablespoon soy sauce, 1/3 cup water, and 1 teaspoon cornstarch; stir-fry 1 minute until glossy and drizzle with sesame oil."
+    ]
+  },
+  {
+    "name": "Char Siu (Cantonese BBQ Pork)",
+    "cuisine": [
+      "chinese"
+    ],
+    "effort": "hard",
+    "budget": "moderate",
+    "protien": "pork shoulder",
+    "dietary_restrictions": [
+      "dairy-free",
+      "peanut-free"
+    ],
+    "time": 75,
+    "ingredients": [
+      "pork shoulder",
+      "hoisin sauce",
+      "honey",
+      "soy sauce",
+      "shaoxing wine",
+      "five-spice powder",
+      "garlic",
+      "sesame oil"
+    ],
+    "instructions": [
+      "Cut 2 lbs pork shoulder into 2-inch thick strips and marinate at least 30 minutes in 3 tablespoons hoisin sauce, 3 tablespoons honey, 2 tablespoons soy sauce, 1 tablespoon Shaoxing wine, 1 teaspoon five-spice powder, and 3 cloves grated garlic.",
+      "Place pork on a wire rack set over a foil-lined sheet pan with 1/2 cup water in the bottom and roast at 400°F for 20 minutes.",
+      "Flip the pork, brush with remaining marinade mixed with 1 tablespoon honey, and roast 15 to 20 minutes more until sticky and charred at the edges; rest 10 minutes before slicing."
+    ]
+  },
+  {
+    "name": "Steamed Ginger Scallion Sea Bass",
+    "cuisine": [
+      "chinese",
+      "healthy"
+    ],
+    "effort": "easy",
+    "budget": "expensive",
+    "protien": "sea bass",
+    "dietary_restrictions": [
+      "pescatarian",
+      "dairy-free",
+      "peanut-free"
+    ],
+    "time": 25,
+    "ingredients": [
+      "sea bass fillets",
+      "ginger",
+      "green onions",
+      "soy sauce",
+      "shaoxing wine",
+      "sugar",
+      "sesame oil",
+      "neutral vegetable oil",
+      "cilantro"
+    ],
+    "instructions": [
+      "Place 2 sea bass fillets (1.25 lbs total) on a heatproof plate topped with julienned ginger and 1 tablespoon Shaoxing wine, and steam over boiling water for 8 to 10 minutes until opaque.",
+      "Discard excess steaming liquid, pile thinly sliced green onions and cilantro over the fish, and drizzle with 2 tablespoons soy sauce mixed with 1 teaspoon sugar.",
+      "Heat 2 tablespoons neutral oil and 1 teaspoon sesame oil until smoking and pour directly over the scallions to sizzle."
+    ]
+  },
+  {
+    "name": "Sesame Tofu & Snow Pea Stir-Fry",
+    "cuisine": [
+      "chinese",
+      "healthy"
+    ],
+    "effort": "easy",
+    "budget": "cheap",
+    "protien": "tofu",
+    "dietary_restrictions": [
+      "vegan",
+      "vegetarian",
+      "gluten-free",
+      "dairy-free",
+      "peanut-free"
+    ],
+    "time": 25,
+    "ingredients": [
+      "extra firm tofu",
+      "snow peas",
+      "red bell pepper",
+      "gluten-free tamari",
+      "maple syrup",
+      "rice vinegar",
+      "sesame oil",
+      "cornstarch",
+      "garlic",
+      "sesame seeds",
+      "vegetable oil"
+    ],
+    "instructions": [
+      "Cube 14 oz pressed extra-firm tofu, toss with 2 tablespoons cornstarch, and pan-fry in 2 tablespoons oil over medium-high heat for 6 minutes until crisp on all sides.",
+      "Add 2 cups trimmed snow peas, 1 sliced red bell pepper, and 2 cloves minced garlic; stir-fry 2 minutes.",
+      "Pour in 3 tablespoons gluten-free tamari, 1.5 tablespoons maple syrup, 1 tablespoon rice vinegar, and 1 teaspoon sesame oil; toss 1 minute until glazed and sprinkle with sesame seeds."
+    ]
+  },
+  {
+    "name": "Chicken Tinola (Ginger Papaya Chicken Soup)",
+    "cuisine": [
+      "filipino",
+      "healthy"
+    ],
+    "effort": "easy",
+    "budget": "cheap",
+    "protien": "chicken",
+    "dietary_restrictions": [
+      "gluten-free",
+      "dairy-free",
+      "soy-free",
+      "peanut-free"
+    ],
+    "time": 35,
+    "ingredients": [
+      "bone-in chicken pieces",
+      "ginger",
+      "garlic",
+      "yellow onion",
+      "green papaya or chayote",
+      "baby spinach",
+      "fish sauce",
+      "water",
+      "vegetable oil",
+      "black pepper"
+    ],
+    "instructions": [
+      "Sauté 2 tablespoons julienned ginger, 4 cloves crushed garlic, and 1 sliced onion in 1 tablespoon oil in a pot for 3 minutes until fragrant.",
+      "Add 1.5 lbs bone-in chicken pieces and 1 tablespoon fish sauce; sear 4 minutes, then pour in 6 cups water and simmer 15 minutes.",
+      "Add 2 cups peeled cubed chayote or green papaya and simmer 8 minutes until tender, then fold in 3 cups baby spinach for 1 minute."
+    ]
+  },
+  {
+    "name": "Pancit Bihon (Filipino Rice Noodle Stir-Fry)",
+    "cuisine": [
+      "filipino"
+    ],
+    "effort": "medium",
+    "budget": "cheap",
+    "protien": "chicken",
+    "dietary_restrictions": [
+      "gluten-free",
+      "dairy-free",
+      "peanut-free"
+    ],
+    "time": 35,
+    "ingredients": [
+      "thin rice vermicelli (bihon)",
+      "chicken breast",
+      "green cabbage",
+      "carrots",
+      "green beans",
+      "garlic",
+      "yellow onion",
+      "gluten-free tamari",
+      "chicken broth",
+      "calamansi or lemon wedges",
+      "vegetable oil",
+      "black pepper"
+    ],
+    "instructions": [
+      "Soak 8 oz thin rice vermicelli in warm water for 10 minutes, then drain.",
+      "Sauté 1 sliced onion, 4 cloves minced garlic, and 1 cup thinly sliced chicken breast in 2 tablespoons oil for 4 minutes.",
+      "Add 1 cup julienned carrots, 1 cup sliced green beans, and 2 cups shredded cabbage; stir-fry 2 minutes, then pour in 1.5 cups chicken broth and 3 tablespoons gluten-free tamari.",
+      "Toss in the softened rice noodles and cook 3 to 4 minutes until all liquid is absorbed; serve with lemon or calamansi wedges."
+    ]
+  },
+  {
+    "name": "Bicol Express (Spicy Coconut Pork Stew)",
+    "cuisine": [
+      "filipino"
+    ],
+    "effort": "medium",
+    "budget": "moderate",
+    "protien": "pork belly",
+    "dietary_restrictions": [
+      "gluten-free",
+      "dairy-free",
+      "soy-free",
+      "peanut-free"
+    ],
+    "time": 45,
+    "ingredients": [
+      "pork belly",
+      "coconut milk",
+      "coconut cream",
+      "shrimp paste (bagoong)",
+      "thai chilies",
+      "long green chilies",
+      "garlic",
+      "ginger",
+      "yellow onion"
+    ],
+    "instructions": [
+      "Sear 1.5 lbs bite-sized pork belly in a wide skillet over medium-high heat for 5 minutes until lightly browned and fat renders.",
+      "Add 1 diced onion, 5 cloves minced garlic, and 1 tablespoon minced ginger; sauté 3 minutes.",
+      "Stir in 1.5 tablespoons shrimp paste and 1 can (13.5 oz) coconut milk; simmer 20 minutes until pork is tender.",
+      "Add 1/2 cup thick coconut cream and sliced green and red chilies; simmer 5 minutes until rich and oily."
+    ]
+  },
+  {
+    "name": "Vegan Mushroom Sisig",
+    "cuisine": [
+      "filipino",
+      "junk"
+    ],
+    "effort": "medium",
+    "budget": "cheap",
+    "protien": "tofu",
+    "dietary_restrictions": [
+      "vegan",
+      "vegetarian",
+      "dairy-free",
+      "peanut-free"
+    ],
+    "time": 35,
+    "ingredients": [
+      "oyster mushrooms",
+      "extra firm tofu",
+      "red onion",
+      "jalapeno",
+      "garlic",
+      "soy sauce",
+      "calamansi or lime juice",
+      "vegan mayonnaise",
+      "vegetable oil",
+      "black pepper"
+    ],
+    "instructions": [
+      "Finely chop 12 oz oyster mushrooms and 8 oz pressed firm tofu; pan-fry in 2 tablespoons oil over high heat for 8 minutes until browned and crispy at the edges.",
+      "Add 4 cloves minced garlic, 1 finely diced red onion, and 1 minced jalapeño; cook 2 minutes.",
+      "Stir in 2 tablespoons soy sauce, 2 tablespoons lime juice, 1 tablespoon vegan mayo, and 1/2 teaspoon black pepper until sizzling and savory."
+    ]
+  },
+  {
+    "name": "Tortang Talong (Filipino Charred Eggplant Omelet)",
+    "cuisine": [
+      "filipino",
+      "healthy"
+    ],
+    "effort": "easy",
+    "budget": "cheap",
+    "protien": "eggs",
+    "dietary_restrictions": [
+      "vegetarian",
+      "gluten-free",
+      "dairy-free",
+      "soy-free",
+      "peanut-free"
+    ],
+    "time": 25,
+    "ingredients": [
+      "japanese eggplants",
+      "eggs",
+      "garlic",
+      "salt",
+      "black pepper",
+      "vegetable oil",
+      "banana ketchup or tomato ketchup"
+    ],
+    "instructions": [
+      "Roast 3 whole Japanese eggplants under a broiler or over a gas burner for 10 minutes until skin is charred and flesh is soft, then peel off the skin keeping the stem intact.",
+      "Flatten each peeled eggplant gently into a fan shape with a fork.",
+      "Whisk 4 eggs with 1 clove grated garlic, salt, and pepper, dip each eggplant into the beaten egg, and pan-fry in 1 tablespoon oil for 2 to 3 minutes per side until golden."
+    ]
+  },
+  {
+    "name": "Beef Kare-Kare (Savory Peanut Oxtail or Chuck Stew)",
+    "cuisine": [
+      "filipino"
+    ],
+    "effort": "hard",
+    "budget": "expensive",
+    "protien": "beef chuck",
+    "dietary_restrictions": [
+      "gluten-free",
+      "dairy-free",
+      "soy-free"
+    ],
+    "time": 95,
+    "ingredients": [
+      "beef chuck",
+      "creamy peanut butter",
+      "toasted rice flour",
+      "annatto powder",
+      "bok choy",
+      "long green beans",
+      "japanese eggplant",
+      "yellow onion",
+      "garlic",
+      "beef broth",
+      "salt"
+    ],
+    "instructions": [
+      "Simmer 2 lbs cubed beef chuck with 1 quartered onion and 4 cloves garlic in 5 cups beef broth for 65 minutes until tender.",
+      "Whisk 1/2 cup creamy peanut butter, 3 tablespoons toasted rice flour, and 1 teaspoon annatto powder with 1 cup warm broth until smooth, then stir into the pot.",
+      "Add sliced eggplant and cut green beans, simmer 6 minutes until tender, and fold in baby bok choy for 2 minutes."
+    ]
+  },
+  {
+    "name": "Lemon Orzo & Feta Chicken Skillet",
+    "cuisine": [
+      "greek",
+      "healthy"
+    ],
+    "effort": "easy",
+    "budget": "moderate",
+    "protien": "chicken breast",
+    "dietary_restrictions": [
+      "soy-free",
+      "peanut-free"
+    ],
+    "time": 30,
+    "ingredients": [
+      "chicken breast",
+      "orzo pasta",
+      "chicken broth",
+      "baby spinach",
+      "feta cheese",
+      "lemon",
+      "garlic",
+      "dried oregano",
+      "olive oil",
+      "salt",
+      "black pepper"
+    ],
+    "instructions": [
+      "Season 1 lb diced chicken breast with oregano, salt, and pepper; sear in 1 tablespoon olive oil in a deep skillet for 4 minutes until browned.",
+      "Add 1 cup dry orzo and 3 cloves minced garlic, toast 1 minute, then pour in 2.25 cups chicken broth and the juice of 1 lemon.",
+      "Simmer covered for 10 minutes until orzo is tender, then fold in 3 cups baby spinach and 1/2 cup crumbled feta cheese."
+    ]
+  },
+  {
+    "name": "Baked Briam (Greek Roasted Ratatouille)",
+    "cuisine": [
+      "greek",
+      "healthy"
+    ],
+    "effort": "easy",
+    "budget": "cheap",
+    "protien": "none",
+    "dietary_restrictions": [
+      "vegan",
+      "vegetarian",
+      "gluten-free",
+      "dairy-free",
+      "soy-free",
+      "peanut-free"
+    ],
+    "time": 55,
+    "ingredients": [
+      "zucchini",
+      "yukon gold potatoes",
+      "globe eggplant",
+      "red onion",
+      "crushed tomatoes",
+      "garlic",
+      "olive oil",
+      "dried oregano",
+      "fresh parsley",
+      "salt",
+      "black pepper"
+    ],
+    "instructions": [
+      "Thinly slice 2 zucchini, 2 potatoes, 1 eggplant, and 1 red onion into 1/4-inch rounds and arrange overlapping in a baking dish.",
+      "Whisk 1 cup crushed tomatoes, 1/3 cup olive oil, 4 cloves minced garlic, 1 tablespoon dried oregano, 1 teaspoon salt, and 1/2 teaspoon pepper, and pour evenly over the vegetables.",
+      "Cover with foil and bake at 400°F for 30 minutes, then uncover and bake 20 minutes more until tender and caramelized; top with fresh parsley."
+    ]
+  },
+  {
+    "name": "Greek Spanakorizo (Lemon Dill Spinach Rice)",
+    "cuisine": [
+      "greek",
+      "healthy"
+    ],
+    "effort": "easy",
+    "budget": "cheap",
+    "protien": "none",
+    "dietary_restrictions": [
+      "vegan",
+      "vegetarian",
+      "gluten-free",
+      "dairy-free",
+      "soy-free",
+      "peanut-free"
+    ],
+    "time": 30,
+    "ingredients": [
+      "arborio or medium-grain rice",
+      "fresh spinach",
+      "green onions",
+      "fresh dill",
+      "lemon juice",
+      "vegetable broth",
+      "olive oil",
+      "salt",
+      "black pepper"
+    ],
+    "instructions": [
+      "Sauté 5 sliced green onions in 3 tablespoons olive oil for 3 minutes, then stir in 1 cup medium-grain rice for 1 minute.",
+      "Add 2.5 cups vegetable broth and simmer covered for 12 minutes until rice is nearly tender.",
+      "Fold in 8 oz chopped fresh spinach, 1/2 cup chopped fresh dill, 3 tablespoons lemon juice, salt, and pepper; cook 3 minutes until creamy."
+    ]
+  },
+  {
+    "name": "Grilled Halloumi & Watermelon Mint Salad",
+    "cuisine": [
+      "greek",
+      "healthy"
+    ],
+    "effort": "easy",
+    "budget": "moderate",
+    "protien": "halloumi cheese",
+    "dietary_restrictions": [
+      "vegetarian",
+      "gluten-free",
+      "soy-free",
+      "peanut-free"
+    ],
+    "time": 15,
+    "ingredients": [
+      "halloumi cheese",
+      "seedless watermelon",
+      "cucumber",
+      "kalamata olives",
+      "fresh mint",
+      "olive oil",
+      "lime or lemon juice",
+      "black pepper"
+    ],
+    "instructions": [
+      "Slice 8 oz halloumi cheese into 1/3-inch slabs and sear in a dry nonstick skillet over medium-high heat for 2 minutes per side until golden brown.",
+      "Arrange 4 cups cubed chilled watermelon, 1 sliced cucumber, and 1/3 cup pitted Kalamata olives on a platter.",
+      "Top with the warm grilled halloumi, torn fresh mint leaves, a drizzle of olive oil, lemon juice, and cracked black pepper."
+    ]
+  },
+  {
+    "name": "Pastitsio (Greek Baked Pasta with Cinnamon Meat Sauce & Béchamel)",
+    "cuisine": [
+      "greek"
+    ],
+    "effort": "hard",
+    "budget": "moderate",
+    "protien": "ground beef",
+    "dietary_restrictions": [
+      "soy-free",
+      "peanut-free"
+    ],
+    "time": 85,
+    "ingredients": [
+      "penne or bucatini pasta",
+      "ground beef",
+      "yellow onion",
+      "crushed tomatoes",
+      "cinnamon",
+      "butter",
+      "all purpose flour",
+      "milk",
+      "parmesan cheese",
+      "nutmeg",
+      "olive oil",
+      "salt",
+      "black pepper"
+    ],
+    "instructions": [
+      "Brown 1 lb ground beef and 1 diced onion in 1 tablespoon olive oil, then simmer 15 minutes with 1.5 cups crushed tomatoes, 1/2 teaspoon cinnamon, salt, and pepper.",
+      "Boil 12 oz pasta until al dente and layer in a greased 9x13 baking dish, topped with the spiced beef sauce.",
+      "Whisk 4 tablespoons butter and 1/3 cup flour over medium heat for 2 minutes, gradually whisk in 3 cups warm milk until thick, and stir in 1/2 cup parmesan and a pinch of nutmeg.",
+      "Pour the béchamel over the meat layer and bake at 375°F for 35 minutes until golden brown."
+    ]
+  },
+  {
+    "name": "Chili Cheese Loaded Sweet Potato Fries",
+    "cuisine": [
+      "american",
+      "junk"
+    ],
+    "effort": "easy",
+    "budget": "cheap",
+    "protien": "black beans",
+    "dietary_restrictions": [
+      "vegetarian",
+      "gluten-free",
+      "soy-free",
+      "peanut-free"
+    ],
+    "time": 35,
+    "ingredients": [
+      "sweet potatoes",
+      "black bean chili",
+      "sharp cheddar cheese",
+      "green onions",
+      "sour cream",
+      "olive oil",
+      "garlic powder",
+      "salt"
+    ],
+    "instructions": [
+      "Cut 2 large sweet potatoes into fries, toss with 2 tablespoons olive oil, garlic powder, and salt, and bake at 425°F for 25 minutes until crisp.",
+      "Spoon 1.5 cups warm vegetarian black bean chili and 1 cup shredded sharp cheddar over the hot fries and bake 5 minutes until melted.",
+      "Top with dollops of sour cream and sliced green onions."
+    ]
+  },
+  {
+    "name": "Crispy Korean-Italian Gochujang Vodka Rigatoni",
+    "cuisine": [
+      "korean",
+      "italian",
+      "junk"
+    ],
+    "effort": "easy",
+    "budget": "cheap",
+    "protien": "cheese",
+    "dietary_restrictions": [
+      "vegetarian",
+      "peanut-free"
+    ],
+    "time": 25,
+    "ingredients": [
+      "rigatoni pasta",
+      "gochujang",
+      "tomato paste",
+      "heavy cream",
+      "garlic",
+      "shallot",
+      "parmesan cheese",
+      "green onion",
+      "olive oil",
+      "salt"
+    ],
+    "instructions": [
+      "Boil 12 oz rigatoni in salted water until al dente, reserving 3/4 cup pasta water.",
+      "Sauté 1 minced shallot and 3 cloves minced garlic in 2 tablespoons olive oil for 2 minutes, then cook 2 tablespoons gochujang and 2 tablespoons tomato paste for 2 minutes until caramelized.",
+      "Stir in 1/2 cup heavy cream, toss in the rigatoni, 1/2 cup grated parmesan, and splashes of pasta water until glossy, and garnish with sliced scallions."
+    ]
+  },
+  {
+    "name": "Thai-Inspired Peanut Noodle & Crispy Tofu Bowl",
+    "cuisine": [
+      "chinese",
+      "healthy"
+    ],
+    "effort": "easy",
+    "budget": "cheap",
+    "protien": "tofu",
+    "dietary_restrictions": [
+      "vegan",
+      "vegetarian",
+      "gluten-free",
+      "dairy-free"
+    ],
+    "time": 25,
+    "ingredients": [
+      "rice noodles",
+      "extra firm tofu",
+      "creamy peanut butter",
+      "gluten-free tamari",
+      "lime juice",
+      "maple syrup",
+      "sriracha",
+      "garlic",
+      "shredded red cabbage",
+      "carrot",
+      "cilantro",
+      "vegetable oil"
+    ],
+    "instructions": [
+      "Pan-sear 14 oz cubed extra-firm tofu in 1 tablespoon oil over medium-high heat for 7 minutes until golden brown.",
+      "Whisk 1/3 cup creamy peanut butter, 2 tablespoons gluten-free tamari, 2 tablespoons lime juice, 1 tablespoon maple syrup, 1 teaspoon sriracha, 1 grated garlic clove, and 3 tablespoons warm water until smooth.",
+      "Toss 8 oz cooked rice noodles with the peanut sauce, shredded purple cabbage, julienned carrots, crispy tofu, and fresh cilantro."
     ]
   }
 ]
